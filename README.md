@@ -9,3 +9,5 @@
 - Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
 
 ## Technologies used ⚙️
+
+* <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"></a> 
