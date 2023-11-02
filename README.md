@@ -16,6 +16,10 @@
 - [Data Analysis Using Tableau](#data-analysis-using-tableau)
 - [MySql Appendix](#mysql-appendix)
 
+## 📚 Entity Relationship Diagram
+
+![image](https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/ERD.png)
+
 ## Technologies used 
 
 * <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/> </a> 
