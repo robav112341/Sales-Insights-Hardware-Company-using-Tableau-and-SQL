@@ -44,7 +44,7 @@ Sales director is keen on evaluating the company's performance using various key
 
 ## Setup Process
   
-Step 1: Download file: <code>[db_dump_version_2.sqll]https://github.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/blob/main/India%20based%20hardware%20company/DB/db_dump_version_2.sql</code>
+Step 1: Download file: <code>[db_dump_version_2.sql]https://github.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/blob/main/India%20based%20hardware%20company/DB/db_dump_version_2.sql</code>
 
 Step 2: Open the file in MySQL, Extract data from the database using SQL.
   
