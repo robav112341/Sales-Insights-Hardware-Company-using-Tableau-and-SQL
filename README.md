@@ -27,3 +27,22 @@ Sales director is keen on evaluating the company's performance using various key
 - Top 5 Products by revenue.
   
 - Net Profit & Profit Margin by Market
+
+## Setup Process
+  
+Step 1: Download file: <code></code>
+
+Step 2: Open the file in MySQL, Extract data from the database using SQL.
+  
+Step 4: Connect Tableau with MySql database or Excel database.
+  
+Step 5: Develop dashboards which could be used to gain insights from sales data.
+
+## Data Analysis Using Tableau 
+
+In order to provide a comprehensive view of the sales data, I decided to develop two distinct dashboards, each catering to a specific perspective - one focused on revenue and the other on net profit. While both dashboards contain similar information, they present it in terms of either profit or revenue, offering a well-rounded analysis of the data.
+
+#### Revenue Dashboard 
+
+
+#### Profit Dashboard 
