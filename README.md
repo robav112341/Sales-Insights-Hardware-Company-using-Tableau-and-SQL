@@ -47,3 +47,5 @@ In order to provide a comprehensive view of the sales data, I decided to develop
 <p  align="center"><a href="https://public.tableau.com/views/RevenueAnalysis_16988522446180/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/Tableau%20Files/Revenue%20Analysis.jpg" /></a></p>
 
 #### Profit Dashboard 
+
+<p  align="center"><a href="https://public.tableau.com/views/ProfitAnalysis_16988364274580/ProfitDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/Tableau%20Files/Profit%20Dashboard.jpg" /></a></p>
