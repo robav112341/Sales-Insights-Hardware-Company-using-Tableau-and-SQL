@@ -1,0 +1,1247 @@
+order_date,year,month,custmer_name,revenue,products
+2017-12-22,2017,December,"Acclaimed Stores",558922,767
+2017-12-01,2017,December,All-Out,343831,480
+2017-12-04,2017,December,"Atlas Stores",443588,733
+2017-12-14,2017,December,Control,920308,1002
+2017-12-01,2017,December,"Electricalsara Stores",13035184,22333
+2017-12-07,2017,December,"Electricalsbea Stores",9270,16
+2017-12-01,2017,December,"Electricalslance Stores",39312,207
+2017-12-07,2017,December,Electricalslytical,3544056,3910
+2017-12-21,2017,December,Electricalsocity,297443,608
+2017-12-12,2017,December,"Electricalsopedia Stores",365100,2968
+2017-12-04,2017,December,"Electricalsquipo Stores",23438,218
+2017-12-14,2017,December,Elite,198406,183
+2017-12-13,2017,December,"Epic Stores",480767,1843
+2017-12-05,2017,December,"Excel Stores",1026073,4147
+2017-12-22,2017,December,Expression,13853,117
+2017-12-04,2017,December,"Flawless Stores",194094,168
+2017-12-27,2017,December,"Forward Stores",557462,977
+2017-12-01,2017,December,"Info Stores",708605,1991
+2017-12-07,2017,December,Insight,16703,39
+2017-12-07,2017,December,"Integration Stores",457953,710
+2017-12-01,2017,December,Leader,754745,1107
+2017-12-01,2017,December,"Logic Stores",363144,295
+2017-12-06,2017,December,Modular,318111,1226
+2017-12-06,2017,December,Nixon,1781242,3481
+2017-12-05,2017,December,"Nomad Stores",519730,972
+2017-12-07,2017,December,Novus,38550,56
+2017-12-04,2017,December,Path,310728,427
+2017-12-04,2017,December,Power,349772,1114
+2017-12-01,2017,December,"Premium Stores",1409930,12514
+2017-12-05,2017,December,Propel,139948,298
+2017-12-13,2017,December,Relief,105004,335
+2017-12-01,2017,December,Sage,13968,85
+2017-12-05,2017,December,Sound,177249,1538
+2017-12-20,2017,December,"Surface Stores",565402,5608
+2017-12-11,2017,December,"Surge Stores",776930,5335
+2017-12-01,2017,December,Synthetic,402394,855
+2017-12-05,2017,December,"Unity Stores",429606,554
+2017-12-01,2017,December,Zone,105855,202
+2017-11-15,2017,November,"Acclaimed Stores",608216,659
+2017-11-03,2017,November,All-Out,367539,352
+2017-11-06,2017,November,"Atlas Stores",532904,663
+2017-11-21,2017,November,Control,943439,1241
+2017-11-10,2017,November,"Electricalsara Stores",14465189,25837
+2017-11-03,2017,November,"Electricalsbea Stores",3097,3
+2017-11-02,2017,November,"Electricalslance Stores",21395,117
+2017-11-21,2017,November,Electricalslytical,1339803,2403
+2017-11-13,2017,November,Electricalsocity,495064,659
+2017-11-15,2017,November,"Electricalsopedia Stores",522867,3980
+2017-11-01,2017,November,"Electricalsquipo Stores",87003,374
+2017-11-16,2017,November,Elite,326635,388
+2017-11-02,2017,November,"Epic Stores",452109,1951
+2017-11-07,2017,November,"Excel Stores",1501851,3723
+2017-11-29,2017,November,Expression,10846,103
+2017-11-07,2017,November,"Flawless Stores",152911,131
+2017-11-06,2017,November,"Forward Stores",617034,923
+2017-11-03,2017,November,"Info Stores",902214,2280
+2017-11-15,2017,November,Insight,152746,257
+2017-11-02,2017,November,"Integration Stores",514838,727
+2017-11-03,2017,November,"Logic Stores",306832,322
+2017-11-02,2017,November,Modular,404882,1777
+2017-11-08,2017,November,Nixon,3613560,6017
+2017-11-07,2017,November,"Nomad Stores",590805,1062
+2017-11-02,2017,November,Novus,175007,253
+2017-11-08,2017,November,Path,483743,644
+2017-11-03,2017,November,Power,110663,404
+2017-11-01,2017,November,"Premium Stores",2310041,14597
+2017-11-03,2017,November,Propel,135358,193
+2017-11-02,2017,November,Relief,126494,284
+2017-11-20,2017,November,Sage,323889,4400
+2017-11-06,2017,November,Sound,349069,675
+2017-11-06,2017,November,"Surface Stores",495871,3086
+2017-11-06,2017,November,"Surge Stores",768655,6489
+2017-11-02,2017,November,Synthetic,494672,1032
+2017-11-07,2017,November,"Unity Stores",245204,285
+2017-11-02,2017,November,Zone,46515,157
+2017-10-11,2017,October,"Acclaimed Stores",534789,655
+2017-10-13,2017,October,All-Out,169107,228
+2017-10-04,2017,October,"Atlas Stores",783238,942
+2017-10-12,2017,October,Control,717979,414
+2017-10-12,2017,October,"Electricalsara Stores",8598046,15756
+2017-10-10,2017,October,"Electricalslance Stores",26786,147
+2017-10-20,2017,October,Electricalslytical,1251944,1700
+2017-10-25,2017,October,Electricalsocity,259996,416
+2017-10-24,2017,October,"Electricalsopedia Stores",266126,2062
+2017-10-13,2017,October,"Electricalsquipo Stores",61089,396
+2017-10-09,2017,October,Elite,309077,318
+2017-10-20,2017,October,"Epic Stores",463679,1673
+2017-10-11,2017,October,"Excel Stores",2072137,4165
+2017-10-27,2017,October,Expression,16217,166
+2017-10-06,2017,October,"Flawless Stores",174006,145
+2017-10-19,2017,October,"Forward Stores",444277,866
+2017-10-09,2017,October,"Info Stores",814121,2773
+2017-10-17,2017,October,Insight,42436,4047
+2017-10-05,2017,October,"Integration Stores",396719,543
+2017-10-18,2017,October,Leader,386551,602
+2017-10-06,2017,October,"Logic Stores",366308,359
+2017-10-19,2017,October,Modular,162306,576
+2017-10-11,2017,October,Nixon,2519893,3596
+2017-10-06,2017,October,"Nomad Stores",505642,925
+2017-10-11,2017,October,Novus,50366,67
+2017-10-23,2017,October,Path,266262,390
+2017-10-18,2017,October,Power,110417,312
+2017-10-31,2017,October,"Premium Stores",1517691,11656
+2017-10-10,2017,October,Propel,104969,153
+2017-10-11,2017,October,Relief,88704,237
+2017-10-11,2017,October,Sage,3717,17
+2017-10-12,2017,October,Sound,57148,76
+2017-10-24,2017,October,"Surface Stores",309458,3313
+2017-10-10,2017,October,"Surge Stores",1436632,5530
+2017-10-05,2017,October,Synthetic,342110,709
+2017-10-20,2017,October,"Unity Stores",186625,218
+2017-10-13,2017,October,Zone,270449,447
+2018-04-17,2018,April,"Acclaimed Stores",873125,1331
+2018-04-06,2018,April,All-Out,141803,301
+2018-04-09,2018,April,"Atlas Stores",1013881,1446
+2018-04-17,2018,April,Control,1201821,1295
+2018-04-03,2018,April,"Electricalsara Stores",15745520,23360
+2018-04-12,2018,April,"Electricalsbea Stores",2713,8
+2018-04-04,2018,April,"Electricalslance Stores",50233,347
+2018-04-04,2018,April,Electricalslytical,899621,1685
+2018-04-09,2018,April,Electricalsocity,893724,1399
+2018-04-09,2018,April,"Electricalsopedia Stores",337051,2630
+2018-04-03,2018,April,"Electricalsquipo Stores",115945,3851
+2018-04-13,2018,April,Elite,92247,142
+2018-04-03,2018,April,"Epic Stores",787513,2058
+2018-04-03,2018,April,"Excel Stores",2106300,3873
+2018-04-12,2018,April,Expression,4505,63
+2018-04-03,2018,April,"Flawless Stores",425073,2991
+2018-04-30,2018,April,"Forward Stores",727863,1093
+2018-04-03,2018,April,"Info Stores",973168,1529
+2018-04-11,2018,April,Insight,211406,351
+2018-04-05,2018,April,"Integration Stores",665335,1238
+2018-04-19,2018,April,Leader,678108,1402
+2018-04-03,2018,April,"Logic Stores",16731,52
+2018-04-05,2018,April,Modular,463534,1683
+2018-04-16,2018,April,Nixon,701284,3323
+2018-04-02,2018,April,"Nomad Stores",1376253,1650
+2018-04-03,2018,April,Novus,94112,369
+2018-04-09,2018,April,Path,334849,478
+2018-04-10,2018,April,Power,217770,527
+2018-04-06,2018,April,"Premium Stores",1696845,14333
+2018-04-13,2018,April,Propel,145986,458
+2018-04-13,2018,April,Relief,148620,347
+2018-04-09,2018,April,Sage,9462,35
+2018-04-12,2018,April,Sound,145274,431
+2018-04-19,2018,April,"Surface Stores",465291,5927
+2018-04-12,2018,April,"Surge Stores",1589209,8839
+2018-04-04,2018,April,Synthetic,84000,192
+2018-04-27,2018,April,"Unity Stores",350517,374
+2018-04-09,2018,April,Zone,105211,233
+2018-08-29,2018,August,"Acclaimed Stores",644255,933
+2018-08-31,2018,August,All-Out,200223,569
+2018-08-01,2018,August,"Atlas Stores",599483,797
+2018-08-16,2018,August,Control,861100,1562
+2018-08-23,2018,August,"Electricalsara Stores",19286740,27623
+2018-08-08,2018,August,"Electricalsbea Stores",11154,19
+2018-08-01,2018,August,"Electricalslance Stores",26240,136
+2018-08-20,2018,August,Electricalslytical,1677588,2948
+2018-08-02,2018,August,Electricalsocity,522320,873
+2018-08-01,2018,August,"Electricalsopedia Stores",337135,2361
+2018-08-02,2018,August,"Electricalsquipo Stores",32440,493
+2018-08-01,2018,August,Elite,61097,225
+2018-08-02,2018,August,"Epic Stores",560216,2006
+2018-08-09,2018,August,"Excel Stores",1722131,5536
+2018-08-17,2018,August,Expression,4663,69
+2018-08-07,2018,August,"Flawless Stores",482051,3593
+2018-08-07,2018,August,"Forward Stores",1192884,1529
+2018-08-03,2018,August,"Info Stores",1442033,1313
+2018-08-02,2018,August,Insight,144061,2868
+2018-08-02,2018,August,"Integration Stores",508294,812
+2018-08-27,2018,August,Leader,595556,800
+2018-08-03,2018,August,"Logic Stores",17479,46
+2018-08-03,2018,August,Modular,983960,3868
+2018-08-02,2018,August,Nixon,1709272,5833
+2018-08-03,2018,August,"Nomad Stores",649080,1084
+2018-08-01,2018,August,Novus,94280,171
+2018-08-09,2018,August,Path,455412,692
+2018-08-01,2018,August,Power,183385,603
+2018-08-09,2018,August,"Premium Stores",1313134,6993
+2018-08-03,2018,August,Propel,141219,231
+2018-08-13,2018,August,Relief,132760,395
+2018-08-07,2018,August,Sage,28461,22
+2018-08-01,2018,August,Sound,205952,2291
+2018-08-14,2018,August,"Surface Stores",635513,6111
+2018-08-06,2018,August,"Surge Stores",1157797,4427
+2018-08-07,2018,August,Synthetic,118661,686
+2018-08-03,2018,August,"Unity Stores",501708,559
+2018-08-10,2018,August,Zone,214730,406
+2018-12-11,2018,December,"Acclaimed Stores",581975,797
+2018-12-07,2018,December,All-Out,177220,345
+2018-12-05,2018,December,"Atlas Stores",271041,451
+2018-12-17,2018,December,Control,1040547,1626
+2018-12-10,2018,December,"Electricalsara Stores",14108669,17499
+2018-12-10,2018,December,"Electricalsbea Stores",2037,6
+2018-12-04,2018,December,"Electricalslance Stores",34671,165
+2018-12-04,2018,December,Electricalslytical,1563499,2041
+2018-12-20,2018,December,Electricalsocity,668188,1074
+2018-12-04,2018,December,"Electricalsopedia Stores",272928,1742
+2018-12-04,2018,December,"Electricalsquipo Stores",40329,206
+2018-12-05,2018,December,Elite,62215,78
+2018-12-07,2018,December,"Epic Stores",499745,1430
+2018-12-27,2018,December,"Excel Stores",777315,3552
+2018-12-03,2018,December,Expression,5171,57
+2018-12-03,2018,December,"Flawless Stores",208345,193
+2018-12-11,2018,December,"Forward Stores",443565,642
+2018-12-04,2018,December,"Info Stores",516242,628
+2018-12-14,2018,December,Insight,136666,4200
+2018-12-06,2018,December,"Integration Stores",435876,707
+2018-12-13,2018,December,Leader,592,5
+2018-12-07,2018,December,"Logic Stores",749495,456
+2018-12-05,2018,December,Modular,426221,1551
+2018-12-03,2018,December,Nixon,2869403,5036
+2018-12-04,2018,December,"Nomad Stores",434004,686
+2018-12-04,2018,December,Novus,60713,101
+2018-12-03,2018,December,Path,713031,771
+2018-12-05,2018,December,Power,282646,648
+2018-12-28,2018,December,"Premium Stores",1311862,10507
+2018-12-04,2018,December,Propel,111265,226
+2018-12-14,2018,December,Relief,73451,138
+2018-12-05,2018,December,Sage,11556,26
+2018-12-11,2018,December,Sound,75122,183
+2018-12-14,2018,December,"Surface Stores",265457,1484
+2018-12-03,2018,December,"Surge Stores",622885,4203
+2018-12-13,2018,December,Synthetic,96732,240
+2018-12-06,2018,December,"Unity Stores",352677,427
+2018-12-07,2018,December,Zone,100770,172
+2018-02-14,2018,February,"Acclaimed Stores",1699440,1828
+2018-02-02,2018,February,All-Out,192335,277
+2018-02-02,2018,February,"Atlas Stores",368039,538
+2018-02-05,2018,February,Control,1112490,1670
+2018-02-07,2018,February,"Electricalsara Stores",11448394,18700
+2018-02-15,2018,February,"Electricalsbea Stores",16995,20
+2018-02-01,2018,February,"Electricalslance Stores",42345,238
+2018-02-01,2018,February,Electricalslytical,2311857,3429
+2018-02-13,2018,February,Electricalsocity,1403818,1367
+2018-02-07,2018,February,"Electricalsopedia Stores",321057,2515
+2018-02-19,2018,February,"Electricalsquipo Stores",42856,173
+2018-02-16,2018,February,Elite,279954,323
+2018-02-02,2018,February,"Epic Stores",451770,1796
+2018-02-01,2018,February,"Excel Stores",926129,2962
+2018-02-06,2018,February,Expression,11209,100
+2018-02-02,2018,February,"Flawless Stores",460599,5080
+2018-02-19,2018,February,"Forward Stores",562347,716
+2018-02-02,2018,February,"Info Stores",910644,2522
+2018-02-21,2018,February,Insight,315377,400
+2018-02-01,2018,February,"Integration Stores",395819,674
+2018-02-23,2018,February,Leader,1338264,1798
+2018-02-02,2018,February,"Logic Stores",297184,250
+2018-02-02,2018,February,Modular,272591,1024
+2018-02-08,2018,February,Nixon,3336314,5365
+2018-02-02,2018,February,"Nomad Stores",521659,885
+2018-02-07,2018,February,Novus,63034,80
+2018-02-27,2018,February,Path,820143,901
+2018-02-08,2018,February,Power,137332,397
+2018-02-16,2018,February,"Premium Stores",1542461,15060
+2018-02-02,2018,February,Propel,117536,185
+2018-02-09,2018,February,Relief,239916,615
+2018-02-16,2018,February,Sage,346278,4413
+2018-02-07,2018,February,Sound,170021,242
+2018-02-22,2018,February,"Surface Stores",411375,3920
+2018-02-08,2018,February,"Surge Stores",1320091,5721
+2018-02-01,2018,February,Synthetic,354482,735
+2018-02-02,2018,February,"Unity Stores",587310,476
+2018-02-02,2018,February,Zone,94501,188
+2018-01-29,2018,January,"Acclaimed Stores",1321647,1129
+2018-01-12,2018,January,All-Out,228586,334
+2018-01-05,2018,January,"Atlas Stores",444040,681
+2018-01-02,2018,January,Control,867809,1406
+2018-01-02,2018,January,"Electricalsara Stores",19402545,25967
+2018-01-04,2018,January,"Electricalsbea Stores",7251,11
+2018-01-02,2018,January,"Electricalslance Stores",78993,473
+2018-01-23,2018,January,Electricalslytical,1859952,2116
+2018-01-10,2018,January,Electricalsocity,1152424,1418
+2018-01-02,2018,January,"Electricalsopedia Stores",349447,2616
+2018-01-02,2018,January,"Electricalsquipo Stores",52823,282
+2018-01-26,2018,January,Elite,358857,368
+2018-01-10,2018,January,"Epic Stores",546387,1941
+2018-01-05,2018,January,"Excel Stores",1271548,3514
+2018-01-11,2018,January,Expression,15578,122
+2018-01-03,2018,January,"Flawless Stores",275349,2683
+2018-01-24,2018,January,"Forward Stores",649594,1125
+2018-01-02,2018,January,"Info Stores",764613,2595
+2018-01-23,2018,January,Insight,17769,127
+2018-01-02,2018,January,"Integration Stores",365453,679
+2018-01-29,2018,January,Leader,1101218,1562
+2018-01-05,2018,January,"Logic Stores",598540,416
+2018-01-03,2018,January,Modular,556122,2039
+2018-01-05,2018,January,Nixon,2572204,4570
+2018-01-02,2018,January,"Nomad Stores",703267,1281
+2018-01-03,2018,January,Novus,39912,67
+2018-01-08,2018,January,Path,275693,394
+2018-01-01,2018,January,Power,169871,541
+2018-01-04,2018,January,"Premium Stores",1586974,5904
+2018-01-02,2018,January,Propel,170461,544
+2018-01-10,2018,January,Relief,129212,317
+2018-01-12,2018,January,Sage,684597,8828
+2018-01-10,2018,January,Sound,196107,302
+2018-01-11,2018,January,"Surface Stores",439034,3403
+2018-01-10,2018,January,"Surge Stores",2208930,5820
+2018-01-05,2018,January,Synthetic,342700,1364
+2018-01-02,2018,January,"Unity Stores",438801,431
+2018-01-02,2018,January,Zone,276184,503
+2018-07-04,2018,July,"Acclaimed Stores",373200,658
+2018-07-06,2018,July,All-Out,175158,373
+2018-07-03,2018,July,"Atlas Stores",350870,585
+2018-07-11,2018,July,Control,835433,1603
+2018-07-12,2018,July,"Electricalsara Stores",17407606,26220
+2018-07-03,2018,July,"Electricalsbea Stores",32145,38
+2018-07-02,2018,July,"Electricalslance Stores",39847,198
+2018-07-18,2018,July,Electricalslytical,1083444,1922
+2018-07-30,2018,July,Electricalsocity,871577,965
+2018-07-05,2018,July,"Electricalsopedia Stores",396750,2663
+2018-07-02,2018,July,"Electricalsquipo Stores",34504,318
+2018-07-02,2018,July,Elite,125189,247
+2018-07-09,2018,July,"Epic Stores",712894,4615
+2018-07-05,2018,July,"Excel Stores",1268369,2633
+2018-07-04,2018,July,Expression,5801,52
+2018-07-02,2018,July,"Flawless Stores",304224,505
+2018-07-05,2018,July,"Forward Stores",510745,759
+2018-07-06,2018,July,"Info Stores",1867124,2043
+2018-07-04,2018,July,Insight,61821,189
+2018-07-19,2018,July,"Integration Stores",442055,1002
+2018-07-17,2018,July,Leader,810329,1402
+2018-07-06,2018,July,"Logic Stores",22146,49
+2018-07-11,2018,July,Modular,857437,2820
+2018-07-03,2018,July,Nixon,1697145,5294
+2018-07-03,2018,July,"Nomad Stores",650547,1046
+2018-07-04,2018,July,Novus,50498,119
+2018-07-04,2018,July,Path,215444,472
+2018-07-09,2018,July,Power,204742,616
+2018-07-02,2018,July,"Premium Stores",2490951,19593
+2018-07-06,2018,July,Propel,138524,265
+2018-07-20,2018,July,Relief,179318,760
+2018-07-24,2018,July,Sage,42445,192
+2018-07-09,2018,July,Sound,91302,208
+2018-07-05,2018,July,"Surface Stores",411563,2178
+2018-07-13,2018,July,"Surge Stores",478441,3689
+2018-07-03,2018,July,Synthetic,76696,199
+2018-07-10,2018,July,"Unity Stores",496395,829
+2018-07-06,2018,July,Zone,162490,294
+2018-06-08,2018,June,"Acclaimed Stores",739770,942
+2018-06-01,2018,June,All-Out,178273,396
+2018-06-01,2018,June,"Atlas Stores",773730,920
+2018-06-15,2018,June,Control,924099,1619
+2018-06-22,2018,June,"Electricalsara Stores",14433322,25741
+2018-06-13,2018,June,"Electricalsbea Stores",5247,8
+2018-06-01,2018,June,"Electricalslance Stores",95656,630
+2018-06-18,2018,June,Electricalslytical,1173287,1941
+2018-06-08,2018,June,Electricalsocity,350584,616
+2018-06-01,2018,June,"Electricalsopedia Stores",476388,3893
+2018-06-12,2018,June,"Electricalsquipo Stores",49597,798
+2018-06-11,2018,June,Elite,148784,255
+2018-06-01,2018,June,"Epic Stores",488384,2659
+2018-06-07,2018,June,"Excel Stores",1847890,4539
+2018-06-06,2018,June,Expression,15054,129
+2018-06-01,2018,June,"Flawless Stores",395794,1041
+2018-06-26,2018,June,"Forward Stores",816157,1145
+2018-06-04,2018,June,"Info Stores",2367014,1981
+2018-06-06,2018,June,Insight,168143,198
+2018-06-13,2018,June,"Integration Stores",638352,955
+2018-06-18,2018,June,Leader,789536,1305
+2018-06-01,2018,June,"Logic Stores",26228,70
+2018-06-06,2018,June,Modular,986887,3936
+2018-06-08,2018,June,Nixon,996977,3780
+2018-06-01,2018,June,"Nomad Stores",553886,1012
+2018-06-06,2018,June,Novus,69804,125
+2018-06-08,2018,June,Path,607233,690
+2018-06-18,2018,June,Power,152137,551
+2018-06-14,2018,June,"Premium Stores",1798432,7585
+2018-06-08,2018,June,Propel,105432,206
+2018-06-14,2018,June,Relief,73076,192
+2018-06-25,2018,June,Sage,25704,20
+2018-06-04,2018,June,Sound,195217,2233
+2018-06-06,2018,June,"Surface Stores",609089,7973
+2018-06-11,2018,June,"Surge Stores",692600,4842
+2018-06-13,2018,June,Synthetic,99198,647
+2018-06-12,2018,June,"Unity Stores",739140,1040
+2018-06-08,2018,June,Zone,138196,255
+2018-03-21,2018,March,"Acclaimed Stores",702839,666
+2018-03-02,2018,March,All-Out,467895,644
+2018-03-02,2018,March,"Atlas Stores",488629,781
+2018-03-14,2018,March,Control,3115146,3844
+2018-03-08,2018,March,"Electricalsara Stores",12769952,22548
+2018-03-07,2018,March,"Electricalsbea Stores",7130,11
+2018-03-02,2018,March,"Electricalslance Stores",46247,224
+2018-03-13,2018,March,Electricalslytical,2710406,2854
+2018-03-23,2018,March,Electricalsocity,523165,864
+2018-03-05,2018,March,"Electricalsopedia Stores",279022,2028
+2018-03-05,2018,March,"Electricalsquipo Stores",120817,3987
+2018-03-05,2018,March,Elite,225855,236
+2018-03-01,2018,March,"Epic Stores",553888,2591
+2018-03-05,2018,March,"Excel Stores",2211038,6016
+2018-03-15,2018,March,Expression,22219,204
+2018-03-01,2018,March,"Flawless Stores",670978,1750
+2018-03-15,2018,March,"Forward Stores",1880102,2126
+2018-03-02,2018,March,"Info Stores",1210615,2822
+2018-03-15,2018,March,Insight,114927,253
+2018-03-01,2018,March,"Integration Stores",653051,1011
+2018-03-06,2018,March,Leader,607848,823
+2018-03-02,2018,March,"Logic Stores",83618,72
+2018-03-02,2018,March,Modular,583010,2243
+2018-03-09,2018,March,Nixon,2372901,4175
+2018-03-02,2018,March,"Nomad Stores",627567,1109
+2018-03-07,2018,March,Novus,70621,109
+2018-03-28,2018,March,Path,394615,607
+2018-03-02,2018,March,Power,92296,420
+2018-03-06,2018,March,"Premium Stores",1622657,9861
+2018-03-02,2018,March,Propel,189861,254
+2018-03-06,2018,March,Relief,267484,331
+2018-03-19,2018,March,Sage,15620,106
+2018-03-09,2018,March,Sound,125731,442
+2018-03-20,2018,March,"Surface Stores",877614,8280
+2018-03-01,2018,March,"Surge Stores",830549,4540
+2018-03-01,2018,March,Synthetic,223199,780
+2018-03-14,2018,March,"Unity Stores",346610,574
+2018-03-02,2018,March,Zone,47433,151
+2018-05-23,2018,May,"Acclaimed Stores",591735,736
+2018-05-04,2018,May,All-Out,125789,259
+2018-05-02,2018,May,"Atlas Stores",472780,924
+2018-05-28,2018,May,Control,2162873,2228
+2018-05-02,2018,May,"Electricalsara Stores",13061010,23074
+2018-05-24,2018,May,"Electricalsbea Stores",24287,25
+2018-05-04,2018,May,"Electricalslance Stores",40627,211
+2018-05-03,2018,May,Electricalslytical,1503928,4287
+2018-05-15,2018,May,Electricalsocity,795158,1198
+2018-05-02,2018,May,"Electricalsopedia Stores",397631,3482
+2018-05-03,2018,May,"Electricalsquipo Stores",35328,226
+2018-05-02,2018,May,Elite,108121,248
+2018-05-04,2018,May,"Epic Stores",769288,3064
+2018-05-26,2018,May,"Excel Stores",1509901,3485
+2018-05-09,2018,May,Expression,10314,107
+2018-05-14,2018,May,"Flawless Stores",303974,1707
+2018-05-09,2018,May,"Forward Stores",570188,818
+2018-05-07,2018,May,"Info Stores",1465849,4536
+2018-05-16,2018,May,Insight,72690,237
+2018-05-11,2018,May,"Integration Stores",436733,762
+2018-05-24,2018,May,Leader,648890,1280
+2018-05-18,2018,May,"Logic Stores",9440,30
+2018-05-04,2018,May,Modular,337005,1324
+2018-05-02,2018,May,Nixon,1380185,4419
+2018-05-02,2018,May,"Nomad Stores",506662,819
+2018-05-02,2018,May,Novus,54303,106
+2018-05-08,2018,May,Path,196857,359
+2018-05-02,2018,May,Power,281786,823
+2018-05-03,2018,May,"Premium Stores",1660540,13529
+2018-05-04,2018,May,Propel,105764,196
+2018-05-02,2018,May,Relief,167564,529
+2018-05-04,2018,May,Sage,5551,30
+2018-05-29,2018,May,Sound,103850,291
+2018-05-03,2018,May,"Surface Stores",717252,5064
+2018-05-15,2018,May,"Surge Stores",1030684,11245
+2018-05-30,2018,May,Synthetic,46890,155
+2018-05-08,2018,May,"Unity Stores",338322,421
+2018-05-18,2018,May,Zone,138601,291
+2018-11-20,2018,November,"Acclaimed Stores",392953,754
+2018-11-02,2018,November,All-Out,183983,304
+2018-11-06,2018,November,"Atlas Stores",711948,906
+2018-11-06,2018,November,Control,703430,1180
+2018-11-02,2018,November,"Electricalsara Stores",13798459,21157
+2018-11-14,2018,November,"Electricalsbea Stores",2038,6
+2018-11-02,2018,November,"Electricalslance Stores",36906,186
+2018-11-12,2018,November,Electricalslytical,1276558,1880
+2018-11-09,2018,November,Electricalsocity,727596,1317
+2018-11-02,2018,November,"Electricalsopedia Stores",370597,3019
+2018-11-14,2018,November,"Electricalsquipo Stores",60865,951
+2018-11-13,2018,November,Elite,148834,124
+2018-11-02,2018,November,"Epic Stores",608938,3825
+2018-11-02,2018,November,"Excel Stores",1261172,6698
+2018-11-05,2018,November,Expression,1861,19
+2018-11-05,2018,November,"Flawless Stores",287370,199
+2018-11-02,2018,November,"Forward Stores",944434,1179
+2018-11-05,2018,November,"Info Stores",1386890,1228
+2018-11-08,2018,November,Insight,62198,4074
+2018-11-02,2018,November,"Integration Stores",488844,846
+2018-11-29,2018,November,Leader,184810,252
+2018-11-02,2018,November,"Logic Stores",798046,492
+2018-11-02,2018,November,Modular,489682,1877
+2018-11-05,2018,November,Nixon,1538411,3727
+2018-11-02,2018,November,"Nomad Stores",594912,970
+2018-11-07,2018,November,Novus,97933,148
+2018-11-06,2018,November,Path,423118,605
+2018-11-08,2018,November,Power,241005,706
+2018-11-02,2018,November,"Premium Stores",1101122,5752
+2018-11-06,2018,November,Propel,131056,223
+2018-11-06,2018,November,Relief,111149,377
+2018-11-28,2018,November,Sage,109378,714
+2018-11-05,2018,November,Sound,176096,226
+2018-11-22,2018,November,"Surface Stores",399284,2843
+2018-11-08,2018,November,"Surge Stores",976752,5065
+2018-11-02,2018,November,Synthetic,140963,360
+2018-11-09,2018,November,"Unity Stores",200986,270
+2018-11-06,2018,November,Zone,125625,221
+2018-10-12,2018,October,"Acclaimed Stores",674066,940
+2018-10-04,2018,October,All-Out,163020,387
+2018-10-05,2018,October,"Atlas Stores",483165,672
+2018-10-01,2018,October,Control,856263,1578
+2018-10-01,2018,October,"Electricalsara Stores",9834286,17261
+2018-10-05,2018,October,"Electricalsbea Stores",2940,9
+2018-10-02,2018,October,"Electricalslance Stores",41857,201
+2018-10-09,2018,October,Electricalslytical,2727107,3067
+2018-10-11,2018,October,Electricalsocity,664680,957
+2018-10-01,2018,October,"Electricalsopedia Stores",483999,3913
+2018-10-08,2018,October,"Electricalsquipo Stores",110768,1931
+2018-10-16,2018,October,Elite,42240,74
+2018-10-01,2018,October,"Epic Stores",483680,2952
+2018-10-02,2018,October,"Excel Stores",1842514,6847
+2018-10-15,2018,October,Expression,3731,38
+2018-10-05,2018,October,"Flawless Stores",212632,1164
+2018-10-05,2018,October,"Forward Stores",517737,838
+2018-10-03,2018,October,"Info Stores",1266990,6323
+2018-10-10,2018,October,Insight,130010,211
+2018-10-11,2018,October,"Integration Stores",419081,752
+2018-10-23,2018,October,Leader,2166,5
+2018-10-05,2018,October,"Logic Stores",203278,209
+2018-10-16,2018,October,Modular,662843,2449
+2018-10-03,2018,October,Nixon,1183337,3508
+2018-10-05,2018,October,"Nomad Stores",619309,1024
+2018-10-03,2018,October,Novus,88975,152
+2018-10-03,2018,October,Path,361201,473
+2018-10-04,2018,October,Power,105487,453
+2018-10-02,2018,October,"Premium Stores",1361783,6858
+2018-10-23,2018,October,Propel,162203,244
+2018-10-30,2018,October,Relief,180589,858
+2018-10-01,2018,October,Sage,24672,29
+2018-10-09,2018,October,Sound,106598,291
+2018-10-24,2018,October,"Surface Stores",503831,3440
+2018-10-10,2018,October,"Surge Stores",423856,3369
+2018-10-03,2018,October,Synthetic,177760,877
+2018-10-09,2018,October,"Unity Stores",423665,495
+2018-10-08,2018,October,Zone,161131,358
+2018-09-17,2018,September,"Acclaimed Stores",744047,1025
+2018-09-07,2018,September,All-Out,181475,459
+2018-09-05,2018,September,"Atlas Stores",371972,471
+2018-09-06,2018,September,Control,1322094,1768
+2018-09-04,2018,September,"Electricalsara Stores",11754474,19254
+2018-09-06,2018,September,"Electricalsbea Stores",4074,12
+2018-09-06,2018,September,"Electricalslance Stores",35483,273
+2018-09-14,2018,September,Electricalslytical,2038553,2946
+2018-09-12,2018,September,Electricalsocity,725891,814
+2018-09-03,2018,September,"Electricalsopedia Stores",244410,1359
+2018-09-11,2018,September,"Electricalsquipo Stores",20078,96
+2018-09-24,2018,September,Elite,51931,63
+2018-09-04,2018,September,"Epic Stores",812160,2636
+2018-09-10,2018,September,"Excel Stores",1307026,5142
+2018-09-18,2018,September,Expression,12407,144
+2018-09-07,2018,September,"Flawless Stores",282682,257
+2018-09-12,2018,September,"Forward Stores",748483,864
+2018-09-03,2018,September,"Info Stores",870296,1452
+2018-09-04,2018,September,Insight,31010,66
+2018-09-07,2018,September,"Integration Stores",424991,685
+2018-09-14,2018,September,Leader,596357,805
+2018-09-07,2018,September,"Logic Stores",194865,170
+2018-09-03,2018,September,Modular,368930,1498
+2018-09-06,2018,September,Nixon,1452121,4659
+2018-09-04,2018,September,"Nomad Stores",585332,949
+2018-09-04,2018,September,Novus,65402,107
+2018-09-28,2018,September,Path,423907,559
+2018-09-03,2018,September,Power,242798,723
+2018-09-06,2018,September,"Premium Stores",1206420,6250
+2018-09-21,2018,September,Propel,140410,532
+2018-09-13,2018,September,Relief,218826,312
+2018-09-11,2018,September,Sage,106135,1364
+2018-09-04,2018,September,Sound,321412,3015
+2018-09-13,2018,September,"Surface Stores",254085,1499
+2018-09-12,2018,September,"Surge Stores",1290913,4130
+2018-09-26,2018,September,Synthetic,115265,299
+2018-09-24,2018,September,"Unity Stores",303711,353
+2018-09-10,2018,September,Zone,231160,375
+2019-04-01,2019,April,"Acclaimed Stores",649060,804
+2019-04-26,2019,April,All-Out,128530,230
+2019-04-03,2019,April,"Atlas Stores",474482,801
+2019-04-18,2019,April,Control,918555,1678
+2019-04-08,2019,April,"Electricalsara Stores",11898075,19176
+2019-04-09,2019,April,"Electricalsbea Stores",97376,97
+2019-04-03,2019,April,"Electricalslance Stores",19099,93
+2019-04-04,2019,April,Electricalslytical,1381527,2343
+2019-04-01,2019,April,Electricalsocity,452642,598
+2019-04-01,2019,April,"Electricalsopedia Stores",305148,1543
+2019-04-01,2019,April,"Electricalsquipo Stores",122079,1442
+2019-04-17,2019,April,Elite,218842,252
+2019-04-01,2019,April,"Epic Stores",561849,2778
+2019-04-15,2019,April,"Excel Stores",1092763,2294
+2019-04-01,2019,April,"Flawless Stores",248658,699
+2019-04-03,2019,April,"Forward Stores",481909,863
+2019-04-05,2019,April,"Info Stores",670835,685
+2019-04-10,2019,April,Insight,95936,158
+2019-04-25,2019,April,"Integration Stores",458399,793
+2019-04-10,2019,April,Leader,712374,1189
+2019-04-05,2019,April,"Logic Stores",20631,76
+2019-04-02,2019,April,Modular,748688,2883
+2019-04-16,2019,April,Nixon,956223,4381
+2019-04-01,2019,April,"Nomad Stores",659020,1026
+2019-04-03,2019,April,Novus,83019,138
+2019-04-26,2019,April,Path,413508,618
+2019-04-05,2019,April,Power,114311,483
+2019-04-16,2019,April,"Premium Stores",950333,5910
+2019-04-12,2019,April,Propel,148860,315
+2019-04-05,2019,April,Relief,172783,439
+2019-04-24,2019,April,Sage,86783,905
+2019-04-09,2019,April,Sound,165982,294
+2019-04-25,2019,April,"Surface Stores",565496,5126
+2019-04-11,2019,April,"Surge Stores",922593,4125
+2019-04-10,2019,April,Synthetic,222436,1288
+2019-04-01,2019,April,"Unity Stores",329015,409
+2019-04-02,2019,April,Zone,103861,207
+2019-08-02,2019,August,"Acclaimed Stores",978393,1217
+2019-08-09,2019,August,All-Out,205334,475
+2019-08-02,2019,August,"Atlas Stores",532801,880
+2019-08-02,2019,August,Control,801905,1654
+2019-08-13,2019,August,"Electricalsara Stores",12443433,19213
+2019-08-06,2019,August,"Electricalsbea Stores",6065,15
+2019-08-06,2019,August,"Electricalslance Stores",680457,4174
+2019-08-07,2019,August,Electricalslytical,1971378,7851
+2019-08-01,2019,August,Electricalsocity,455148,703
+2019-08-01,2019,August,"Electricalsopedia Stores",306833,2423
+2019-08-09,2019,August,"Electricalsquipo Stores",17926,306
+2019-08-08,2019,August,Elite,59029,69
+2019-08-05,2019,August,"Epic Stores",670479,4776
+2019-08-13,2019,August,"Excel Stores",1433155,7114
+2019-08-08,2019,August,Expression,2032,30
+2019-08-02,2019,August,"Flawless Stores",276343,1098
+2019-08-02,2019,August,"Forward Stores",1547429,1955
+2019-08-02,2019,August,"Info Stores",1452315,6962
+2019-08-01,2019,August,Insight,98549,174
+2019-08-01,2019,August,"Integration Stores",298851,627
+2019-08-30,2019,August,Leader,722360,1233
+2019-08-09,2019,August,"Logic Stores",761335,1100
+2019-08-08,2019,August,Modular,1192438,4968
+2019-08-02,2019,August,Nixon,776044,2889
+2019-08-01,2019,August,"Nomad Stores",630173,995
+2019-08-01,2019,August,Novus,119364,338
+2019-08-29,2019,August,Path,412618,884
+2019-08-02,2019,August,Power,129494,582
+2019-08-07,2019,August,"Premium Stores",1054549,5492
+2019-08-09,2019,August,Propel,151962,259
+2019-08-06,2019,August,Relief,107578,252
+2019-08-05,2019,August,Sage,5407,10
+2019-08-02,2019,August,Sound,97322,275
+2019-08-06,2019,August,"Surface Stores",356667,2112
+2019-08-12,2019,August,"Surge Stores",504160,5773
+2019-08-01,2019,August,Synthetic,216695,552
+2019-08-29,2019,August,"Unity Stores",416219,532
+2019-08-29,2019,August,Zone,310801,529
+2019-12-17,2019,December,"Acclaimed Stores",457341,617
+2019-12-06,2019,December,All-Out,105445,231
+2019-12-04,2019,December,"Atlas Stores",361680,626
+2019-12-09,2019,December,Control,667944,1031
+2019-12-06,2019,December,"Electricalsara Stores",10029012,15565
+2019-12-03,2019,December,"Electricalsbea Stores",6789,9
+2019-12-02,2019,December,"Electricalslance Stores",34256,158
+2019-12-08,2019,December,Electricalslytical,1408575,2466
+2019-12-18,2019,December,Electricalsocity,169060,226
+2019-12-03,2019,December,"Electricalsopedia Stores",162067,845
+2019-12-11,2019,December,"Electricalsquipo Stores",10871,100
+2019-12-04,2019,December,Elite,54376,86
+2019-12-02,2019,December,"Epic Stores",261689,1620
+2019-12-17,2019,December,"Excel Stores",1351048,3424
+2019-12-09,2019,December,Expression,10542,47
+2019-12-02,2019,December,"Flawless Stores",100878,169
+2019-12-04,2019,December,"Forward Stores",463535,797
+2019-12-06,2019,December,"Info Stores",795619,832
+2019-12-05,2019,December,Insight,114980,102
+2019-12-05,2019,December,"Integration Stores",294993,572
+2019-12-17,2019,December,Leader,787,7
+2019-12-09,2019,December,"Logic Stores",277255,637
+2019-12-19,2019,December,Modular,306030,1056
+2019-12-04,2019,December,Nixon,845982,3350
+2019-12-02,2019,December,"Nomad Stores",415214,627
+2019-12-04,2019,December,Novus,46564,76
+2019-12-02,2019,December,Path,387074,535
+2019-12-03,2019,December,Power,210102,470
+2019-12-06,2019,December,"Premium Stores",1008654,4881
+2019-12-03,2019,December,Propel,100355,155
+2019-12-05,2019,December,Relief,157238,644
+2019-12-04,2019,December,Sage,23621,18
+2019-12-10,2019,December,Sound,221156,2074
+2019-12-12,2019,December,"Surface Stores",441802,3788
+2019-12-02,2019,December,"Surge Stores",646463,3068
+2019-12-04,2019,December,Synthetic,164200,432
+2019-12-09,2019,December,"Unity Stores",304845,428
+2019-12-18,2019,December,Zone,140426,241
+2019-02-06,2019,February,"Acclaimed Stores",550189,636
+2019-02-15,2019,February,All-Out,182499,406
+2019-02-01,2019,February,"Atlas Stores",459287,698
+2019-02-12,2019,February,Control,699647,1085
+2019-02-04,2019,February,"Electricalsara Stores",10866589,16706
+2019-02-05,2019,February,"Electricalsbea Stores",2866,5
+2019-02-01,2019,February,"Electricalslance Stores",27277,145
+2019-02-25,2019,February,Electricalslytical,1403617,1503
+2019-02-19,2019,February,Electricalsocity,327189,536
+2019-02-01,2019,February,"Electricalsopedia Stores",315619,2667
+2019-02-28,2019,February,"Electricalsquipo Stores",12370,89
+2019-02-06,2019,February,Elite,175853,275
+2019-02-01,2019,February,"Epic Stores",638479,1776
+2019-02-04,2019,February,"Excel Stores",1460539,2601
+2019-02-05,2019,February,Expression,61935,513
+2019-02-04,2019,February,"Flawless Stores",173459,227
+2019-02-05,2019,February,"Forward Stores",516651,921
+2019-02-01,2019,February,"Info Stores",441050,542
+2019-02-01,2019,February,Insight,53949,112
+2019-02-07,2019,February,"Integration Stores",416416,760
+2019-02-19,2019,February,Leader,909727,1225
+2019-02-01,2019,February,"Logic Stores",713778,555
+2019-02-06,2019,February,Modular,376700,1321
+2019-02-01,2019,February,Nixon,1077226,2837
+2019-02-01,2019,February,"Nomad Stores",495548,834
+2019-02-06,2019,February,Novus,60852,117
+2019-02-05,2019,February,Path,187365,259
+2019-02-01,2019,February,Power,128522,508
+2019-02-04,2019,February,"Premium Stores",1845137,6320
+2019-02-22,2019,February,Propel,171038,294
+2019-02-13,2019,February,Relief,314519,718
+2019-02-01,2019,February,Sage,38098,40
+2019-02-01,2019,February,Sound,114141,189
+2019-02-11,2019,February,"Surface Stores",419554,3685
+2019-02-07,2019,February,"Surge Stores",688967,6287
+2019-02-07,2019,February,Synthetic,153694,408
+2019-02-28,2019,February,"Unity Stores",311266,324
+2019-02-06,2019,February,Zone,389570,859
+2019-01-17,2019,January,"Acclaimed Stores",587317,978
+2019-01-03,2019,January,All-Out,147078,265
+2019-01-02,2019,January,"Atlas Stores",514319,808
+2019-01-22,2019,January,Control,956552,1748
+2019-01-11,2019,January,"Electricalsara Stores",14063940,19579
+2019-01-08,2019,January,"Electricalsbea Stores",3862,9
+2019-01-03,2019,January,"Electricalslance Stores",34487,174
+2019-01-17,2019,January,Electricalslytical,1547318,2108
+2019-01-24,2019,January,Electricalsocity,416335,500
+2019-01-03,2019,January,"Electricalsopedia Stores",294381,2247
+2019-01-21,2019,January,"Electricalsquipo Stores",18255,155
+2019-01-07,2019,January,Elite,90536,194
+2019-01-07,2019,January,"Epic Stores",799208,2066
+2019-01-07,2019,January,"Excel Stores",1165650,2646
+2019-01-08,2019,January,Expression,49289,395
+2019-01-02,2019,January,"Flawless Stores",199713,683
+2019-01-10,2019,January,"Forward Stores",710722,1069
+2019-01-08,2019,January,"Info Stores",552028,2434
+2019-01-02,2019,January,Insight,65196,135
+2019-01-03,2019,January,"Integration Stores",442645,936
+2019-01-31,2019,January,Leader,476121,684
+2019-01-04,2019,January,"Logic Stores",786187,440
+2019-01-08,2019,January,Modular,394315,1459
+2019-01-11,2019,January,Nixon,889804,3177
+2019-01-02,2019,January,"Nomad Stores",569673,855
+2019-01-03,2019,January,Novus,75655,135
+2019-01-04,2019,January,Path,1077629,1205
+2019-01-14,2019,January,Power,60432,260
+2019-01-09,2019,January,"Premium Stores",1902023,17792
+2019-01-02,2019,January,Propel,166555,331
+2019-01-15,2019,January,Relief,238854,799
+2019-01-16,2019,January,Sage,13801,31
+2019-01-15,2019,January,Sound,140031,386
+2019-01-08,2019,January,"Surface Stores",665034,4167
+2019-01-10,2019,January,"Surge Stores",764967,4363
+2019-01-04,2019,January,Synthetic,170302,501
+2019-01-24,2019,January,"Unity Stores",388486,518
+2019-01-24,2019,January,Zone,91866,174
+2019-07-03,2019,July,"Acclaimed Stores",620158,898
+2019-07-19,2019,July,All-Out,290786,625
+2019-07-01,2019,July,"Atlas Stores",536947,890
+2019-07-01,2019,July,Control,910246,1585
+2019-07-08,2019,July,"Electricalsara Stores",14807379,21654
+2019-07-16,2019,July,"Electricalsbea Stores",5213,14
+2019-07-02,2019,July,"Electricalslance Stores",28242,127
+2019-07-10,2019,July,Electricalslytical,1231963,1769
+2019-07-11,2019,July,Electricalsocity,614235,674
+2019-07-02,2019,July,"Electricalsopedia Stores",625648,5529
+2019-07-24,2019,July,"Electricalsquipo Stores",38809,335
+2019-07-01,2019,July,Elite,47106,86
+2019-07-01,2019,July,"Epic Stores",291209,1239
+2019-07-16,2019,July,"Excel Stores",1439207,3659
+2019-07-16,2019,July,Expression,8066,74
+2019-07-01,2019,July,"Flawless Stores",965006,5692
+2019-07-09,2019,July,"Forward Stores",716399,1391
+2019-07-01,2019,July,"Info Stores",1975338,1375
+2019-07-03,2019,July,Insight,117976,205
+2019-07-02,2019,July,"Integration Stores",378229,745
+2019-07-26,2019,July,Leader,874041,1617
+2019-07-05,2019,July,"Logic Stores",676100,627
+2019-07-11,2019,July,Modular,1107652,4123
+2019-07-01,2019,July,Nixon,1142694,4944
+2019-07-01,2019,July,"Nomad Stores",397587,664
+2019-07-03,2019,July,Novus,109949,250
+2019-07-17,2019,July,Path,259818,305
+2019-07-03,2019,July,Power,372720,869
+2019-07-01,2019,July,"Premium Stores",1447201,6566
+2019-07-24,2019,July,Propel,149458,268
+2019-07-01,2019,July,Relief,233223,481
+2019-07-23,2019,July,Sage,110338,1300
+2019-07-02,2019,July,Sound,152722,1623
+2019-07-15,2019,July,"Surface Stores",400716,4989
+2019-07-11,2019,July,"Surge Stores",726880,4564
+2019-07-04,2019,July,Synthetic,187153,676
+2019-07-01,2019,July,"Unity Stores",944385,1267
+2019-07-03,2019,July,Zone,171080,353
+2019-06-06,2019,June,"Acclaimed Stores",571343,706
+2019-06-10,2019,June,All-Out,259460,394
+2019-06-04,2019,June,"Atlas Stores",935921,1318
+2019-06-27,2019,June,Control,973260,1773
+2019-06-11,2019,June,"Electricalsara Stores",9161751,16713
+2019-06-04,2019,June,"Electricalsbea Stores",3680,12
+2019-06-05,2019,June,"Electricalslance Stores",32861,168
+2019-06-03,2019,June,Electricalslytical,1315874,1795
+2019-06-17,2019,June,Electricalsocity,344127,494
+2019-06-03,2019,June,"Electricalsopedia Stores",235228,1071
+2019-06-13,2019,June,"Electricalsquipo Stores",20296,183
+2019-06-03,2019,June,Elite,47852,200
+2019-06-03,2019,June,"Epic Stores",791990,2605
+2019-06-06,2019,June,"Excel Stores",1932738,3431
+2019-06-13,2019,June,Expression,5297,52
+2019-06-03,2019,June,"Flawless Stores",235920,563
+2019-06-04,2019,June,"Forward Stores",361864,726
+2019-06-03,2019,June,"Info Stores",1395790,2409
+2019-06-12,2019,June,Insight,13236,59
+2019-06-20,2019,June,"Integration Stores",363836,671
+2019-06-19,2019,June,Leader,451366,616
+2019-06-07,2019,June,"Logic Stores",307187,785
+2019-06-07,2019,June,Modular,394926,1335
+2019-06-03,2019,June,Nixon,839889,3294
+2019-06-03,2019,June,"Nomad Stores",376621,615
+2019-06-05,2019,June,Novus,76459,163
+2019-06-21,2019,June,Path,421301,698
+2019-06-05,2019,June,Power,86999,390
+2019-06-07,2019,June,"Premium Stores",898931,5854
+2019-06-07,2019,June,Propel,109017,193
+2019-06-12,2019,June,Relief,129999,434
+2019-06-26,2019,June,Sage,21602,73
+2019-06-12,2019,June,Sound,97819,259
+2019-06-05,2019,June,"Surface Stores",358350,2178
+2019-06-07,2019,June,"Surge Stores",982723,5013
+2019-06-06,2019,June,Synthetic,208682,712
+2019-06-03,2019,June,"Unity Stores",336499,501
+2019-06-11,2019,June,Zone,237412,384
+2019-03-06,2019,March,"Acclaimed Stores",331561,524
+2019-03-08,2019,March,All-Out,189849,334
+2019-03-08,2019,March,"Atlas Stores",635032,982
+2019-03-14,2019,March,Control,890068,1474
+2019-03-11,2019,March,"Electricalsara Stores",12517465,19823
+2019-03-04,2019,March,"Electricalsbea Stores",3899,11
+2019-03-07,2019,March,"Electricalslance Stores",25398,121
+2019-03-01,2019,March,Electricalslytical,1018399,1398
+2019-03-14,2019,March,Electricalsocity,462533,790
+2019-03-01,2019,March,"Electricalsopedia Stores",342637,1888
+2019-03-18,2019,March,"Electricalsquipo Stores",51893,355
+2019-03-11,2019,March,Elite,155263,152
+2019-03-04,2019,March,"Epic Stores",607026,2696
+2019-03-15,2019,March,"Excel Stores",1519643,2725
+2019-03-01,2019,March,"Flawless Stores",165949,221
+2019-03-29,2019,March,"Forward Stores",618736,901
+2019-03-01,2019,March,"Info Stores",1001051,4320
+2019-03-08,2019,March,Insight,145094,216
+2019-03-07,2019,March,"Integration Stores",454106,857
+2019-03-15,2019,March,Leader,525537,936
+2019-03-01,2019,March,"Logic Stores",352792,383
+2019-03-06,2019,March,Modular,390270,1573
+2019-03-05,2019,March,Nixon,1116664,4972
+2019-03-01,2019,March,"Nomad Stores",512877,806
+2019-03-06,2019,March,Novus,77328,187
+2019-03-21,2019,March,Path,315960,541
+2019-03-01,2019,March,Power,83031,343
+2019-03-12,2019,March,"Premium Stores",1367177,6213
+2019-03-01,2019,March,Propel,112136,195
+2019-03-06,2019,March,Relief,408303,1772
+2019-03-27,2019,March,Sage,36657,38
+2019-03-01,2019,March,Sound,245180,2469
+2019-03-18,2019,March,"Surface Stores",341092,2938
+2019-03-08,2019,March,"Surge Stores",594021,3957
+2019-03-07,2019,March,Synthetic,156579,551
+2019-03-26,2019,March,"Unity Stores",368711,614
+2019-03-05,2019,March,Zone,80477,130
+2019-05-17,2019,May,"Acclaimed Stores",528067,713
+2019-05-13,2019,May,All-Out,129771,259
+2019-05-02,2019,May,"Atlas Stores",522045,821
+2019-05-06,2019,May,Control,1044567,2092
+2019-05-09,2019,May,"Electricalsara Stores",11804188,19388
+2019-05-23,2019,May,"Electricalsbea Stores",14344,19
+2019-05-06,2019,May,"Electricalslance Stores",63035,286
+2019-05-30,2019,May,Electricalslytical,1834816,2367
+2019-05-06,2019,May,Electricalsocity,242649,437
+2019-05-02,2019,May,"Electricalsopedia Stores",381005,3248
+2019-05-31,2019,May,"Electricalsquipo Stores",20411,218
+2019-05-23,2019,May,Elite,96533,149
+2019-05-02,2019,May,"Epic Stores",617846,2054
+2019-05-08,2019,May,"Excel Stores",1608128,2750
+2019-05-30,2019,May,Expression,26465,191
+2019-05-06,2019,May,"Flawless Stores",94228,230
+2019-05-08,2019,May,"Forward Stores",471127,809
+2019-05-06,2019,May,"Info Stores",719023,1476
+2019-05-07,2019,May,Insight,109159,193
+2019-05-09,2019,May,"Integration Stores",537416,1209
+2019-05-28,2019,May,Leader,1072782,1926
+2019-05-06,2019,May,"Logic Stores",174008,646
+2019-05-02,2019,May,Modular,535357,1758
+2019-05-08,2019,May,Nixon,753318,2774
+2019-05-02,2019,May,"Nomad Stores",339315,574
+2019-05-03,2019,May,Novus,60370,111
+2019-05-20,2019,May,Path,471272,995
+2019-05-02,2019,May,Power,128335,440
+2019-05-02,2019,May,"Premium Stores",1205467,5214
+2019-05-03,2019,May,Propel,120466,207
+2019-05-03,2019,May,Relief,110013,243
+2019-05-28,2019,May,Sage,15212,18
+2019-05-03,2019,May,Sound,170869,289
+2019-05-02,2019,May,"Surface Stores",646296,10469
+2019-05-06,2019,May,"Surge Stores",431662,3053
+2019-05-03,2019,May,Synthetic,176000,568
+2019-05-06,2019,May,"Unity Stores",663818,861
+2019-05-08,2019,May,Zone,98282,229
+2019-11-20,2019,November,"Acclaimed Stores",775363,915
+2019-11-08,2019,November,All-Out,85077,185
+2019-11-08,2019,November,"Atlas Stores",506096,804
+2019-11-07,2019,November,Control,695623,1167
+2019-11-04,2019,November,"Electricalsara Stores",11760235,18845
+2019-11-13,2019,November,"Electricalsbea Stores",3297,9
+2019-11-05,2019,November,"Electricalslance Stores",28860,152
+2019-11-05,2019,November,Electricalslytical,1112462,1746
+2019-11-15,2019,November,Electricalsocity,415012,594
+2019-11-12,2019,November,"Electricalsopedia Stores",334101,2313
+2019-11-06,2019,November,"Electricalsquipo Stores",7236,36
+2019-11-20,2019,November,Elite,33126,96
+2019-11-04,2019,November,"Epic Stores",511022,2166
+2019-11-19,2019,November,"Excel Stores",1441523,4538
+2019-11-29,2019,November,Expression,2417,8
+2019-11-04,2019,November,"Flawless Stores",315928,2760
+2019-11-18,2019,November,"Forward Stores",369094,709
+2019-11-04,2019,November,"Info Stores",1361798,3139
+2019-11-04,2019,November,Insight,140511,4212
+2019-11-14,2019,November,"Integration Stores",333043,587
+2019-11-18,2019,November,Leader,1625,4
+2019-11-04,2019,November,"Logic Stores",568077,768
+2019-11-14,2019,November,Modular,538880,1845
+2019-11-11,2019,November,Nixon,1065535,3125
+2019-11-04,2019,November,"Nomad Stores",693721,934
+2019-11-06,2019,November,Novus,134245,262
+2019-11-05,2019,November,Path,233778,362
+2019-11-07,2019,November,Power,177087,454
+2019-11-04,2019,November,"Premium Stores",988467,4703
+2019-11-19,2019,November,Propel,115849,200
+2019-11-05,2019,November,Relief,96606,221
+2019-11-08,2019,November,Sage,22594,142
+2019-11-15,2019,November,Sound,42434,125
+2019-11-20,2019,November,"Surface Stores",220052,1069
+2019-11-08,2019,November,"Surge Stores",1167554,17559
+2019-11-07,2019,November,Synthetic,128282,369
+2019-11-11,2019,November,"Unity Stores",146528,209
+2019-11-12,2019,November,Zone,27482,67
+2019-10-03,2019,October,"Acclaimed Stores",564995,707
+2019-10-04,2019,October,All-Out,154101,362
+2019-10-03,2019,October,"Atlas Stores",539197,814
+2019-10-08,2019,October,Control,814497,1175
+2019-10-16,2019,October,"Electricalsara Stores",9884338,17692
+2019-10-18,2019,October,"Electricalsbea Stores",2468,6
+2019-10-01,2019,October,"Electricalslance Stores",58407,262
+2019-10-10,2019,October,Electricalslytical,1514946,2073
+2019-10-17,2019,October,Electricalsocity,224137,411
+2019-10-01,2019,October,"Electricalsopedia Stores",352605,3364
+2019-10-25,2019,October,"Electricalsquipo Stores",30797,86
+2019-10-15,2019,October,Elite,17616,65
+2019-10-01,2019,October,"Epic Stores",530325,2518
+2019-10-15,2019,October,"Excel Stores",1808446,7872
+2019-10-17,2019,October,Expression,1778,28
+2019-10-01,2019,October,"Flawless Stores",316787,632
+2019-10-15,2019,October,"Forward Stores",572582,866
+2019-10-07,2019,October,"Info Stores",1378739,1260
+2019-10-02,2019,October,Insight,110948,174
+2019-10-04,2019,October,"Integration Stores",392477,620
+2019-10-18,2019,October,Leader,694,4
+2019-10-11,2019,October,"Logic Stores",776199,605
+2019-10-04,2019,October,Modular,715748,2732
+2019-10-11,2019,October,Nixon,771199,2749
+2019-10-01,2019,October,"Nomad Stores",683360,923
+2019-10-02,2019,October,Novus,84155,175
+2019-10-02,2019,October,Path,344272,514
+2019-10-03,2019,October,Power,145353,491
+2019-10-09,2019,October,"Premium Stores",1244860,10579
+2019-10-01,2019,October,Propel,127322,225
+2019-10-01,2019,October,Relief,94026,338
+2019-10-16,2019,October,Sage,20237,101
+2019-10-09,2019,October,Sound,78210,254
+2019-10-03,2019,October,"Surface Stores",541352,3567
+2019-10-10,2019,October,"Surge Stores",1140179,4913
+2019-10-03,2019,October,Synthetic,186496,591
+2019-10-04,2019,October,"Unity Stores",334236,446
+2019-10-01,2019,October,Zone,160643,235
+2019-09-05,2019,September,"Acclaimed Stores",425577,650
+2019-09-20,2019,September,All-Out,180312,337
+2019-09-04,2019,September,"Atlas Stores",349985,661
+2019-09-09,2019,September,Control,631640,1151
+2019-09-04,2019,September,"Electricalsara Stores",9305810,16765
+2019-09-16,2019,September,"Electricalsbea Stores",5190,12
+2019-09-02,2019,September,"Electricalslance Stores",36742,185
+2019-09-10,2019,September,Electricalslytical,1403807,2475
+2019-09-18,2019,September,Electricalsocity,494302,1192
+2019-09-02,2019,September,"Electricalsopedia Stores",209659,1592
+2019-09-09,2019,September,"Electricalsquipo Stores",4630,257
+2019-09-16,2019,September,Elite,53880,80
+2019-09-02,2019,September,"Epic Stores",795066,2647
+2019-09-09,2019,September,"Excel Stores",2283001,6325
+2019-09-05,2019,September,Expression,26273,106
+2019-09-02,2019,September,"Flawless Stores",106485,588
+2019-09-10,2019,September,"Forward Stores",452198,728
+2019-09-02,2019,September,"Info Stores",825655,1793
+2019-09-04,2019,September,Insight,27124,68
+2019-09-05,2019,September,"Integration Stores",456300,698
+2019-09-20,2019,September,Leader,615685,1048
+2019-09-06,2019,September,"Logic Stores",415240,636
+2019-09-06,2019,September,Modular,351807,1335
+2019-09-06,2019,September,Nixon,905911,3148
+2019-09-02,2019,September,"Nomad Stores",549037,1023
+2019-09-02,2019,September,Novus,59786,108
+2019-09-19,2019,September,Path,465800,528
+2019-09-02,2019,September,Power,110078,419
+2019-09-06,2019,September,"Premium Stores",1163276,10366
+2019-09-03,2019,September,Propel,129299,365
+2019-09-13,2019,September,Relief,151548,338
+2019-09-12,2019,September,Sage,9773,6
+2019-09-11,2019,September,Sound,203837,2511
+2019-09-05,2019,September,"Surface Stores",506028,3385
+2019-09-11,2019,September,"Surge Stores",520223,9001
+2019-09-03,2019,September,Synthetic,170560,456
+2019-09-10,2019,September,"Unity Stores",355806,407
+2019-09-05,2019,September,Zone,109444,254
+2020-04-08,2020,April,"Acclaimed Stores",674790,708
+2020-04-03,2020,April,All-Out,153105,248
+2020-04-01,2020,April,"Atlas Stores",528238,1015
+2020-04-14,2020,April,Control,771332,1302
+2020-04-03,2020,April,"Electricalsara Stores",11477461,18129
+2020-04-06,2020,April,"Electricalsbea Stores",4074,12
+2020-04-07,2020,April,"Electricalslance Stores",11763,71
+2020-04-09,2020,April,Electricalslytical,912883,1806
+2020-04-06,2020,April,Electricalsocity,300385,859
+2020-04-09,2020,April,"Electricalsopedia Stores",80269,480
+2020-04-29,2020,April,"Electricalsquipo Stores",1542,7
+2020-04-06,2020,April,Elite,254035,264
+2020-04-01,2020,April,"Epic Stores",361450,1367
+2020-04-22,2020,April,"Excel Stores",1007220,2262
+2020-04-02,2020,April,Expression,8413,20
+2020-04-09,2020,April,"Flawless Stores",180153,1613
+2020-04-09,2020,April,"Forward Stores",552262,901
+2020-04-02,2020,April,"Info Stores",895540,1164
+2020-04-01,2020,April,Insight,200549,6280
+2020-04-02,2020,April,"Integration Stores",291551,559
+2020-04-01,2020,April,Leader,714666,960
+2020-04-16,2020,April,"Logic Stores",859471,895
+2020-04-09,2020,April,Modular,356908,1313
+2020-04-01,2020,April,Nixon,521961,2978
+2020-04-02,2020,April,"Nomad Stores",332928,445
+2020-04-13,2020,April,Novus,40681,101
+2020-04-02,2020,April,Path,369469,521
+2020-04-15,2020,April,Power,199676,476
+2020-04-07,2020,April,"Premium Stores",1227651,6764
+2020-04-07,2020,April,Propel,70309,123
+2020-04-06,2020,April,Relief,151989,367
+2020-04-06,2020,April,Sage,10473,52
+2020-04-01,2020,April,Sound,63318,169
+2020-04-07,2020,April,"Surface Stores",448807,3878
+2020-04-09,2020,April,"Surge Stores",627522,2962
+2020-04-03,2020,April,Synthetic,212561,552
+2020-04-23,2020,April,"Unity Stores",307034,464
+2020-04-28,2020,April,Zone,78269,135
+2020-02-05,2020,February,"Acclaimed Stores",712008,736
+2020-02-07,2020,February,All-Out,133823,208
+2020-02-05,2020,February,"Atlas Stores",327881,653
+2020-02-04,2020,February,Control,610543,933
+2020-02-06,2020,February,"Electricalsara Stores",11998520,17603
+2020-02-07,2020,February,"Electricalsbea Stores",3783,5
+2020-02-03,2020,February,"Electricalslance Stores",45571,209
+2020-02-04,2020,February,Electricalslytical,1012542,2368
+2020-02-12,2020,February,Electricalsocity,811995,1377
+2020-02-24,2020,February,"Electricalsopedia Stores",203769,1579
+2020-02-05,2020,February,"Electricalsquipo Stores",11691,45
+2020-02-03,2020,February,Elite,151086,152
+2020-02-04,2020,February,"Epic Stores",904293,8449
+2020-02-07,2020,February,"Excel Stores",2699808,3441
+2020-02-05,2020,February,Expression,13589,60
+2020-02-03,2020,February,"Flawless Stores",144073,750
+2020-02-24,2020,February,"Forward Stores",440665,810
+2020-02-03,2020,February,"Info Stores",826052,2522
+2020-02-03,2020,February,Insight,160917,8236
+2020-02-06,2020,February,"Integration Stores",302147,646
+2020-02-27,2020,February,Leader,478305,643
+2020-02-14,2020,February,"Logic Stores",158141,271
+2020-02-07,2020,February,Modular,314873,1175
+2020-02-02,2020,February,Nixon,474429,2513
+2020-02-03,2020,February,"Nomad Stores",287561,601
+2020-02-05,2020,February,Novus,47513,90
+2020-02-24,2020,February,Path,264326,441
+2020-02-04,2020,February,Power,224003,576
+2020-02-03,2020,February,"Premium Stores",803779,4428
+2020-02-07,2020,February,Propel,88301,172
+2020-02-03,2020,February,Relief,146922,469
+2020-02-03,2020,February,Sage,28759,20
+2020-02-05,2020,February,Sound,189290,2694
+2020-02-07,2020,February,"Surface Stores",416008,3545
+2020-02-13,2020,February,"Surge Stores",812396,3444
+2020-02-06,2020,February,Synthetic,123875,379
+2020-02-11,2020,February,"Unity Stores",251881,342
+2020-02-04,2020,February,Zone,299681,575
+2020-01-22,2020,January,"Acclaimed Stores",632420,743
+2020-01-17,2020,January,All-Out,90621,161
+2020-01-08,2020,January,"Atlas Stores",453881,771
+2020-01-28,2020,January,Control,640294,1322
+2020-01-10,2020,January,"Electricalsara Stores",13386461,19298
+2020-01-15,2020,January,"Electricalsbea Stores",3579,7
+2020-01-02,2020,January,"Electricalslance Stores",23526,104
+2020-01-08,2020,January,Electricalslytical,1269589,2199
+2020-01-02,2020,January,Electricalsocity,231121,439
+2020-01-02,2020,January,"Electricalsopedia Stores",234485,1725
+2020-01-10,2020,January,"Electricalsquipo Stores",34009,82
+2020-01-03,2020,January,Elite,79400,456
+2020-01-07,2020,January,"Epic Stores",448911,1438
+2020-01-21,2020,January,"Excel Stores",935980,2421
+2020-01-10,2020,January,Expression,7296,35
+2020-01-02,2020,January,"Flawless Stores",249839,1502
+2020-01-07,2020,January,"Forward Stores",675038,1153
+2020-01-06,2020,January,"Info Stores",606625,1459
+2020-01-15,2020,January,Insight,103811,168
+2020-01-02,2020,January,"Integration Stores",347118,652
+2020-01-07,2020,January,Leader,213,1
+2020-01-10,2020,January,"Logic Stores",99455,110
+2020-01-09,2020,January,Modular,525586,1975
+2020-01-02,2020,January,Nixon,620018,2907
+2020-01-02,2020,January,"Nomad Stores",384175,720
+2020-01-07,2020,January,Novus,41751,88
+2020-01-02,2020,January,Path,387588,552
+2020-01-02,2020,January,Power,80316,334
+2020-01-10,2020,January,"Premium Stores",895498,4372
+2020-01-09,2020,January,Propel,150442,247
+2020-01-17,2020,January,Relief,101798,316
+2020-01-07,2020,January,Sage,18974,72
+2020-01-17,2020,January,Sound,102242,1453
+2020-01-08,2020,January,"Surface Stores",443331,2738
+2020-01-17,2020,January,"Surge Stores",601875,4290
+2020-01-10,2020,January,Synthetic,240942,809
+2020-01-21,2020,January,"Unity Stores",423538,620
+2020-01-21,2020,January,Zone,84821,130
+2020-06-04,2020,June,"Acclaimed Stores",388396,412
+2020-06-05,2020,June,All-Out,68685,103
+2020-06-02,2020,June,"Atlas Stores",203718,348
+2020-06-09,2020,June,Control,906506,1229
+2020-06-04,2020,June,"Electricalsara Stores",5312060,8259
+2020-06-08,2020,June,"Electricalsbea Stores",1468,5
+2020-06-03,2020,June,"Electricalslance Stores",22675,96
+2020-06-01,2020,June,Electricalslytical,471350,741
+2020-06-16,2020,June,Electricalsocity,310169,470
+2020-06-04,2020,June,"Electricalsopedia Stores",163818,849
+2020-06-03,2020,June,"Electricalsquipo Stores",17513,92
+2020-06-12,2020,June,Elite,172565,154
+2020-06-08,2020,June,"Epic Stores",270099,953
+2020-06-16,2020,June,"Excel Stores",808242,1536
+2020-06-08,2020,June,Expression,2933,22
+2020-06-02,2020,June,"Flawless Stores",148122,382
+2020-06-04,2020,June,"Forward Stores",207917,436
+2020-06-02,2020,June,"Info Stores",614582,1712
+2020-06-12,2020,June,Insight,24315,132
+2020-06-04,2020,June,"Integration Stores",262358,431
+2020-06-02,2020,June,Leader,2273,10
+2020-06-05,2020,June,"Logic Stores",394502,339
+2020-06-03,2020,June,Modular,275888,917
+2020-06-01,2020,June,Nixon,331403,1430
+2020-06-01,2020,June,"Nomad Stores",260381,664
+2020-06-03,2020,June,Novus,28777,62
+2020-06-04,2020,June,Path,190284,279
+2020-06-11,2020,June,Power,119383,360
+2020-06-02,2020,June,"Premium Stores",897340,3094
+2020-06-02,2020,June,Propel,61229,90
+2020-06-02,2020,June,Relief,98547,294
+2020-06-08,2020,June,Sound,271595,3073
+2020-06-03,2020,June,"Surface Stores",300397,1546
+2020-06-18,2020,June,"Surge Stores",713783,2555
+2020-06-12,2020,June,"Unity Stores",263005,384
+2020-06-10,2020,June,Zone,124156,364
+2020-03-04,2020,March,"Acclaimed Stores",279423,408
+2020-03-13,2020,March,All-Out,171816,336
+2020-03-05,2020,March,"Atlas Stores",356552,701
+2020-03-12,2020,March,Control,659153,1304
+2020-03-20,2020,March,"Electricalsara Stores",13258956,22487
+2020-03-06,2020,March,"Electricalsbea Stores",33624,48
+2020-03-05,2020,March,"Electricalslance Stores",19827,92
+2020-03-13,2020,March,Electricalslytical,997874,1769
+2020-03-11,2020,March,Electricalsocity,573726,817
+2020-03-09,2020,March,"Electricalsopedia Stores",145484,894
+2020-03-13,2020,March,"Electricalsquipo Stores",22153,38
+2020-03-02,2020,March,Elite,479149,525
+2020-03-03,2020,March,"Epic Stores",679840,4682
+2020-03-03,2020,March,"Excel Stores",1452836,10270
+2020-03-04,2020,March,Expression,28393,110
+2020-03-09,2020,March,"Flawless Stores",316640,504
+2020-03-02,2020,March,"Forward Stores",317045,598
+2020-03-04,2020,March,"Info Stores",913647,1896
+2020-03-04,2020,March,Insight,65943,145
+2020-03-05,2020,March,"Integration Stores",407926,706
+2020-03-06,2020,March,"Logic Stores",377509,392
+2020-03-03,2020,March,Modular,442159,1776
+2020-03-02,2020,March,Nixon,644280,3407
+2020-03-02,2020,March,"Nomad Stores",445745,813
+2020-03-04,2020,March,Novus,33907,81
+2020-03-02,2020,March,Path,237802,357
+2020-03-06,2020,March,Power,125707,449
+2020-03-16,2020,March,"Premium Stores",1161158,5158
+2020-03-03,2020,March,Propel,96728,185
+2020-03-12,2020,March,Relief,183170,663
+2020-03-11,2020,March,Sage,33360,316
+2020-03-03,2020,March,Sound,52847,186
+2020-03-09,2020,March,"Surface Stores",438579,6982
+2020-03-03,2020,March,"Surge Stores",486565,3315
+2020-03-05,2020,March,Synthetic,185195,480
+2020-03-03,2020,March,"Unity Stores",228064,405
+2020-03-19,2020,March,Zone,31195,89
+2020-05-07,2020,May,"Acclaimed Stores",429347,513
+2020-05-08,2020,May,All-Out,95903,157
+2020-05-04,2020,May,"Atlas Stores",319343,631
+2020-05-13,2020,May,Control,594834,1028
+2020-05-07,2020,May,"Electricalsara Stores",10208519,14598
+2020-05-19,2020,May,"Electricalsbea Stores",4412,13
+2020-05-06,2020,May,"Electricalslance Stores",19380,100
+2020-05-22,2020,May,Electricalslytical,873666,1550
+2020-05-15,2020,May,Electricalsocity,293542,464
+2020-05-07,2020,May,"Electricalsopedia Stores",167939,1120
+2020-05-05,2020,May,Elite,111550,185
+2020-05-04,2020,May,"Epic Stores",338241,987
+2020-05-01,2020,May,"Excel Stores",1024299,2379
+2020-05-04,2020,May,Expression,22221,63
+2020-05-19,2020,May,"Flawless Stores",88149,723
+2020-05-21,2020,May,"Forward Stores",368034,706
+2020-05-04,2020,May,"Info Stores",1207928,1812
+2020-05-04,2020,May,Insight,15895,54
+2020-05-26,2020,May,"Integration Stores",298511,593
+2020-05-20,2020,May,Leader,476444,640
+2020-05-22,2020,May,"Logic Stores",1430165,1425
+2020-05-04,2020,May,Modular,538105,1819
+2020-05-04,2020,May,Nixon,436254,1698
+2020-05-04,2020,May,"Nomad Stores",267760,500
+2020-05-04,2020,May,Novus,65914,122
+2020-05-29,2020,May,Path,273838,448
+2020-05-08,2020,May,Power,349467,660
+2020-05-18,2020,May,"Premium Stores",914322,4395
+2020-05-05,2020,May,Propel,74544,123
+2020-05-06,2020,May,Relief,90875,303
+2020-05-05,2020,May,Sage,5384,10
+2020-05-06,2020,May,Sound,61564,143
+2020-05-06,2020,May,"Surface Stores",372882,3628
+2020-05-18,2020,May,"Surge Stores",711459,4715
+2020-05-07,2020,May,Synthetic,153694,408
+2020-05-06,2020,May,"Unity Stores",274644,384
+2020-05-07,2020,May,Zone,309032,685

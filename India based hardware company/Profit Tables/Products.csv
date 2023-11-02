@@ -1,0 +1,4233 @@
+year,month,product_code,product_type,revenue
+2017,December,Prod049,"Own Brand",224966.7
+2017,December,Prod166,"Own Brand",222759
+2017,December,Prod099,"Own Brand",146426.2
+2017,December,Prod102,"Own Brand",80325
+2017,December,Prod133,"Own Brand",35810.6
+2017,December,Prod065,"Own Brand",32891.8
+2017,December,Prod252,"Distribution",32689.4
+2017,December,Prod106,"Own Brand",30655.5
+2017,December,Prod053,"Own Brand",30633.2
+2017,December,Prod214,"Own Brand",26567.2
+2017,December,Prod024,"Distribution",14759
+2017,December,Prod113,"Distribution",13907.8
+2017,December,Prod035,"Own Brand",13852.9
+2017,December,Prod117,"Distribution",13704.3
+2017,December,Prod174,"Distribution",11886.6
+2017,December,Prod026,"Distribution",11725.9
+2017,December,Prod260,"Own Brand",11012
+2017,December,Prod213,"Own Brand",9639.6
+2017,December,Prod220,"Distribution",8645.6
+2017,December,Prod003,"Own Brand",8485.7
+2017,December,Prod103,"Own Brand",7306.3
+2017,December,Prod236,"Distribution",7096.2
+2017,December,Prod126,"Own Brand",6805.4
+2017,December,Prod093,"Own Brand",6772.7
+2017,December,Prod122,"Own Brand",6067.2
+2017,December,Prod210,"Own Brand",5530.5
+2017,December,Prod271,"Own Brand",5388.8
+2017,December,Prod212,"Own Brand",4970.9
+2017,December,Prod279,"Distribution",4906
+2017,December,Prod114,"Distribution",4490.2
+2017,December,Prod033,"Distribution",4195.8
+2017,December,Prod245,"Own Brand",4078.6
+2017,December,Prod062,"Own Brand",3469.3
+2017,December,Prod199,"Own Brand",3406
+2017,December,Prod134,"Own Brand",3379.5
+2017,December,Prod196,"Own Brand",3185.6
+2017,December,Prod238,"Own Brand",3107.1
+2017,December,Prod216,"Own Brand",2703.8
+2017,December,Prod183,"Own Brand",2000
+2017,December,Prod274,"Own Brand",1915.1
+2017,December,Prod019,"Own Brand",1704.4
+2017,December,Prod265,"Distribution",1560.2
+2017,December,Prod027,"Distribution",1549.9
+2017,December,Prod270,"Own Brand",1516.9
+2017,December,Prod116,"Distribution",1390.9
+2017,December,Prod242,"Own Brand",1309
+2017,December,Prod179,"Own Brand",1161.8
+2017,December,Prod094,"Own Brand",960.6
+2017,December,Prod249,"Distribution",867.2
+2017,December,Prod098,"Own Brand",812.3
+2017,December,Prod178,"Own Brand",796.8
+2017,December,Prod267,"Distribution",764.9
+2017,December,Prod221,"Distribution",760.9
+2017,December,Prod263,"Distribution",755.3
+2017,December,Prod088,"Own Brand",705.7
+2017,December,Prod138,"Own Brand",548.7
+2017,December,Prod140,"Own Brand",542.8
+2017,December,Prod250,"Distribution",540.9
+2017,December,Prod264,"Distribution",476.2
+2017,December,Prod208,"Own Brand",449.2
+2017,December,Prod273,"Own Brand",427.5
+2017,December,Prod081,"Own Brand",413.5
+2017,December,Prod275,"Own Brand",350.3
+2017,December,Prod192,"Distribution",297.2
+2017,December,Prod135,"Own Brand",266.2
+2017,December,Prod185,"Own Brand",257.7
+2017,December,Prod276,"Own Brand",225.4
+2017,December,Prod272,"Own Brand",220.6
+2017,December,Prod218,"Distribution",169.2
+2017,December,Prod004,"Own Brand",147.3
+2017,December,Prod248,"Distribution",130.8
+2017,December,Prod038,"Own Brand",110.2
+2017,December,Prod091,"Own Brand",107.4
+2017,December,Prod219,"Distribution",44.6
+2017,December,Prod025,"Distribution",30.4
+2017,December,Prod247,"Own Brand",29.8
+2017,December,Prod154,"Own Brand",29.5
+2017,December,Prod207,"Distribution",13.3
+2017,December,Prod139,"Own Brand",10.8
+2017,December,Prod006,"Own Brand",1.1
+2017,December,Prod030,"Distribution",-7.2
+2017,December,Prod119,"Distribution",-18.3
+2017,December,Prod159,"Distribution",-36.1
+2017,December,Prod014,"Own Brand",-39.6
+2017,December,Prod259,"Own Brand",-52
+2017,December,Prod104,"Own Brand",-53.1
+2017,December,Prod063,"Own Brand",-76.7
+2017,December,Prod176,"Distribution",-176.7
+2017,December,Prod253,"Own Brand",-205.3
+2017,December,Prod278,"Distribution",-208.2
+2017,December,Prod136,"Own Brand",-285.6
+2017,December,Prod016,"Own Brand",-341.3
+2017,December,Prod205,"Distribution",-433.4
+2017,December,Prod241,"Own Brand",-511.1
+2017,December,Prod184,"Own Brand",-665.8
+2017,December,Prod089,"Own Brand",-672.6
+2017,December,Prod110,"Distribution",-848.4
+2017,December,Prod269,"Own Brand",-898
+2017,December,Prod188,"Distribution",-929.6
+2017,December,Prod095,"Own Brand",-1113.4
+2017,December,Prod268,"Own Brand",-1116.2
+2017,December,Prod100,"Own Brand",-1495
+2017,December,Prod013,"Own Brand",-1612.7
+2017,December,Prod128,"Distribution",-1631.6
+2017,December,Prod187,"Own Brand",-1979.8
+2017,December,Prod039,"Own Brand",-2188
+2017,December,Prod101,"Own Brand",-2244
+2017,December,Prod057,"Own Brand",-3134.1
+2017,December,Prod118,"Distribution",-3458.5
+2017,December,Prod254,"Own Brand",-3800.7
+2017,December,Prod255,"Own Brand",-3866.6
+2017,December,Prod129,"Distribution",-4290.8
+2017,December,Prod258,"Own Brand",-4571.1
+2017,December,Prod180,"Own Brand",-4802
+2017,December,Prod060,"Own Brand",-5255
+2017,December,Prod123,"Own Brand",-5475.7
+2017,December,Prod177,"Distribution",-5848.7
+2017,December,Prod251,"Distribution",-6178.5
+2017,December,Prod137,"Own Brand",-7816.3
+2017,December,Prod105,"Own Brand",-9389
+2017,December,Prod246,"Own Brand",-10485.8
+2017,December,Prod232,"Own Brand",-12000.3
+2017,December,Prod017,"Own Brand",-12887.2
+2017,December,Prod152,"Own Brand",-13688.4
+2017,December,Prod239,"Own Brand",-17662.3
+2017,December,Prod090,"Own Brand",-22355.8
+2017,December,Prod215,"Own Brand",-22532.2
+2017,December,Prod209,"Own Brand",-23453.9
+2017,December,Prod206,"Distribution",-28835.9
+2017,December,Prod107,"Own Brand",-60156.1
+2017,November,Prod003,"Own Brand",1206660.4
+2017,November,Prod209,"Own Brand",100126.4
+2017,November,Prod099,"Own Brand",92093.9
+2017,November,Prod239,"Own Brand",66094.2
+2017,November,Prod232,"Own Brand",54784.7
+2017,November,Prod206,"Distribution",48158.7
+2017,November,Prod105,"Own Brand",33794.3
+2017,November,Prod220,"Distribution",29763.3
+2017,November,Prod060,"Own Brand",29627
+2017,November,Prod212,"Own Brand",29340.6
+2017,November,Prod188,"Distribution",29234.3
+2017,November,Prod129,"Distribution",29168.8
+2017,November,Prod178,"Own Brand",21656.7
+2017,November,Prod177,"Distribution",21075
+2017,November,Prod252,"Distribution",20050
+2017,November,Prod113,"Distribution",16845.2
+2017,November,Prod065,"Own Brand",16330.7
+2017,November,Prod017,"Own Brand",13627.4
+2017,November,Prod236,"Distribution",13237.4
+2017,November,Prod101,"Own Brand",13172.5
+2017,November,Prod090,"Own Brand",13144.8
+2017,November,Prod221,"Distribution",11680.9
+2017,November,Prod176,"Distribution",11208.3
+2017,November,Prod197,"Own Brand",11158.1
+2017,November,Prod180,"Own Brand",9974.2
+2017,November,Prod126,"Own Brand",9203.9
+2017,November,Prod133,"Own Brand",9139.7
+2017,November,Prod026,"Distribution",8713.5
+2017,November,Prod102,"Own Brand",8628
+2017,November,Prod020,"Own Brand",8160.8
+2017,November,Prod260,"Own Brand",7894.5
+2017,November,Prod216,"Own Brand",7705
+2017,November,Prod152,"Own Brand",7273.5
+2017,November,Prod250,"Distribution",6422.6
+2017,November,Prod064,"Own Brand",5953.7
+2017,November,Prod103,"Own Brand",5663.3
+2017,November,Prod114,"Distribution",4511.2
+2017,November,Prod013,"Own Brand",3912
+2017,November,Prod210,"Own Brand",3790.5
+2017,November,Prod257,"Own Brand",3445
+2017,November,Prod039,"Own Brand",2904.2
+2017,November,Prod134,"Own Brand",2834.6
+2017,November,Prod100,"Own Brand",2640.2
+2017,November,Prod196,"Own Brand",2098.2
+2017,November,Prod128,"Distribution",2017.9
+2017,November,Prod275,"Own Brand",1921.8
+2017,November,Prod027,"Distribution",1579.5
+2017,November,Prod135,"Own Brand",1509.8
+2017,November,Prod213,"Own Brand",1488
+2017,November,Prod274,"Own Brand",1482.9
+2017,November,Prod021,"Own Brand",1328.6
+2017,November,Prod019,"Own Brand",1320.3
+2017,November,Prod263,"Distribution",1168.9
+2017,November,Prod258,"Own Brand",957
+2017,November,Prod122,"Own Brand",845.8
+2017,November,Prod187,"Own Brand",769.9
+2017,November,Prod265,"Distribution",744.3
+2017,November,Prod271,"Own Brand",742.6
+2017,November,Prod199,"Own Brand",696.6
+2017,November,Prod185,"Own Brand",695.6
+2017,November,Prod270,"Own Brand",654.5
+2017,November,Prod035,"Own Brand",627.8
+2017,November,Prod207,"Distribution",563.4
+2017,November,Prod268,"Own Brand",393.1
+2017,November,Prod208,"Own Brand",386.2
+2017,November,Prod242,"Own Brand",372.6
+2017,November,Prod205,"Distribution",300.3
+2017,November,Prod183,"Own Brand",275
+2017,November,Prod272,"Own Brand",215.4
+2017,November,Prod273,"Own Brand",210.8
+2017,November,Prod079,"Own Brand",198.4
+2017,November,Prod094,"Own Brand",189.2
+2017,November,Prod276,"Own Brand",185.9
+2017,November,Prod158,"Distribution",167.9
+2017,November,Prod139,"Own Brand",118.2
+2017,November,Prod014,"Own Brand",109.3
+2017,November,Prod264,"Distribution",67.1
+2017,November,Prod006,"Own Brand",55.8
+2017,November,Prod192,"Distribution",55.6
+2017,November,Prod277,"Own Brand",54.5
+2017,November,Prod157,"Own Brand",54.3
+2017,November,Prod248,"Distribution",51.7
+2017,November,Prod194,"Own Brand",30.5
+2017,November,Prod136,"Own Brand",23.4
+2017,November,Prod098,"Own Brand",23.1
+2017,November,Prod174,"Distribution",15.1
+2017,November,Prod175,"Distribution",10.1
+2017,November,Prod240,"Own Brand",8.4
+2017,November,Prod137,"Own Brand",2.9
+2017,November,Prod219,"Distribution",-13
+2017,November,Prod081,"Own Brand",-19.8
+2017,November,Prod104,"Own Brand",-32.1
+2017,November,Prod251,"Distribution",-319.2
+2017,November,Prod088,"Own Brand",-322.2
+2017,November,Prod016,"Own Brand",-368.4
+2017,November,Prod110,"Distribution",-441.9
+2017,November,Prod092,"Own Brand",-478.5
+2017,November,Prod269,"Own Brand",-517.7
+2017,November,Prod089,"Own Brand",-539.8
+2017,November,Prod218,"Distribution",-566.8
+2017,November,Prod008,"Own Brand",-618.3
+2017,November,Prod278,"Distribution",-631.4
+2017,November,Prod249,"Distribution",-638.5
+2017,November,Prod253,"Own Brand",-752.7
+2017,November,Prod118,"Distribution",-1064
+2017,November,Prod057,"Own Brand",-1119.3
+2017,November,Prod095,"Own Brand",-1122
+2017,November,Prod184,"Own Brand",-1316.4
+2017,November,Prod255,"Own Brand",-1629.7
+2017,November,Prod279,"Distribution",-1710.6
+2017,November,Prod238,"Own Brand",-2300.8
+2017,November,Prod140,"Own Brand",-2333.7
+2017,November,Prod025,"Distribution",-2366.1
+2017,November,Prod033,"Distribution",-2486.5
+2017,November,Prod004,"Own Brand",-2655.3
+2017,November,Prod123,"Own Brand",-2702.3
+2017,November,Prod091,"Own Brand",-2815.7
+2017,November,Prod254,"Own Brand",-3602.1
+2017,November,Prod093,"Own Brand",-4194.9
+2017,November,Prod267,"Distribution",-4476.9
+2017,November,Prod179,"Own Brand",-5179
+2017,November,Prod106,"Own Brand",-6268.7
+2017,November,Prod062,"Own Brand",-6379
+2017,November,Prod214,"Own Brand",-8389.1
+2017,November,Prod246,"Own Brand",-8730.2
+2017,November,Prod245,"Own Brand",-8859.1
+2017,November,Prod241,"Own Brand",-8877.5
+2017,November,Prod117,"Distribution",-10242.1
+2017,November,Prod024,"Distribution",-13616
+2017,November,Prod116,"Distribution",-14788.5
+2017,November,Prod053,"Own Brand",-18126.4
+2017,November,Prod215,"Own Brand",-26452.9
+2017,November,Prod030,"Distribution",-59972.9
+2017,October,Prod025,"Distribution",64098.7
+2017,October,Prod105,"Own Brand",57218.9
+2017,October,Prod245,"Own Brand",51828.4
+2017,October,Prod239,"Own Brand",44799.2
+2017,October,Prod093,"Own Brand",37247
+2017,October,Prod099,"Own Brand",35580
+2017,October,Prod113,"Distribution",27538.9
+2017,October,Prod214,"Own Brand",22427
+2017,October,Prod215,"Own Brand",21980.2
+2017,October,Prod129,"Distribution",19795.2
+2017,October,Prod213,"Own Brand",17698.6
+2017,October,Prod133,"Own Brand",17356
+2017,October,Prod001,"Own Brand",16084
+2017,October,Prod246,"Own Brand",14775.9
+2017,October,Prod013,"Own Brand",14221
+2017,October,Prod210,"Own Brand",13125.3
+2017,October,Prod039,"Own Brand",12059.8
+2017,October,Prod064,"Own Brand",11997.3
+2017,October,Prod157,"Own Brand",10489.8
+2017,October,Prod220,"Distribution",7910.2
+2017,October,Prod267,"Distribution",7466.3
+2017,October,Prod086,"Own Brand",6519.2
+2017,October,Prod081,"Own Brand",6334.6
+2017,October,Prod053,"Own Brand",5849.2
+2017,October,Prod198,"Own Brand",5582.5
+2017,October,Prod030,"Distribution",4782
+2017,October,Prod192,"Distribution",4136.1
+2017,October,Prod033,"Distribution",3857.1
+2017,October,Prod238,"Own Brand",3687
+2017,October,Prod236,"Distribution",3677.1
+2017,October,Prod271,"Own Brand",3644.4
+2017,October,Prod241,"Own Brand",3162.6
+2017,October,Prod177,"Distribution",2720.5
+2017,October,Prod254,"Own Brand",2445.1
+2017,October,Prod221,"Distribution",2439.3
+2017,October,Prod116,"Distribution",2384.9
+2017,October,Prod112,"Distribution",2364.3
+2017,October,Prod249,"Distribution",2362.5
+2017,October,Prod091,"Own Brand",2251.8
+2017,October,Prod114,"Distribution",2062.8
+2017,October,Prod100,"Own Brand",1835
+2017,October,Prod180,"Own Brand",1779.3
+2017,October,Prod140,"Own Brand",1675.3
+2017,October,Prod128,"Distribution",1596.3
+2017,October,Prod103,"Own Brand",1549.5
+2017,October,Prod207,"Distribution",1485.2
+2017,October,Prod118,"Distribution",1440.4
+2017,October,Prod119,"Distribution",1421
+2017,October,Prod027,"Distribution",1321.1
+2017,October,Prod016,"Own Brand",1043.3
+2017,October,Prod218,"Distribution",913.5
+2017,October,Prod279,"Distribution",881.7
+2017,October,Prod211,"Own Brand",827.6
+2017,October,Prod269,"Own Brand",802.6
+2017,October,Prod205,"Distribution",619.6
+2017,October,Prod250,"Distribution",618.4
+2017,October,Prod253,"Own Brand",615.9
+2017,October,Prod135,"Own Brand",605.1
+2017,October,Prod134,"Own Brand",508.9
+2017,October,Prod024,"Distribution",494.4
+2017,October,Prod156,"Own Brand",487.4
+2017,October,Prod069,"Distribution",458.1
+2017,October,Prod275,"Own Brand",432.3
+2017,October,Prod255,"Own Brand",319.6
+2017,October,Prod272,"Own Brand",300.3
+2017,October,Prod263,"Distribution",246.2
+2017,October,Prod242,"Own Brand",216.6
+2017,October,Prod276,"Own Brand",158.7
+2017,October,Prod191,"Distribution",151
+2017,October,Prod006,"Own Brand",150.2
+2017,October,Prod158,"Distribution",135.4
+2017,October,Prod240,"Own Brand",55.4
+2017,October,Prod264,"Distribution",46.9
+2017,October,Prod104,"Own Brand",37
+2017,October,Prod258,"Own Brand",35.9
+2017,October,Prod094,"Own Brand",33.1
+2017,October,Prod194,"Own Brand",22.8
+2017,October,Prod174,"Distribution",7
+2017,October,Prod247,"Own Brand",0
+2017,October,Prod188,"Distribution",-6
+2017,October,Prod248,"Distribution",-6.4
+2017,October,Prod175,"Distribution",-14.2
+2017,October,Prod139,"Own Brand",-32.7
+2017,October,Prod136,"Own Brand",-33.2
+2017,October,Prod274,"Own Brand",-36
+2017,October,Prod273,"Own Brand",-36.4
+2017,October,Prod277,"Own Brand",-46.7
+2017,October,Prod208,"Own Brand",-60.1
+2017,October,Prod256,"Own Brand",-65.9
+2017,October,Prod219,"Distribution",-76.3
+2017,October,Prod004,"Own Brand",-101.6
+2017,October,Prod038,"Own Brand",-105.4
+2017,October,Prod182,"Own Brand",-199.9
+2017,October,Prod278,"Distribution",-213.4
+2017,October,Prod265,"Distribution",-264.7
+2017,October,Prod079,"Own Brand",-289.9
+2017,October,Prod185,"Own Brand",-405
+2017,October,Prod074,"Distribution",-443.4
+2017,October,Prod098,"Own Brand",-458.6
+2017,October,Prod019,"Own Brand",-479.1
+2017,October,Prod088,"Own Brand",-515.6
+2017,October,Prod109,"Own Brand",-522.1
+2017,October,Prod196,"Own Brand",-596.8
+2017,October,Prod066,"Distribution",-979
+2017,October,Prod251,"Distribution",-988.2
+2017,October,Prod270,"Own Brand",-1004.8
+2017,October,Prod123,"Own Brand",-1163.2
+2017,October,Prod268,"Own Brand",-1306.7
+2017,October,Prod092,"Own Brand",-1491.2
+2017,October,Prod122,"Own Brand",-1577.4
+2017,October,Prod176,"Distribution",-1766.6
+2017,October,Prod062,"Own Brand",-2129.8
+2017,October,Prod065,"Own Brand",-2140.2
+2017,October,Prod095,"Own Brand",-2261.6
+2017,October,Prod187,"Own Brand",-2527.2
+2017,October,Prod137,"Own Brand",-3041.5
+2017,October,Prod126,"Own Brand",-3439.3
+2017,October,Prod017,"Own Brand",-3551.6
+2017,October,Prod178,"Own Brand",-4091.8
+2017,October,Prod110,"Distribution",-5024.4
+2017,October,Prod232,"Own Brand",-5112.1
+2017,October,Prod152,"Own Brand",-5408.5
+2017,October,Prod085,"Own Brand",-5801
+2017,October,Prod216,"Own Brand",-7058.8
+2017,October,Prod252,"Distribution",-7295
+2017,October,Prod197,"Own Brand",-7766.5
+2017,October,Prod021,"Own Brand",-9768.7
+2017,October,Prod199,"Own Brand",-9830.7
+2017,October,Prod011,"Own Brand",-11386.8
+2017,October,Prod260,"Own Brand",-12233.3
+2017,October,Prod057,"Own Brand",-13181.8
+2017,October,Prod101,"Own Brand",-13393
+2017,October,Prod106,"Own Brand",-15079.9
+2017,October,Prod020,"Own Brand",-17869.1
+2017,October,Prod117,"Distribution",-18110.8
+2017,October,Prod206,"Distribution",-20160.8
+2017,October,Prod212,"Own Brand",-20571.1
+2017,October,Prod209,"Own Brand",-26885.3
+2017,October,Prod102,"Own Brand",-37596.1
+2017,October,Prod026,"Distribution",-37704.8
+2017,October,Prod060,"Own Brand",-42430.4
+2017,October,Prod090,"Own Brand",-45917.3
+2017,October,Prod179,"Own Brand",-61546.2
+2018,April,Prod167,"Own Brand",173977.9
+2018,April,Prod040,"Own Brand",132701.1
+2018,April,Prod169,"Own Brand",59748
+2018,April,Prod245,"Own Brand",53718.6
+2018,April,Prod220,"Distribution",47016.9
+2018,April,Prod232,"Own Brand",46666.7
+2018,April,Prod214,"Own Brand",42599.7
+2018,April,Prod236,"Distribution",37501.7
+2018,April,Prod187,"Own Brand",33614.7
+2018,April,Prod106,"Own Brand",31810.9
+2018,April,Prod024,"Distribution",30644.5
+2018,April,Prod060,"Own Brand",30018.3
+2018,April,Prod093,"Own Brand",28099
+2018,April,Prod053,"Own Brand",23766.9
+2018,April,Prod065,"Own Brand",20361.5
+2018,April,Prod123,"Own Brand",19843.5
+2018,April,Prod209,"Own Brand",19685.4
+2018,April,Prod215,"Own Brand",18071.6
+2018,April,Prod161,"Distribution",16475.5
+2018,April,Prod129,"Distribution",13152.2
+2018,April,Prod178,"Own Brand",12713.2
+2018,April,Prod267,"Distribution",12658.1
+2018,April,Prod057,"Own Brand",11753.6
+2018,April,Prod018,"Own Brand",10739.9
+2018,April,Prod260,"Own Brand",9079.7
+2018,April,Prod013,"Own Brand",9050.1
+2018,April,Prod043,"Own Brand",8954.3
+2018,April,Prod062,"Own Brand",8375.8
+2018,April,Prod258,"Own Brand",7866.6
+2018,April,Prod261,"Own Brand",7325
+2018,April,Prod160,"Distribution",5918.8
+2018,April,Prod166,"Own Brand",5525.2
+2018,April,Prod098,"Own Brand",4947.2
+2018,April,Prod103,"Own Brand",4698.7
+2018,April,Prod251,"Distribution",4165.1
+2018,April,Prod216,"Own Brand",4012.1
+2018,April,Prod025,"Distribution",4000
+2018,April,Prod268,"Own Brand",3310.5
+2018,April,Prod204,"Distribution",3110.8
+2018,April,Prod255,"Own Brand",3109.2
+2018,April,Prod137,"Own Brand",2573.9
+2018,April,Prod249,"Distribution",2513.1
+2018,April,Prod032,"Distribution",1938.6
+2018,April,Prod241,"Own Brand",1918.1
+2018,April,Prod269,"Own Brand",1750.8
+2018,April,Prod033,"Distribution",1547.7
+2018,April,Prod110,"Distribution",1387.2
+2018,April,Prod122,"Own Brand",1370.4
+2018,April,Prod017,"Own Brand",1333.4
+2018,April,Prod157,"Own Brand",1329.8
+2018,April,Prod039,"Own Brand",1228.9
+2018,April,Prod253,"Own Brand",1094.9
+2018,April,Prod114,"Distribution",1043.4
+2018,April,Prod270,"Own Brand",1022.7
+2018,April,Prod275,"Own Brand",987.2
+2018,April,Prod028,"Distribution",949.5
+2018,April,Prod263,"Distribution",940.9
+2018,April,Prod116,"Distribution",809.6
+2018,April,Prod207,"Distribution",668.5
+2018,April,Prod250,"Distribution",466.6
+2018,April,Prod279,"Distribution",444.7
+2018,April,Prod037,"Own Brand",439.7
+2018,April,Prod128,"Distribution",346.4
+2018,April,Prod274,"Own Brand",305.1
+2018,April,Prod172,"Own Brand",219.6
+2018,April,Prod023,"Distribution",219.1
+2018,April,Prod138,"Own Brand",208.3
+2018,April,Prod010,"Own Brand",198.7
+2018,April,Prod164,"Own Brand",177.8
+2018,April,Prod174,"Distribution",135.3
+2018,April,Prod248,"Distribution",131
+2018,April,Prod205,"Distribution",130.7
+2018,April,Prod119,"Distribution",130.2
+2018,April,Prod259,"Own Brand",106.4
+2018,April,Prod096,"Own Brand",99.8
+2018,April,Prod052,"Own Brand",80.3
+2018,April,Prod219,"Distribution",60.7
+2018,April,Prod139,"Own Brand",39.9
+2018,April,Prod046,"Own Brand",27.2
+2018,April,Prod002,"Own Brand",17.5
+2018,April,Prod063,"Own Brand",15.8
+2018,April,Prod042,"Own Brand",0
+2018,April,Prod278,"Distribution",-14.2
+2018,April,Prod230,"Own Brand",-71.3
+2018,April,Prod089,"Own Brand",-125.1
+2018,April,Prod276,"Own Brand",-125.4
+2018,April,Prod264,"Distribution",-126.7
+2018,April,Prod088,"Own Brand",-128.9
+2018,April,Prod273,"Own Brand",-143.4
+2018,April,Prod048,"Own Brand",-149.1
+2018,April,Prod184,"Own Brand",-183.9
+2018,April,Prod029,"Distribution",-202.6
+2018,April,Prod221,"Distribution",-216.1
+2018,April,Prod272,"Own Brand",-278.5
+2018,April,Prod193,"Own Brand",-451
+2018,April,Prod011,"Own Brand",-761.9
+2018,April,Prod208,"Own Brand",-839.3
+2018,April,Prod218,"Distribution",-951.8
+2018,April,Prod265,"Distribution",-1059.2
+2018,April,Prod126,"Own Brand",-1168
+2018,April,Prod095,"Own Brand",-1182.8
+2018,April,Prod140,"Own Brand",-1488.5
+2018,April,Prod134,"Own Brand",-1671.1
+2018,April,Prod152,"Own Brand",-1977
+2018,April,Prod195,"Own Brand",-2086.1
+2018,April,Prod091,"Own Brand",-2404.3
+2018,April,Prod148,"Own Brand",-2422.3
+2018,April,Prod067,"Distribution",-2488.9
+2018,April,Prod034,"Own Brand",-2613.8
+2018,April,Prod176,"Distribution",-2738.2
+2018,April,Prod068,"Distribution",-2844.5
+2018,April,Prod238,"Own Brand",-3001.5
+2018,April,Prod158,"Distribution",-3379.8
+2018,April,Prod101,"Own Brand",-3706.2
+2018,April,Prod242,"Own Brand",-3724.9
+2018,April,Prod097,"Own Brand",-4106.7
+2018,April,Prod113,"Distribution",-4678
+2018,April,Prod036,"Own Brand",-4825.4
+2018,April,Prod118,"Distribution",-4877.3
+2018,April,Prod254,"Own Brand",-4891.2
+2018,April,Prod100,"Own Brand",-5010.5
+2018,April,Prod117,"Distribution",-7017.2
+2018,April,Prod252,"Distribution",-8377.4
+2018,April,Prod271,"Own Brand",-11706.7
+2018,April,Prod246,"Own Brand",-12865.2
+2018,April,Prod133,"Own Brand",-15052.1
+2018,April,Prod105,"Own Brand",-15529.6
+2018,April,Prod159,"Distribution",-16117.9
+2018,April,Prod092,"Own Brand",-18346.9
+2018,April,Prod102,"Own Brand",-18763
+2018,April,Prod038,"Own Brand",-19832.8
+2018,April,Prod212,"Own Brand",-20311.2
+2018,April,Prod239,"Own Brand",-21530.9
+2018,April,Prod213,"Own Brand",-23305
+2018,April,Prod135,"Own Brand",-24392.6
+2018,April,Prod210,"Own Brand",-24401.1
+2018,April,Prod206,"Distribution",-29059.7
+2018,April,Prod090,"Own Brand",-38387.7
+2018,April,Prod049,"Own Brand",-43916.9
+2018,April,Prod099,"Own Brand",-49340.2
+2018,August,Prod159,"Distribution",82833.5
+2018,August,Prod245,"Own Brand",80242.9
+2018,August,Prod239,"Own Brand",68265.4
+2018,August,Prod040,"Own Brand",51203
+2018,August,Prod133,"Own Brand",38016.2
+2018,August,Prod252,"Distribution",28936
+2018,August,Prod106,"Own Brand",27162.8
+2018,August,Prod018,"Own Brand",22849.1
+2018,August,Prod117,"Distribution",18579.8
+2018,August,Prod057,"Own Brand",16676.1
+2018,August,Prod024,"Distribution",15214.8
+2018,August,Prod090,"Own Brand",15178.7
+2018,August,Prod060,"Own Brand",14042.3
+2018,August,Prod215,"Own Brand",13884.1
+2018,August,Prod214,"Own Brand",12824.8
+2018,August,Prod209,"Own Brand",11034.5
+2018,August,Prod161,"Distribution",9882.7
+2018,August,Prod052,"Own Brand",8856
+2018,August,Prod271,"Own Brand",8071.9
+2018,August,Prod251,"Distribution",7335.9
+2018,August,Prod250,"Distribution",7324.3
+2018,August,Prod122,"Own Brand",7094.8
+2018,August,Prod051,"Own Brand",6639
+2018,August,Prod099,"Own Brand",6214.6
+2018,August,Prod221,"Distribution",5681.7
+2018,August,Prod025,"Distribution",5221.7
+2018,August,Prod102,"Own Brand",5156.7
+2018,August,Prod085,"Own Brand",4796.3
+2018,August,Prod213,"Own Brand",4716.1
+2018,August,Prod199,"Own Brand",3264.9
+2018,August,Prod204,"Distribution",3068.9
+2018,August,Prod169,"Own Brand",3042.4
+2018,August,Prod246,"Own Brand",2833.3
+2018,August,Prod187,"Own Brand",2782.1
+2018,August,Prod253,"Own Brand",2600.3
+2018,August,Prod126,"Own Brand",2594.1
+2018,August,Prod118,"Distribution",2476
+2018,August,Prod140,"Own Brand",2146.7
+2018,August,Prod103,"Own Brand",2041.4
+2018,August,Prod268,"Own Brand",2023.2
+2018,August,Prod089,"Own Brand",1821.7
+2018,August,Prod170,"Own Brand",1645.3
+2018,August,Prod135,"Own Brand",1596
+2018,August,Prod257,"Own Brand",1521.6
+2018,August,Prod272,"Own Brand",1497.1
+2018,August,Prod263,"Distribution",1387.3
+2018,August,Prod275,"Own Brand",1195
+2018,August,Prod218,"Distribution",960
+2018,August,Prod172,"Own Brand",919.2
+2018,August,Prod005,"Own Brand",879.6
+2018,August,Prod255,"Own Brand",814.9
+2018,August,Prod088,"Own Brand",773.3
+2018,August,Prod195,"Own Brand",714.5
+2018,August,Prod205,"Distribution",700.6
+2018,August,Prod216,"Own Brand",565.7
+2018,August,Prod114,"Distribution",557.9
+2018,August,Prod193,"Own Brand",540.9
+2018,August,Prod091,"Own Brand",520.3
+2018,August,Prod105,"Own Brand",517.7
+2018,August,Prod092,"Own Brand",441.7
+2018,August,Prod123,"Own Brand",439.3
+2018,August,Prod241,"Own Brand",417.8
+2018,August,Prod270,"Own Brand",363.6
+2018,August,Prod249,"Distribution",306
+2018,August,Prod278,"Distribution",274.3
+2018,August,Prod276,"Own Brand",196
+2018,August,Prod274,"Own Brand",192.3
+2018,August,Prod259,"Own Brand",165.5
+2018,August,Prod148,"Own Brand",147.7
+2018,August,Prod219,"Distribution",102.5
+2018,August,Prod011,"Own Brand",95.6
+2018,August,Prod139,"Own Brand",94.5
+2018,August,Prod156,"Own Brand",79.4
+2018,August,Prod178,"Own Brand",42.9
+2018,August,Prod094,"Own Brand",24.5
+2018,August,Prod104,"Own Brand",4.6
+2018,August,Prod217,"Own Brand",-6.6
+2018,August,Prod264,"Distribution",-28.1
+2018,August,Prod192,"Distribution",-34.5
+2018,August,Prod063,"Own Brand",-49.8
+2018,August,Prod039,"Own Brand",-62.2
+2018,August,Prod149,"Own Brand",-67.9
+2018,August,Prod043,"Own Brand",-83.4
+2018,August,Prod138,"Own Brand",-93.8
+2018,August,Prod277,"Own Brand",-131.1
+2018,August,Prod269,"Own Brand",-133.3
+2018,August,Prod116,"Distribution",-134.4
+2018,August,Prod046,"Own Brand",-137.6
+2018,August,Prod242,"Own Brand",-144.4
+2018,August,Prod164,"Own Brand",-159.5
+2018,August,Prod279,"Distribution",-217.4
+2018,August,Prod208,"Own Brand",-346.9
+2018,August,Prod042,"Own Brand",-400.9
+2018,August,Prod158,"Distribution",-429.7
+2018,August,Prod207,"Distribution",-457.4
+2018,August,Prod273,"Own Brand",-511.3
+2018,August,Prod137,"Own Brand",-514.6
+2018,August,Prod162,"Distribution",-554.9
+2018,August,Prod096,"Own Brand",-562
+2018,August,Prod176,"Distribution",-788.1
+2018,August,Prod152,"Own Brand",-849
+2018,August,Prod220,"Distribution",-904.3
+2018,August,Prod254,"Own Brand",-1010.8
+2018,August,Prod136,"Own Brand",-1219.9
+2018,August,Prod093,"Own Brand",-1266.7
+2018,August,Prod119,"Distribution",-1618.5
+2018,August,Prod134,"Own Brand",-1781
+2018,August,Prod174,"Distribution",-2068
+2018,August,Prod016,"Own Brand",-2413.6
+2018,August,Prod265,"Distribution",-2422
+2018,August,Prod157,"Own Brand",-3768.2
+2018,August,Prod098,"Own Brand",-4065.6
+2018,August,Prod212,"Own Brand",-4967.8
+2018,August,Prod128,"Distribution",-5031.1
+2018,August,Prod238,"Own Brand",-5108.5
+2018,August,Prod260,"Own Brand",-5910.5
+2018,August,Prod110,"Distribution",-5983
+2018,August,Prod258,"Own Brand",-7192.7
+2018,August,Prod261,"Own Brand",-7538.8
+2018,August,Prod236,"Distribution",-7792.4
+2018,August,Prod166,"Own Brand",-8586.7
+2018,August,Prod065,"Own Brand",-9152.2
+2018,August,Prod062,"Own Brand",-9434.8
+2018,August,Prod033,"Distribution",-9573.4
+2018,August,Prod113,"Distribution",-11332.2
+2018,August,Prod267,"Distribution",-13675.5
+2018,August,Prod053,"Own Brand",-13699.5
+2018,August,Prod129,"Distribution",-15345.3
+2018,August,Prod210,"Own Brand",-16375.9
+2018,August,Prod232,"Own Brand",-17783.7
+2018,August,Prod160,"Distribution",-19570.3
+2018,August,Prod049,"Own Brand",-27041.8
+2018,August,Prod206,"Distribution",-40654.3
+2018,August,Prod167,"Own Brand",-120624.4
+2018,December,Prod040,"Own Brand",48156.3
+2018,December,Prod160,"Distribution",47781.5
+2018,December,Prod052,"Own Brand",47191.5
+2018,December,Prod113,"Distribution",36637.9
+2018,December,Prod214,"Own Brand",33288.7
+2018,December,Prod206,"Distribution",31999.6
+2018,December,Prod060,"Own Brand",30080.1
+2018,December,Prod051,"Own Brand",29752.7
+2018,December,Prod018,"Own Brand",27574
+2018,December,Prod106,"Own Brand",26033.5
+2018,December,Prod065,"Own Brand",22364.2
+2018,December,Prod110,"Distribution",19673.7
+2018,December,Prod126,"Own Brand",16091.5
+2018,December,Prod209,"Own Brand",15850.4
+2018,December,Prod239,"Own Brand",14757
+2018,December,Prod210,"Own Brand",14241.2
+2018,December,Prod221,"Distribution",13308.8
+2018,December,Prod254,"Own Brand",13050.6
+2018,December,Prod134,"Own Brand",12565.2
+2018,December,Prod213,"Own Brand",12437.2
+2018,December,Prod159,"Distribution",11700.5
+2018,December,Prod116,"Distribution",10925
+2018,December,Prod057,"Own Brand",10267.2
+2018,December,Prod025,"Distribution",9417.4
+2018,December,Prod246,"Own Brand",8315.9
+2018,December,Prod232,"Own Brand",7979.7
+2018,December,Prod119,"Distribution",6995.1
+2018,December,Prod098,"Own Brand",6841.1
+2018,December,Prod123,"Own Brand",6681.5
+2018,December,Prod090,"Own Brand",6302.6
+2018,December,Prod271,"Own Brand",5601.7
+2018,December,Prod176,"Distribution",4946.5
+2018,December,Prod131,"Distribution",4851.9
+2018,December,Prod117,"Distribution",4587.1
+2018,December,Prod150,"Own Brand",4553.8
+2018,December,Prod129,"Distribution",4236.8
+2018,December,Prod114,"Distribution",3808.3
+2018,December,Prod245,"Own Brand",3313.6
+2018,December,Prod056,"Own Brand",2984.3
+2018,December,Prod133,"Own Brand",2486.9
+2018,December,Prod260,"Own Brand",2234.8
+2018,December,Prod158,"Distribution",2188.3
+2018,December,Prod045,"Own Brand",2067.1
+2018,December,Prod218,"Distribution",2041.7
+2018,December,Prod128,"Distribution",1937.6
+2018,December,Prod241,"Own Brand",1836.6
+2018,December,Prod122,"Own Brand",1635.1
+2018,December,Prod249,"Distribution",1415.5
+2018,December,Prod275,"Own Brand",1303.6
+2018,December,Prod250,"Distribution",1170.2
+2018,December,Prod093,"Own Brand",936.5
+2018,December,Prod152,"Own Brand",877
+2018,December,Prod042,"Own Brand",868.4
+2018,December,Prod278,"Distribution",812.9
+2018,December,Prod062,"Own Brand",781.1
+2018,December,Prod255,"Own Brand",635.8
+2018,December,Prod276,"Own Brand",539.2
+2018,December,Prod139,"Own Brand",505.7
+2018,December,Prod269,"Own Brand",427.9
+2018,December,Prod263,"Distribution",383.9
+2018,December,Prod273,"Own Brand",361.6
+2018,December,Prod274,"Own Brand",354.6
+2018,December,Prod272,"Own Brand",333.5
+2018,December,Prod265,"Distribution",319.6
+2018,December,Prod048,"Own Brand",215.9
+2018,December,Prod088,"Own Brand",193.3
+2018,December,Prod135,"Own Brand",180.9
+2018,December,Prod161,"Distribution",171.4
+2018,December,Prod091,"Own Brand",127.7
+2018,December,Prod118,"Distribution",112.4
+2018,December,Prod148,"Own Brand",103.4
+2018,December,Prod208,"Own Brand",95.4
+2018,December,Prod005,"Own Brand",89.5
+2018,December,Prod235,"Distribution",66.6
+2018,December,Prod104,"Own Brand",30.7
+2018,December,Prod089,"Own Brand",28.9
+2018,December,Prod120,"Distribution",19.4
+2018,December,Prod096,"Own Brand",0
+2018,December,Prod257,"Own Brand",0
+2018,December,Prod162,"Distribution",-7.5
+2018,December,Prod170,"Own Brand",-13.3
+2018,December,Prod205,"Distribution",-23.2
+2018,December,Prod011,"Own Brand",-66.8
+2018,December,Prod264,"Distribution",-113.2
+2018,December,Prod149,"Own Brand",-126.3
+2018,December,Prod046,"Own Brand",-133.6
+2018,December,Prod092,"Own Brand",-460.8
+2018,December,Prod140,"Own Brand",-519.5
+2018,December,Prod270,"Own Brand",-567.1
+2018,December,Prod242,"Own Brand",-785.8
+2018,December,Prod279,"Distribution",-932.4
+2018,December,Prod231,"Own Brand",-1227.3
+2018,December,Prod137,"Own Brand",-1329.6
+2018,December,Prod100,"Own Brand",-1393.8
+2018,December,Prod268,"Own Brand",-1520
+2018,December,Prod207,"Distribution",-1541
+2018,December,Prod252,"Distribution",-2026.8
+2018,December,Prod166,"Own Brand",-2119.6
+2018,December,Prod103,"Own Brand",-2183.5
+2018,December,Prod053,"Own Brand",-2316.8
+2018,December,Prod167,"Own Brand",-2521
+2018,December,Prod238,"Own Brand",-2729.8
+2018,December,Prod085,"Own Brand",-2916.6
+2018,December,Prod251,"Distribution",-5722.2
+2018,December,Prod267,"Distribution",-6419.9
+2018,December,Prod024,"Distribution",-7093.3
+2018,December,Prod204,"Distribution",-7152.1
+2018,December,Prod216,"Own Brand",-8297.4
+2018,December,Prod258,"Own Brand",-8344.4
+2018,December,Prod199,"Own Brand",-10436
+2018,December,Prod049,"Own Brand",-10572.4
+2018,December,Prod043,"Own Brand",-11588.5
+2018,December,Prod236,"Distribution",-14289.4
+2018,December,Prod261,"Own Brand",-15589
+2018,December,Prod102,"Own Brand",-17352.5
+2018,December,Prod220,"Distribution",-19230
+2018,December,Prod212,"Own Brand",-22804.3
+2018,December,Prod215,"Own Brand",-52661.7
+2018,December,Prod044,"Own Brand",-142052.8
+2018,February,Prod049,"Own Brand",133457.3
+2018,February,Prod166,"Own Brand",97888.5
+2018,February,Prod099,"Own Brand",81228.8
+2018,February,Prod090,"Own Brand",78671.2
+2018,February,Prod040,"Own Brand",54347.3
+2018,February,Prod045,"Own Brand",48796.5
+2018,February,Prod102,"Own Brand",48717.2
+2018,February,Prod232,"Own Brand",32448.5
+2018,February,Prod053,"Own Brand",27891.4
+2018,February,Prod057,"Own Brand",26651.5
+2018,February,Prod214,"Own Brand",20818.9
+2018,February,Prod043,"Own Brand",20113.4
+2018,February,Prod065,"Own Brand",19558.9
+2018,February,Prod060,"Own Brand",19484.4
+2018,February,Prod106,"Own Brand",17915.9
+2018,February,Prod252,"Distribution",15453.4
+2018,February,Prod117,"Distribution",15188
+2018,February,Prod123,"Own Brand",13371.7
+2018,February,Prod101,"Own Brand",12516.1
+2018,February,Prod017,"Own Brand",12020.4
+2018,February,Prod254,"Own Brand",10702.8
+2018,February,Prod246,"Own Brand",9749.1
+2018,February,Prod024,"Distribution",8639.6
+2018,February,Prod261,"Own Brand",8480.2
+2018,February,Prod206,"Distribution",7137.6
+2018,February,Prod239,"Own Brand",6799.2
+2018,February,Prod187,"Own Brand",6428.5
+2018,February,Prod267,"Distribution",6413.7
+2018,February,Prod250,"Distribution",6230.9
+2018,February,Prod215,"Own Brand",5581.9
+2018,February,Prod271,"Own Brand",4281
+2018,February,Prod091,"Own Brand",4248.4
+2018,February,Prod257,"Own Brand",3440.1
+2018,February,Prod098,"Own Brand",2693.3
+2018,February,Prod052,"Own Brand",2525.4
+2018,February,Prod129,"Distribution",2508.2
+2018,February,Prod253,"Own Brand",1916
+2018,February,Prod249,"Distribution",1853.1
+2018,February,Prod114,"Distribution",1803.6
+2018,February,Prod033,"Distribution",1779.7
+2018,February,Prod176,"Distribution",1325
+2018,February,Prod075,"Distribution",1283.9
+2018,February,Prod042,"Own Brand",1004.7
+2018,February,Prod140,"Own Brand",1002.4
+2018,February,Prod255,"Own Brand",883.1
+2018,February,Prod185,"Own Brand",840.3
+2018,February,Prod019,"Own Brand",827.3
+2018,February,Prod021,"Own Brand",824.4
+2018,February,Prod186,"Own Brand",800
+2018,February,Prod218,"Distribution",711.4
+2018,February,Prod220,"Distribution",685.6
+2018,February,Prod020,"Own Brand",664.4
+2018,February,Prod274,"Own Brand",631.1
+2018,February,Prod088,"Own Brand",514.8
+2018,February,Prod094,"Own Brand",486.9
+2018,February,Prod272,"Own Brand",474.3
+2018,February,Prod270,"Own Brand",454.6
+2018,February,Prod269,"Own Brand",422.7
+2018,February,Prod100,"Own Brand",397.2
+2018,February,Prod264,"Distribution",383.8
+2018,February,Prod011,"Own Brand",264
+2018,February,Prod275,"Own Brand",227.5
+2018,February,Prod038,"Own Brand",185
+2018,February,Prod208,"Own Brand",164.2
+2018,February,Prod119,"Distribution",160.2
+2018,February,Prod006,"Own Brand",140
+2018,February,Prod156,"Own Brand",112.8
+2018,February,Prod089,"Own Brand",111
+2018,February,Prod134,"Own Brand",100.2
+2018,February,Prod196,"Own Brand",69.2
+2018,February,Prod039,"Own Brand",59
+2018,February,Prod259,"Own Brand",49.2
+2018,February,Prod016,"Own Brand",46.6
+2018,February,Prod184,"Own Brand",34
+2018,February,Prod278,"Distribution",29.8
+2018,February,Prod136,"Own Brand",24
+2018,February,Prod139,"Own Brand",6.4
+2018,February,Prod164,"Own Brand",-2.1
+2018,February,Prod219,"Distribution",-4.3
+2018,February,Prod174,"Distribution",-9.3
+2018,February,Prod192,"Distribution",-16.7
+2018,February,Prod104,"Own Brand",-26
+2018,February,Prod172,"Own Brand",-36.9
+2018,February,Prod063,"Own Brand",-38.9
+2018,February,Prod137,"Own Brand",-78.2
+2018,February,Prod126,"Own Brand",-111.1
+2018,February,Prod265,"Distribution",-130.2
+2018,February,Prod095,"Own Brand",-158.4
+2018,February,Prod152,"Own Brand",-222.5
+2018,February,Prod279,"Distribution",-231.3
+2018,February,Prod258,"Own Brand",-236
+2018,February,Prod273,"Own Brand",-257.9
+2018,February,Prod205,"Distribution",-278.7
+2018,February,Prod179,"Own Brand",-386.6
+2018,February,Prod241,"Own Brand",-441.4
+2018,February,Prod263,"Distribution",-459.6
+2018,February,Prod276,"Own Brand",-463.7
+2018,February,Prod093,"Own Brand",-470.6
+2018,February,Prod004,"Own Brand",-569.6
+2018,February,Prod079,"Own Brand",-572.8
+2018,February,Prod268,"Own Brand",-648.3
+2018,February,Prod180,"Own Brand",-691.1
+2018,February,Prod092,"Own Brand",-699.4
+2018,February,Prod242,"Own Brand",-881.7
+2018,February,Prod128,"Distribution",-1531.7
+2018,February,Prod158,"Distribution",-1888
+2018,February,Prod116,"Distribution",-2472.4
+2018,February,Prod103,"Own Brand",-2626.4
+2018,February,Prod046,"Own Brand",-2723.5
+2018,February,Prod026,"Distribution",-2931.8
+2018,February,Prod110,"Distribution",-2964.8
+2018,February,Prod118,"Distribution",-3006.7
+2018,February,Prod204,"Distribution",-3013.2
+2018,February,Prod209,"Own Brand",-3097.9
+2018,February,Prod062,"Own Brand",-3578.7
+2018,February,Prod221,"Distribution",-4394.6
+2018,February,Prod018,"Own Brand",-4562.3
+2018,February,Prod122,"Own Brand",-5450.6
+2018,February,Prod197,"Own Brand",-5907.3
+2018,February,Prod238,"Own Brand",-6103.9
+2018,February,Prod251,"Distribution",-7277.1
+2018,February,Prod080,"Own Brand",-8288.4
+2018,February,Prod203,"Distribution",-8555.5
+2018,February,Prod260,"Own Brand",-9289.3
+2018,February,Prod030,"Distribution",-9394.7
+2018,February,Prod199,"Own Brand",-11533.8
+2018,February,Prod216,"Own Brand",-13737.1
+2018,February,Prod213,"Own Brand",-14177.2
+2018,February,Prod135,"Own Brand",-15271.5
+2018,February,Prod210,"Own Brand",-16450.5
+2018,February,Prod133,"Own Brand",-18952.4
+2018,February,Prod159,"Distribution",-19813.5
+2018,February,Prod105,"Own Brand",-20155.5
+2018,February,Prod113,"Distribution",-22294.6
+2018,February,Prod048,"Own Brand",-27985.7
+2018,February,Prod236,"Distribution",-29588.2
+2018,February,Prod212,"Own Brand",-31433.5
+2018,February,Prod160,"Distribution",-32935.5
+2018,February,Prod013,"Own Brand",-33246.2
+2018,February,Prod167,"Own Brand",-42776.4
+2018,February,Prod245,"Own Brand",-59272
+2018,January,Prod046,"Own Brand",192599.6
+2018,January,Prod040,"Own Brand",126282.1
+2018,January,Prod160,"Distribution",50454.3
+2018,January,Prod239,"Own Brand",45652.2
+2018,January,Prod049,"Own Brand",40902.6
+2018,January,Prod057,"Own Brand",40227.1
+2018,January,Prod043,"Own Brand",32159.6
+2018,January,Prod024,"Distribution",28698.6
+2018,January,Prod215,"Own Brand",28530.9
+2018,January,Prod236,"Distribution",27801.3
+2018,January,Prod053,"Own Brand",26504
+2018,January,Prod090,"Own Brand",25819.5
+2018,January,Prod166,"Own Brand",23420.7
+2018,January,Prod117,"Distribution",21774.9
+2018,January,Prod133,"Own Brand",20507.2
+2018,January,Prod102,"Own Brand",20063.2
+2018,January,Prod042,"Own Brand",19289.4
+2018,January,Prod209,"Own Brand",18397.7
+2018,January,Prod101,"Own Brand",14472.7
+2018,January,Prod110,"Distribution",13491
+2018,January,Prod245,"Own Brand",13321.1
+2018,January,Prod105,"Own Brand",12960.2
+2018,January,Prod017,"Own Brand",12740.6
+2018,January,Prod045,"Own Brand",11611.9
+2018,January,Prod123,"Own Brand",11437.1
+2018,January,Prod221,"Distribution",7892.8
+2018,January,Prod220,"Distribution",7391.4
+2018,January,Prod176,"Distribution",5123.1
+2018,January,Prod250,"Distribution",5082
+2018,January,Prod253,"Own Brand",4928.4
+2018,January,Prod249,"Distribution",3419.7
+2018,January,Prod119,"Distribution",3319.4
+2018,January,Prod013,"Own Brand",3317.8
+2018,January,Prod134,"Own Brand",3125.7
+2018,January,Prod118,"Distribution",2895.9
+2018,January,Prod265,"Distribution",2074.2
+2018,January,Prod033,"Distribution",2023.1
+2018,January,Prod114,"Distribution",2006
+2018,January,Prod135,"Own Brand",1864.3
+2018,January,Prod052,"Own Brand",1775.6
+2018,January,Prod196,"Own Brand",1509.9
+2018,January,Prod019,"Own Brand",1454.7
+2018,January,Prod258,"Own Brand",1443.3
+2018,January,Prod255,"Own Brand",1439.5
+2018,January,Prod092,"Own Brand",1362
+2018,January,Prod275,"Own Brand",1288.9
+2018,January,Prod063,"Own Brand",1278
+2018,January,Prod270,"Own Brand",1029
+2018,January,Prod238,"Own Brand",725.7
+2018,January,Prod205,"Distribution",657.2
+2018,January,Prod178,"Own Brand",514.8
+2018,January,Prod273,"Own Brand",491.3
+2018,January,Prod268,"Own Brand",468.6
+2018,January,Prod272,"Own Brand",466.7
+2018,January,Prod185,"Own Brand",457.7
+2018,January,Prod208,"Own Brand",448.9
+2018,January,Prod191,"Distribution",430.4
+2018,January,Prod276,"Own Brand",195
+2018,January,Prod218,"Distribution",187.1
+2018,January,Prod261,"Own Brand",179.9
+2018,January,Prod177,"Distribution",139.4
+2018,January,Prod192,"Distribution",134.2
+2018,January,Prod089,"Own Brand",116.9
+2018,January,Prod207,"Distribution",111.6
+2018,January,Prod139,"Own Brand",91.7
+2018,January,Prod016,"Own Brand",58.8
+2018,January,Prod172,"Own Brand",47.5
+2018,January,Prod174,"Distribution",40.6
+2018,January,Prod156,"Own Brand",35.9
+2018,January,Prod136,"Own Brand",7.8
+2018,January,Prod274,"Own Brand",1.7
+2018,January,Prod263,"Distribution",-3.9
+2018,January,Prod104,"Own Brand",-46.2
+2018,January,Prod157,"Own Brand",-50.7
+2018,January,Prod079,"Own Brand",-59.8
+2018,January,Prod094,"Own Brand",-65.8
+2018,January,Prod108,"Own Brand",-76.8
+2018,January,Prod021,"Own Brand",-88
+2018,January,Prod271,"Own Brand",-94.3
+2018,January,Prod109,"Own Brand",-98.8
+2018,January,Prod248,"Distribution",-112.5
+2018,January,Prod219,"Distribution",-116.1
+2018,January,Prod039,"Own Brand",-135.8
+2018,January,Prod032,"Distribution",-152.6
+2018,January,Prod188,"Distribution",-197.7
+2018,January,Prod074,"Distribution",-208.8
+2018,January,Prod004,"Own Brand",-234.8
+2018,January,Prod267,"Distribution",-241.7
+2018,January,Prod204,"Distribution",-244.5
+2018,January,Prod269,"Own Brand",-295.1
+2018,January,Prod088,"Own Brand",-326.3
+2018,January,Prod264,"Distribution",-375.3
+2018,January,Prod278,"Distribution",-411.5
+2018,January,Prod137,"Own Brand",-681.7
+2018,January,Prod140,"Own Brand",-735.9
+2018,January,Prod279,"Distribution",-959.2
+2018,January,Prod103,"Own Brand",-1013.7
+2018,January,Prod152,"Own Brand",-1106.5
+2018,January,Prod246,"Own Brand",-1330.4
+2018,January,Prod180,"Own Brand",-1350.7
+2018,January,Prod095,"Own Brand",-1396
+2018,January,Prod128,"Distribution",-1403.6
+2018,January,Prod091,"Own Brand",-1415.7
+2018,January,Prod116,"Distribution",-1493
+2018,January,Prod242,"Own Brand",-1594.3
+2018,January,Prod251,"Distribution",-1624.5
+2018,January,Prod122,"Own Brand",-2364.8
+2018,January,Prod241,"Own Brand",-2629.2
+2018,January,Prod260,"Own Brand",-2917.4
+2018,January,Prod098,"Own Brand",-3633.8
+2018,January,Prod093,"Own Brand",-4554.8
+2018,January,Prod113,"Distribution",-5749.3
+2018,January,Prod187,"Own Brand",-6233.8
+2018,January,Prod026,"Distribution",-6655.3
+2018,January,Prod100,"Own Brand",-6718.4
+2018,January,Prod212,"Own Brand",-6791.8
+2018,January,Prod199,"Own Brand",-7431.4
+2018,January,Prod062,"Own Brand",-7761
+2018,January,Prod126,"Own Brand",-7980.5
+2018,January,Prod106,"Own Brand",-8427.2
+2018,January,Prod252,"Distribution",-8923.8
+2018,January,Prod213,"Own Brand",-13529.2
+2018,January,Prod206,"Distribution",-13995.5
+2018,January,Prod060,"Own Brand",-15553.5
+2018,January,Prod210,"Own Brand",-17727.1
+2018,January,Prod232,"Own Brand",-18028.2
+2018,January,Prod216,"Own Brand",-18281.2
+2018,January,Prod018,"Own Brand",-18463.9
+2018,January,Prod129,"Distribution",-19059.7
+2018,January,Prod065,"Own Brand",-21284.3
+2018,January,Prod214,"Own Brand",-23739.4
+2018,January,Prod254,"Own Brand",-26889.8
+2018,January,Prod048,"Own Brand",-69424.6
+2018,January,Prod159,"Distribution",-109625.4
+2018,January,Prod099,"Own Brand",-147024.3
+2018,July,Prod090,"Own Brand",150887.1
+2018,July,Prod162,"Distribution",64314.3
+2018,July,Prod209,"Own Brand",52817
+2018,July,Prod214,"Own Brand",42889
+2018,July,Prod212,"Own Brand",41037.6
+2018,July,Prod053,"Own Brand",38429.2
+2018,July,Prod040,"Own Brand",31557.5
+2018,July,Prod239,"Own Brand",30160.4
+2018,July,Prod210,"Own Brand",29516.2
+2018,July,Prod106,"Own Brand",23377.8
+2018,July,Prod060,"Own Brand",22145.4
+2018,July,Prod045,"Own Brand",21796.7
+2018,July,Prod057,"Own Brand",20810.4
+2018,July,Prod260,"Own Brand",20202.5
+2018,July,Prod220,"Distribution",20106.2
+2018,July,Prod133,"Own Brand",17110.8
+2018,July,Prod172,"Own Brand",16752.8
+2018,July,Prod267,"Distribution",16631.7
+2018,July,Prod170,"Own Brand",12831.2
+2018,July,Prod024,"Distribution",12271.1
+2018,July,Prod137,"Own Brand",11898.3
+2018,July,Prod186,"Own Brand",11553.9
+2018,July,Prod126,"Own Brand",11196.2
+2018,July,Prod065,"Own Brand",11122.3
+2018,July,Prod067,"Distribution",10020
+2018,July,Prod113,"Distribution",9907.3
+2018,July,Prod117,"Distribution",9742.8
+2018,July,Prod129,"Distribution",9430.4
+2018,July,Prod062,"Own Brand",9398.2
+2018,July,Prod246,"Own Brand",9019
+2018,July,Prod261,"Own Brand",8658.4
+2018,July,Prod216,"Own Brand",8560.1
+2018,July,Prod221,"Distribution",8530.7
+2018,July,Prod049,"Own Brand",7555.9
+2018,July,Prod043,"Own Brand",6793.5
+2018,July,Prod116,"Distribution",6479.8
+2018,July,Prod091,"Own Brand",5877.3
+2018,July,Prod093,"Own Brand",5785.2
+2018,July,Prod252,"Distribution",5434
+2018,July,Prod236,"Distribution",5188.7
+2018,July,Prod241,"Own Brand",4938.2
+2018,July,Prod202,"Own Brand",4127.8
+2018,July,Prod176,"Distribution",3886.5
+2018,July,Prod099,"Own Brand",3693.2
+2018,July,Prod251,"Distribution",3490
+2018,July,Prod238,"Own Brand",3350.9
+2018,July,Prod167,"Own Brand",3302.3
+2018,July,Prod103,"Own Brand",3281.1
+2018,July,Prod135,"Own Brand",2630
+2018,July,Prod119,"Distribution",2214.8
+2018,July,Prod098,"Own Brand",2179.8
+2018,July,Prod249,"Distribution",2002.5
+2018,July,Prod245,"Own Brand",1880.7
+2018,July,Prod033,"Distribution",1859.1
+2018,July,Prod279,"Distribution",1851.2
+2018,July,Prod078,"Own Brand",1699.5
+2018,July,Prod011,"Own Brand",1592.5
+2018,July,Prod128,"Distribution",1459.8
+2018,July,Prod265,"Distribution",1439.6
+2018,July,Prod270,"Own Brand",1382.3
+2018,July,Prod156,"Own Brand",1258.5
+2018,July,Prod114,"Distribution",1002.4
+2018,July,Prod268,"Own Brand",879.8
+2018,July,Prod271,"Own Brand",865.2
+2018,July,Prod152,"Own Brand",778.4
+2018,July,Prod101,"Own Brand",733.1
+2018,July,Prod118,"Distribution",565
+2018,July,Prod275,"Own Brand",523.1
+2018,July,Prod258,"Own Brand",510.7
+2018,July,Prod148,"Own Brand",485.7
+2018,July,Prod185,"Own Brand",338.4
+2018,July,Prod218,"Distribution",260.9
+2018,July,Prod257,"Own Brand",260
+2018,July,Prod264,"Distribution",241.5
+2018,July,Prod193,"Own Brand",221.3
+2018,July,Prod010,"Own Brand",200.6
+2018,July,Prod100,"Own Brand",164.8
+2018,July,Prod157,"Own Brand",98.3
+2018,July,Prod039,"Own Brand",63.7
+2018,July,Prod063,"Own Brand",42.7
+2018,July,Prod079,"Own Brand",38
+2018,July,Prod184,"Own Brand",21.3
+2018,July,Prod096,"Own Brand",13.2
+2018,July,Prod213,"Own Brand",8.4
+2018,July,Prod048,"Own Brand",-5.1
+2018,July,Prod092,"Own Brand",-11.9
+2018,July,Prod219,"Distribution",-13.3
+2018,July,Prod139,"Own Brand",-16.8
+2018,July,Prod161,"Distribution",-36.7
+2018,July,Prod242,"Own Brand",-39.8
+2018,July,Prod207,"Distribution",-43.1
+2018,July,Prod198,"Own Brand",-58.4
+2018,July,Prod052,"Own Brand",-76.2
+2018,July,Prod095,"Own Brand",-77.3
+2018,July,Prod046,"Own Brand",-78.5
+2018,July,Prod205,"Distribution",-96.7
+2018,July,Prod038,"Own Brand",-114.9
+2018,July,Prod269,"Own Brand",-130.1
+2018,July,Prod276,"Own Brand",-136.2
+2018,July,Prod263,"Distribution",-163.2
+2018,July,Prod274,"Own Brand",-293.8
+2018,July,Prod138,"Own Brand",-343.3
+2018,July,Prod208,"Own Brand",-379.1
+2018,July,Prod042,"Own Brand",-390.9
+2018,July,Prod273,"Own Brand",-575.5
+2018,July,Prod278,"Distribution",-637
+2018,July,Prod110,"Distribution",-653.2
+2018,July,Prod123,"Own Brand",-673.7
+2018,July,Prod272,"Own Brand",-873.5
+2018,July,Prod005,"Own Brand",-896.4
+2018,July,Prod025,"Distribution",-904.3
+2018,July,Prod250,"Distribution",-1013.4
+2018,July,Prod254,"Own Brand",-1343.1
+2018,July,Prod088,"Own Brand",-1546.6
+2018,July,Prod105,"Own Brand",-1565.3
+2018,July,Prod136,"Own Brand",-1751.2
+2018,July,Prod255,"Own Brand",-1869.5
+2018,July,Prod134,"Own Brand",-1923
+2018,July,Prod253,"Own Brand",-2121.3
+2018,July,Prod122,"Own Brand",-2325.2
+2018,July,Prod160,"Distribution",-2630.4
+2018,July,Prod187,"Own Brand",-2893.8
+2018,July,Prod232,"Own Brand",-3164.8
+2018,July,Prod159,"Distribution",-3823
+2018,July,Prod140,"Own Brand",-4096
+2018,July,Prod018,"Own Brand",-4403.6
+2018,July,Prod068,"Distribution",-4453.3
+2018,July,Prod166,"Own Brand",-7299.2
+2018,July,Prod051,"Own Brand",-8991.4
+2018,July,Prod102,"Own Brand",-9236.4
+2018,July,Prod204,"Distribution",-9425.5
+2018,July,Prod206,"Distribution",-10601.7
+2018,July,Prod158,"Distribution",-18542.6
+2018,July,Prod089,"Own Brand",-20622.3
+2018,July,Prod215,"Own Brand",-77702.9
+2018,July,Prod016,"Own Brand",-117629.6
+2018,June,Prod209,"Own Brand",63830.4
+2018,June,Prod090,"Own Brand",59609.2
+2018,June,Prod053,"Own Brand",57813.8
+2018,June,Prod060,"Own Brand",42394.7
+2018,June,Prod267,"Distribution",35612.2
+2018,June,Prod215,"Own Brand",28785.2
+2018,June,Prod025,"Distribution",26602.6
+2018,June,Prod129,"Distribution",25676.7
+2018,June,Prod057,"Own Brand",23503.9
+2018,June,Prod221,"Distribution",20037.2
+2018,June,Prod252,"Distribution",19369.9
+2018,June,Prod018,"Own Brand",18709.2
+2018,June,Prod113,"Distribution",18263.3
+2018,June,Prod232,"Own Brand",13553.3
+2018,June,Prod210,"Own Brand",13319.9
+2018,June,Prod010,"Own Brand",10606.1
+2018,June,Prod093,"Own Brand",10470.1
+2018,June,Prod167,"Own Brand",10425.8
+2018,June,Prod126,"Own Brand",9978.2
+2018,June,Prod140,"Own Brand",9733.8
+2018,June,Prod170,"Own Brand",9437.6
+2018,June,Prod250,"Distribution",8887.9
+2018,June,Prod051,"Own Brand",8750
+2018,June,Prod161,"Distribution",8705.3
+2018,June,Prod012,"Own Brand",7412
+2018,June,Prod005,"Own Brand",7324.7
+2018,June,Prod048,"Own Brand",7182.9
+2018,June,Prod162,"Distribution",7055
+2018,June,Prod100,"Own Brand",7035.8
+2018,June,Prod116,"Distribution",6172.9
+2018,June,Prod092,"Own Brand",5843.1
+2018,June,Prod160,"Distribution",5787.3
+2018,June,Prod214,"Own Brand",5721.3
+2018,June,Prod177,"Distribution",5455.2
+2018,June,Prod095,"Own Brand",5027
+2018,June,Prod135,"Own Brand",4585.7
+2018,June,Prod052,"Own Brand",4570.7
+2018,June,Prod254,"Own Brand",3963.1
+2018,June,Prod255,"Own Brand",3665.9
+2018,June,Prod261,"Own Brand",3621.4
+2018,June,Prod213,"Own Brand",3544.8
+2018,June,Prod279,"Distribution",3387.5
+2018,June,Prod246,"Own Brand",3323.9
+2018,June,Prod091,"Own Brand",3209.5
+2018,June,Prod257,"Own Brand",3177.8
+2018,June,Prod117,"Distribution",2989.8
+2018,June,Prod236,"Distribution",2896.6
+2018,June,Prod106,"Own Brand",2252.9
+2018,June,Prod134,"Own Brand",2001.2
+2018,June,Prod265,"Distribution",1925.7
+2018,June,Prod271,"Own Brand",1902
+2018,June,Prod122,"Own Brand",1640.4
+2018,June,Prod205,"Distribution",1563.9
+2018,June,Prod238,"Own Brand",1457.7
+2018,June,Prod033,"Distribution",1290.8
+2018,June,Prod187,"Own Brand",1037.2
+2018,June,Prod273,"Own Brand",1026.6
+2018,June,Prod272,"Own Brand",987.6
+2018,June,Prod105,"Own Brand",974.1
+2018,June,Prod159,"Distribution",923.3
+2018,June,Prod152,"Own Brand",907.2
+2018,June,Prod011,"Own Brand",756.5
+2018,June,Prod103,"Own Brand",670.3
+2018,June,Prod251,"Distribution",598
+2018,June,Prod275,"Own Brand",597.7
+2018,June,Prod208,"Own Brand",583
+2018,June,Prod260,"Own Brand",580.7
+2018,June,Prod263,"Distribution",545.8
+2018,June,Prod023,"Distribution",529.9
+2018,June,Prod039,"Own Brand",460.5
+2018,June,Prod098,"Own Brand",335.6
+2018,June,Prod046,"Own Brand",281
+2018,June,Prod278,"Distribution",260.1
+2018,June,Prod185,"Own Brand",247.8
+2018,June,Prod276,"Own Brand",187.5
+2018,June,Prod096,"Own Brand",186.9
+2018,June,Prod259,"Own Brand",141
+2018,June,Prod138,"Own Brand",127.3
+2018,June,Prod269,"Own Brand",117.4
+2018,June,Prod043,"Own Brand",74.7
+2018,June,Prod274,"Own Brand",69.2
+2018,June,Prod064,"Own Brand",51.8
+2018,June,Prod270,"Own Brand",42.6
+2018,June,Prod063,"Own Brand",41.3
+2018,June,Prod076,"Distribution",40.6
+2018,June,Prod218,"Distribution",39.5
+2018,June,Prod038,"Own Brand",37.2
+2018,June,Prod034,"Own Brand",3.2
+2018,June,Prod248,"Distribution",-46.3
+2018,June,Prod139,"Own Brand",-57.3
+2018,June,Prod242,"Own Brand",-58
+2018,June,Prod264,"Distribution",-118.2
+2018,June,Prod081,"Own Brand",-152.1
+2018,June,Prod277,"Own Brand",-154.4
+2018,June,Prod118,"Distribution",-203.8
+2018,June,Prod136,"Own Brand",-270.2
+2018,June,Prod268,"Own Brand",-324
+2018,June,Prod137,"Own Brand",-403.3
+2018,June,Prod207,"Distribution",-499.3
+2018,June,Prod017,"Own Brand",-566.1
+2018,June,Prod002,"Own Brand",-789.4
+2018,June,Prod176,"Distribution",-794.4
+2018,June,Prod245,"Own Brand",-1000.5
+2018,June,Prod128,"Distribution",-1029.6
+2018,June,Prod148,"Own Brand",-1363.9
+2018,June,Prod088,"Own Brand",-1460.6
+2018,June,Prod130,"Distribution",-1557.4
+2018,June,Prod067,"Distribution",-1855.6
+2018,June,Prod089,"Own Brand",-1937.1
+2018,June,Prod172,"Own Brand",-2333.4
+2018,June,Prod166,"Own Brand",-2537.5
+2018,June,Prod193,"Own Brand",-2898.3
+2018,June,Prod133,"Own Brand",-2928
+2018,June,Prod249,"Distribution",-2978.6
+2018,June,Prod119,"Distribution",-2996.2
+2018,June,Prod258,"Own Brand",-4282.2
+2018,June,Prod114,"Distribution",-4742.1
+2018,June,Prod241,"Own Brand",-6119.7
+2018,June,Prod016,"Own Brand",-7468.5
+2018,June,Prod204,"Distribution",-9012.9
+2018,June,Prod062,"Own Brand",-11201.5
+2018,June,Prod045,"Own Brand",-11273.7
+2018,June,Prod206,"Distribution",-12057
+2018,June,Prod212,"Own Brand",-12377.7
+2018,June,Prod239,"Own Brand",-14237.5
+2018,June,Prod123,"Own Brand",-14782.4
+2018,June,Prod110,"Distribution",-16190.2
+2018,June,Prod065,"Own Brand",-17259.7
+2018,June,Prod178,"Own Brand",-17694.6
+2018,June,Prod042,"Own Brand",-17945.5
+2018,June,Prod099,"Own Brand",-22780.4
+2018,June,Prod049,"Own Brand",-28850
+2018,June,Prod068,"Distribution",-29688.8
+2018,June,Prod169,"Own Brand",-32189
+2018,June,Prod040,"Own Brand",-32364.6
+2018,June,Prod220,"Distribution",-33008.3
+2018,June,Prod216,"Own Brand",-40718.5
+2018,June,Prod102,"Own Brand",-42761.6
+2018,June,Prod101,"Own Brand",-45393.6
+2018,June,Prod024,"Distribution",-97275.1
+2018,March,Prod049,"Own Brand",355992.3
+2018,March,Prod040,"Own Brand",313440.6
+2018,March,Prod090,"Own Brand",102557.3
+2018,March,Prod099,"Own Brand",86750.3
+2018,March,Prod102,"Own Brand",66454.8
+2018,March,Prod065,"Own Brand",49643.6
+2018,March,Prod164,"Own Brand",49544.6
+2018,March,Prod214,"Own Brand",41201.3
+2018,March,Prod060,"Own Brand",37255.4
+2018,March,Prod053,"Own Brand",34710.6
+2018,March,Prod105,"Own Brand",32886
+2018,March,Prod252,"Distribution",29554.1
+2018,March,Prod123,"Own Brand",26757
+2018,March,Prod159,"Distribution",25686.2
+2018,March,Prod096,"Own Brand",23352.2
+2018,March,Prod057,"Own Brand",21163.2
+2018,March,Prod210,"Own Brand",20772.3
+2018,March,Prod232,"Own Brand",18046.6
+2018,March,Prod106,"Own Brand",17137.3
+2018,March,Prod221,"Distribution",14874.2
+2018,March,Prod117,"Distribution",14168.5
+2018,March,Prod245,"Own Brand",13700.1
+2018,March,Prod113,"Distribution",11512
+2018,March,Prod215,"Own Brand",11356.2
+2018,March,Prod238,"Own Brand",10269.6
+2018,March,Prod236,"Distribution",10043.9
+2018,March,Prod209,"Own Brand",10007.6
+2018,March,Prod026,"Distribution",9903
+2018,March,Prod101,"Own Brand",8742.2
+2018,March,Prod129,"Distribution",8365.8
+2018,March,Prod246,"Own Brand",7613.1
+2018,March,Prod160,"Distribution",7047.1
+2018,March,Prod260,"Own Brand",5836.5
+2018,March,Prod204,"Distribution",5755.1
+2018,March,Prod267,"Distribution",5422.2
+2018,March,Prod116,"Distribution",4856.3
+2018,March,Prod212,"Own Brand",4827.7
+2018,March,Prod019,"Own Brand",3989.7
+2018,March,Prod258,"Own Brand",3983.4
+2018,March,Prod265,"Distribution",3189.6
+2018,March,Prod134,"Own Brand",3155
+2018,March,Prod048,"Own Brand",3030.2
+2018,March,Prod186,"Own Brand",2980.6
+2018,March,Prod255,"Own Brand",2419.4
+2018,March,Prod263,"Distribution",2294.4
+2018,March,Prod268,"Own Brand",2195.6
+2018,March,Prod137,"Own Brand",2122.1
+2018,March,Prod279,"Distribution",1931.6
+2018,March,Prod018,"Own Brand",1802.4
+2018,March,Prod095,"Own Brand",1769.8
+2018,March,Prod199,"Own Brand",1548.2
+2018,March,Prod098,"Own Brand",1533.2
+2018,March,Prod110,"Distribution",1473.2
+2018,March,Prod136,"Own Brand",1343.6
+2018,March,Prod249,"Distribution",1195.9
+2018,March,Prod011,"Own Brand",1106
+2018,March,Prod274,"Own Brand",888.4
+2018,March,Prod250,"Distribution",860.7
+2018,March,Prod195,"Own Brand",811.6
+2018,March,Prod273,"Own Brand",677.7
+2018,March,Prod025,"Distribution",500
+2018,March,Prod138,"Own Brand",478.4
+2018,March,Prod128,"Distribution",476.8
+2018,March,Prod119,"Distribution",418.2
+2018,March,Prod276,"Own Brand",367
+2018,March,Prod205,"Distribution",265.1
+2018,March,Prod140,"Own Brand",236.6
+2018,March,Prod177,"Distribution",159.6
+2018,March,Prod275,"Own Brand",122.9
+2018,March,Prod200,"Own Brand",121.2
+2018,March,Prod270,"Own Brand",104.8
+2018,March,Prod032,"Distribution",90.6
+2018,March,Prod180,"Own Brand",89.2
+2018,March,Prod079,"Own Brand",61.7
+2018,March,Prod139,"Own Brand",54.2
+2018,March,Prod063,"Own Brand",30
+2018,March,Prod033,"Distribution",15.3
+2018,March,Prod208,"Own Brand",-1
+2018,March,Prod174,"Distribution",-11.6
+2018,March,Prod219,"Distribution",-14.3
+2018,March,Prod094,"Own Brand",-35.6
+2018,March,Prod218,"Distribution",-79
+2018,March,Prod207,"Distribution",-135.9
+2018,March,Prod152,"Own Brand",-144.1
+2018,March,Prod133,"Own Brand",-194.5
+2018,March,Prod183,"Own Brand",-209.5
+2018,March,Prod242,"Own Brand",-250.5
+2018,March,Prod269,"Own Brand",-306.3
+2018,March,Prod185,"Own Brand",-368.7
+2018,March,Prod271,"Own Brand",-508.6
+2018,March,Prod046,"Own Brand",-682.1
+2018,March,Prod135,"Own Brand",-763.5
+2018,March,Prod014,"Own Brand",-872.7
+2018,March,Prod264,"Distribution",-1041.2
+2018,March,Prod039,"Own Brand",-1093.1
+2018,March,Prod239,"Own Brand",-1133.6
+2018,March,Prod254,"Own Brand",-1149.4
+2018,March,Prod122,"Own Brand",-1677.6
+2018,March,Prod172,"Own Brand",-1727.9
+2018,March,Prod093,"Own Brand",-1854.5
+2018,March,Prod091,"Own Brand",-1859.1
+2018,March,Prod173,"Distribution",-2074.1
+2018,March,Prod193,"Own Brand",-2124.5
+2018,March,Prod241,"Own Brand",-2579.9
+2018,March,Prod278,"Distribution",-3042.3
+2018,March,Prod251,"Distribution",-3661.6
+2018,March,Prod104,"Own Brand",-3687.4
+2018,March,Prod062,"Own Brand",-3909.4
+2018,March,Prod118,"Distribution",-4260.5
+2018,March,Prod114,"Distribution",-4449.9
+2018,March,Prod191,"Distribution",-4465.4
+2018,March,Prod176,"Distribution",-5741.4
+2018,March,Prod043,"Own Brand",-5796.4
+2018,March,Prod272,"Own Brand",-6432.2
+2018,March,Prod089,"Own Brand",-6679.1
+2018,March,Prod187,"Own Brand",-7225.2
+2018,March,Prod261,"Own Brand",-7756.1
+2018,March,Prod103,"Own Brand",-9779.6
+2018,March,Prod092,"Own Brand",-11051.8
+2018,March,Prod213,"Own Brand",-13059.5
+2018,March,Prod220,"Distribution",-13501.9
+2018,March,Prod042,"Own Brand",-13935.3
+2018,March,Prod167,"Own Brand",-14299.2
+2018,March,Prod148,"Own Brand",-14851.1
+2018,March,Prod216,"Own Brand",-16227.7
+2018,March,Prod126,"Own Brand",-20479.8
+2018,March,Prod100,"Own Brand",-21229.5
+2018,March,Prod206,"Distribution",-29772.4
+2018,March,Prod166,"Own Brand",-84484.8
+2018,March,Prod052,"Own Brand",-87700.1
+2018,March,Prod024,"Distribution",-127149.9
+2018,March,Prod169,"Own Brand",-147141
+2018,May,Prod090,"Own Brand",121738.4
+2018,May,Prod159,"Distribution",70074.7
+2018,May,Prod167,"Own Brand",40898.7
+2018,May,Prod065,"Own Brand",28512.5
+2018,May,Prod049,"Own Brand",27453.8
+2018,May,Prod129,"Distribution",26475.8
+2018,May,Prod252,"Distribution",25734.2
+2018,May,Prod053,"Own Brand",25232
+2018,May,Prod123,"Own Brand",23686.7
+2018,May,Prod236,"Distribution",23439.1
+2018,May,Prod206,"Distribution",21740.7
+2018,May,Prod215,"Own Brand",18237.4
+2018,May,Prod164,"Own Brand",18000.7
+2018,May,Prod209,"Own Brand",16875.4
+2018,May,Prod254,"Own Brand",14291
+2018,May,Prod212,"Own Brand",12956.3
+2018,May,Prod133,"Own Brand",12900.2
+2018,May,Prod024,"Distribution",12236.6
+2018,May,Prod043,"Own Brand",11958
+2018,May,Prod128,"Distribution",9224.6
+2018,May,Prod232,"Own Brand",8885.1
+2018,May,Prod187,"Own Brand",7730.6
+2018,May,Prod239,"Own Brand",7591.9
+2018,May,Prod246,"Own Brand",7571.3
+2018,May,Prod046,"Own Brand",6922.4
+2018,May,Prod213,"Own Brand",6775.9
+2018,May,Prod186,"Own Brand",6117.2
+2018,May,Prod214,"Own Brand",6070.2
+2018,May,Prod010,"Own Brand",5639.4
+2018,May,Prod157,"Own Brand",5024.5
+2018,May,Prod122,"Own Brand",3810.1
+2018,May,Prod221,"Distribution",3744.9
+2018,May,Prod204,"Distribution",3726
+2018,May,Prod267,"Distribution",3704.1
+2018,May,Prod100,"Own Brand",3465
+2018,May,Prod101,"Own Brand",3167.8
+2018,May,Prod110,"Distribution",3133.9
+2018,May,Prod176,"Distribution",2826.6
+2018,May,Prod089,"Own Brand",2613.8
+2018,May,Prod105,"Own Brand",2531.4
+2018,May,Prod067,"Distribution",2311.1
+2018,May,Prod278,"Distribution",2302
+2018,May,Prod255,"Own Brand",2203.3
+2018,May,Prod137,"Own Brand",2201.1
+2018,May,Prod064,"Own Brand",2185.8
+2018,May,Prod116,"Distribution",2012.7
+2018,May,Prod264,"Distribution",1982.7
+2018,May,Prod257,"Own Brand",1950
+2018,May,Prod275,"Own Brand",1650.2
+2018,May,Prod193,"Own Brand",1522.6
+2018,May,Prod152,"Own Brand",1324.6
+2018,May,Prod258,"Own Brand",1002.8
+2018,May,Prod253,"Own Brand",860.2
+2018,May,Prod269,"Own Brand",786.1
+2018,May,Prod268,"Own Brand",777.5
+2018,May,Prod279,"Distribution",762.4
+2018,May,Prod208,"Own Brand",684.6
+2018,May,Prod039,"Own Brand",526.7
+2018,May,Prod217,"Own Brand",463.4
+2018,May,Prod161,"Distribution",420.8
+2018,May,Prod092,"Own Brand",404.9
+2018,May,Prod276,"Own Brand",288.4
+2018,May,Prod048,"Own Brand",246.7
+2018,May,Prod185,"Own Brand",166.5
+2018,May,Prod013,"Own Brand",157.4
+2018,May,Prod052,"Own Brand",143.3
+2018,May,Prod205,"Distribution",127.5
+2018,May,Prod274,"Own Brand",103.9
+2018,May,Prod273,"Own Brand",100.8
+2018,May,Prod042,"Own Brand",97.7
+2018,May,Prod265,"Distribution",66.9
+2018,May,Prod172,"Own Brand",37.4
+2018,May,Prod242,"Own Brand",36.7
+2018,May,Prod111,"Distribution",24
+2018,May,Prod115,"Distribution",22.3
+2018,May,Prod178,"Own Brand",6.7
+2018,May,Prod068,"Distribution",0
+2018,May,Prod182,"Own Brand",-17.1
+2018,May,Prod063,"Own Brand",-23.7
+2018,May,Prod130,"Distribution",-53.4
+2018,May,Prod082,"Own Brand",-90.4
+2018,May,Prod219,"Distribution",-103.1
+2018,May,Prod259,"Own Brand",-124.5
+2018,May,Prod140,"Own Brand",-128.2
+2018,May,Prod249,"Distribution",-133
+2018,May,Prod066,"Distribution",-193.4
+2018,May,Prod148,"Own Brand",-229.8
+2018,May,Prod272,"Own Brand",-246.4
+2018,May,Prod139,"Own Brand",-262.3
+2018,May,Prod015,"Own Brand",-277.1
+2018,May,Prod136,"Own Brand",-322.4
+2018,May,Prod138,"Own Brand",-353.2
+2018,May,Prod238,"Own Brand",-447.8
+2018,May,Prod248,"Distribution",-498.4
+2018,May,Prod263,"Distribution",-752.1
+2018,May,Prod218,"Distribution",-847.6
+2018,May,Prod077,"Distribution",-886.2
+2018,May,Prod166,"Own Brand",-920.3
+2018,May,Prod088,"Own Brand",-1192.3
+2018,May,Prod270,"Own Brand",-1224.2
+2018,May,Prod098,"Own Brand",-1391.9
+2018,May,Prod134,"Own Brand",-1692.3
+2018,May,Prod032,"Distribution",-1871.8
+2018,May,Prod103,"Own Brand",-1928.1
+2018,May,Prod241,"Own Brand",-2409.4
+2018,May,Prod126,"Own Brand",-2816.3
+2018,May,Prod091,"Own Brand",-2824.6
+2018,May,Prod160,"Distribution",-2893.7
+2018,May,Prod011,"Own Brand",-3024.1
+2018,May,Prod207,"Distribution",-3203.4
+2018,May,Prod210,"Own Brand",-3245.6
+2018,May,Prod025,"Distribution",-3366.7
+2018,May,Prod119,"Distribution",-3516
+2018,May,Prod250,"Distribution",-3606.1
+2018,May,Prod114,"Distribution",-4137.1
+2018,May,Prod118,"Distribution",-4382.4
+2018,May,Prod033,"Distribution",-4416.1
+2018,May,Prod135,"Own Brand",-4438.2
+2018,May,Prod113,"Distribution",-6339.6
+2018,May,Prod251,"Distribution",-6352.5
+2018,May,Prod087,"Own Brand",-6519.2
+2018,May,Prod117,"Distribution",-6964.5
+2018,May,Prod260,"Own Brand",-6988.8
+2018,May,Prod093,"Own Brand",-10180
+2018,May,Prod095,"Own Brand",-11318.2
+2018,May,Prod060,"Own Brand",-11390.8
+2018,May,Prod216,"Own Brand",-11592
+2018,May,Prod057,"Own Brand",-12541.7
+2018,May,Prod271,"Own Brand",-13581.1
+2018,May,Prod062,"Own Brand",-15337.6
+2018,May,Prod220,"Distribution",-15895.3
+2018,May,Prod017,"Own Brand",-18293.6
+2018,May,Prod040,"Own Brand",-21943.7
+2018,May,Prod245,"Own Brand",-24911.2
+2018,May,Prod102,"Own Brand",-29392.1
+2018,May,Prod261,"Own Brand",-29621.7
+2018,May,Prod099,"Own Brand",-29808.3
+2018,May,Prod018,"Own Brand",-35122
+2018,May,Prod169,"Own Brand",-41665.1
+2018,May,Prod106,"Own Brand",-67435.6
+2018,November,Prod018,"Own Brand",81815.6
+2018,November,Prod204,"Distribution",78227.2
+2018,November,Prod215,"Own Brand",61398.5
+2018,November,Prod159,"Distribution",55066
+2018,November,Prod077,"Distribution",51556.4
+2018,November,Prod123,"Own Brand",43720.8
+2018,November,Prod239,"Own Brand",42391.1
+2018,November,Prod212,"Own Brand",35630
+2018,November,Prod206,"Distribution",35433.9
+2018,November,Prod209,"Own Brand",30530.4
+2018,November,Prod102,"Own Brand",27009.3
+2018,November,Prod117,"Distribution",18725.2
+2018,November,Prod150,"Own Brand",18720.9
+2018,November,Prod053,"Own Brand",18483.6
+2018,November,Prod044,"Own Brand",17611.7
+2018,November,Prod241,"Own Brand",16659.9
+2018,November,Prod046,"Own Brand",16409.5
+2018,November,Prod160,"Distribution",16309.4
+2018,November,Prod024,"Distribution",15369.3
+2018,November,Prod056,"Own Brand",14735.1
+2018,November,Prod216,"Own Brand",14359.8
+2018,November,Prod271,"Own Brand",9195.3
+2018,November,Prod221,"Distribution",8942.7
+2018,November,Prod025,"Distribution",8906.5
+2018,November,Prod116,"Distribution",7690.9
+2018,November,Prod060,"Own Brand",7484.3
+2018,November,Prod089,"Own Brand",7136.9
+2018,November,Prod134,"Own Brand",6812.2
+2018,November,Prod210,"Own Brand",6578.7
+2018,November,Prod090,"Own Brand",6195.2
+2018,November,Prod049,"Own Brand",5995.4
+2018,November,Prod169,"Own Brand",5918
+2018,November,Prod133,"Own Brand",5548.8
+2018,November,Prod085,"Own Brand",5249.9
+2018,November,Prod245,"Own Brand",5067.1
+2018,November,Prod114,"Distribution",4914.6
+2018,November,Prod261,"Own Brand",3712.6
+2018,November,Prod051,"Own Brand",3268.8
+2018,November,Prod110,"Distribution",3255.9
+2018,November,Prod088,"Own Brand",2706.7
+2018,November,Prod267,"Distribution",2317.8
+2018,November,Prod103,"Own Brand",2311.2
+2018,November,Prod011,"Own Brand",1963.2
+2018,November,Prod098,"Own Brand",1664.8
+2018,November,Prod276,"Own Brand",1302.2
+2018,November,Prod257,"Own Brand",1227.7
+2018,November,Prod205,"Distribution",1101.3
+2018,November,Prod207,"Distribution",1078.4
+2018,November,Prod208,"Own Brand",756.6
+2018,November,Prod260,"Own Brand",696.6
+2018,November,Prod278,"Distribution",552
+2018,November,Prod149,"Own Brand",516.9
+2018,November,Prod269,"Own Brand",501.6
+2018,November,Prod264,"Distribution",473.4
+2018,November,Prod135,"Own Brand",456
+2018,November,Prod265,"Distribution",449.7
+2018,November,Prod100,"Own Brand",404.5
+2018,November,Prod270,"Own Brand",355.6
+2018,November,Prod218,"Distribution",277.7
+2018,November,Prod043,"Own Brand",214.3
+2018,November,Prod273,"Own Brand",213.9
+2018,November,Prod009,"Own Brand",181.9
+2018,November,Prod048,"Own Brand",169.6
+2018,November,Prod164,"Own Brand",142.7
+2018,November,Prod259,"Own Brand",111.5
+2018,November,Prod104,"Own Brand",58.1
+2018,November,Prod274,"Own Brand",52.7
+2018,November,Prod005,"Own Brand",11
+2018,November,Prod139,"Own Brand",5.6
+2018,November,Prod140,"Own Brand",2.5
+2018,November,Prod219,"Distribution",-3
+2018,November,Prod263,"Distribution",-6.2
+2018,November,Prod170,"Own Brand",-12.1
+2018,November,Prod185,"Own Brand",-41.3
+2018,November,Prod220,"Distribution",-49
+2018,November,Prod279,"Distribution",-108.4
+2018,November,Prod258,"Own Brand",-110.2
+2018,November,Prod152,"Own Brand",-135.9
+2018,November,Prod272,"Own Brand",-180.2
+2018,November,Prod148,"Own Brand",-241.6
+2018,November,Prod042,"Own Brand",-364.9
+2018,November,Prod199,"Own Brand",-521.4
+2018,November,Prod057,"Own Brand",-563.4
+2018,November,Prod253,"Own Brand",-794.7
+2018,November,Prod213,"Own Brand",-825
+2018,November,Prod137,"Own Brand",-1128.2
+2018,November,Prod021,"Own Brand",-1212.3
+2018,November,Prod242,"Own Brand",-1239.7
+2018,November,Prod249,"Distribution",-1592
+2018,November,Prod162,"Distribution",-1669.8
+2018,November,Prod268,"Own Brand",-1695.9
+2018,November,Prod255,"Own Brand",-1805
+2018,November,Prod251,"Distribution",-1811
+2018,November,Prod122,"Own Brand",-1847.1
+2018,November,Prod157,"Own Brand",-1847.2
+2018,November,Prod065,"Own Brand",-1892.2
+2018,November,Prod254,"Own Brand",-1943.1
+2018,November,Prod062,"Own Brand",-2019.8
+2018,November,Prod250,"Distribution",-2288.7
+2018,November,Prod158,"Distribution",-2298.2
+2018,November,Prod275,"Own Brand",-2526.8
+2018,November,Prod118,"Distribution",-2559.9
+2018,November,Prod238,"Own Brand",-2642.6
+2018,November,Prod093,"Own Brand",-2786.3
+2018,November,Prod119,"Distribution",-2901.9
+2018,November,Prod113,"Distribution",-4241.3
+2018,November,Prod128,"Distribution",-4587.2
+2018,November,Prod129,"Distribution",-4850.9
+2018,November,Prod232,"Own Brand",-4926
+2018,November,Prod091,"Own Brand",-7614.9
+2018,November,Prod161,"Distribution",-7898.5
+2018,November,Prod246,"Own Brand",-8377.9
+2018,November,Prod166,"Own Brand",-8963.2
+2018,November,Prod052,"Own Brand",-9679.9
+2018,November,Prod126,"Own Brand",-9718.9
+2018,November,Prod120,"Distribution",-10257.1
+2018,November,Prod176,"Distribution",-10511.3
+2018,November,Prod033,"Distribution",-11654.8
+2018,November,Prod236,"Distribution",-13483.7
+2018,November,Prod252,"Distribution",-16024.7
+2018,November,Prod106,"Own Brand",-16701.6
+2018,November,Prod131,"Distribution",-21543.2
+2018,November,Prod167,"Own Brand",-25477
+2018,November,Prod214,"Own Brand",-28701.3
+2018,November,Prod040,"Own Brand",-48825.9
+2018,October,Prod024,"Distribution",69209.3
+2018,October,Prod245,"Own Brand",60046.4
+2018,October,Prod090,"Own Brand",55764.7
+2018,October,Prod057,"Own Brand",46610.8
+2018,October,Prod129,"Distribution",43995.2
+2018,October,Prod212,"Own Brand",37335.1
+2018,October,Prod216,"Own Brand",31102.6
+2018,October,Prod018,"Own Brand",30807.4
+2018,October,Prod166,"Own Brand",30136.6
+2018,October,Prod210,"Own Brand",29669.3
+2018,October,Prod159,"Distribution",23305.9
+2018,October,Prod206,"Distribution",20900.9
+2018,October,Prod131,"Distribution",20640.7
+2018,October,Prod040,"Own Brand",19493.2
+2018,October,Prod053,"Own Brand",18223.5
+2018,October,Prod102,"Own Brand",17482.2
+2018,October,Prod120,"Distribution",16206.1
+2018,October,Prod254,"Own Brand",15538.4
+2018,October,Prod221,"Distribution",15532.7
+2018,October,Prod236,"Distribution",15259.3
+2018,October,Prod126,"Own Brand",14093.6
+2018,October,Prod252,"Distribution",12581.7
+2018,October,Prod106,"Own Brand",9664.9
+2018,October,Prod214,"Own Brand",8532.7
+2018,October,Prod251,"Distribution",7979.9
+2018,October,Prod065,"Own Brand",7938.5
+2018,October,Prod049,"Own Brand",7445.8
+2018,October,Prod213,"Own Brand",7296.7
+2018,October,Prod056,"Own Brand",6278.4
+2018,October,Prod113,"Distribution",5972.9
+2018,October,Prod122,"Own Brand",5790.4
+2018,October,Prod241,"Own Brand",5730.3
+2018,October,Prod117,"Distribution",5282.2
+2018,October,Prod051,"Own Brand",4530.6
+2018,October,Prod134,"Own Brand",4084.1
+2018,October,Prod161,"Distribution",3988.1
+2018,October,Prod043,"Own Brand",3812.2
+2018,October,Prod204,"Distribution",3592.8
+2018,October,Prod279,"Distribution",3328.7
+2018,October,Prod176,"Distribution",3003.2
+2018,October,Prod150,"Own Brand",2529.9
+2018,October,Prod042,"Own Brand",2323.4
+2018,October,Prod250,"Distribution",2147.3
+2018,October,Prod007,"Own Brand",1927.6
+2018,October,Prod114,"Distribution",1775.5
+2018,October,Prod162,"Distribution",1732.2
+2018,October,Prod116,"Distribution",1623.7
+2018,October,Prod110,"Distribution",1324.3
+2018,October,Prod099,"Own Brand",1121.3
+2018,October,Prod046,"Own Brand",1111.6
+2018,October,Prod160,"Distribution",1108.5
+2018,October,Prod263,"Distribution",1066.4
+2018,October,Prod264,"Distribution",943
+2018,October,Prod274,"Own Brand",881.5
+2018,October,Prod255,"Own Brand",818
+2018,October,Prod276,"Own Brand",767.8
+2018,October,Prod135,"Own Brand",692.5
+2018,October,Prod267,"Distribution",664.4
+2018,October,Prod270,"Own Brand",579.4
+2018,October,Prod096,"Own Brand",496.5
+2018,October,Prod265,"Distribution",493.1
+2018,October,Prod259,"Own Brand",458.3
+2018,October,Prod189,"Distribution",394.4
+2018,October,Prod207,"Distribution",283
+2018,October,Prod088,"Own Brand",193.3
+2018,October,Prod119,"Distribution",167.5
+2018,October,Prod156,"Own Brand",65.1
+2018,October,Prod139,"Own Brand",36.7
+2018,October,Prod273,"Own Brand",36.7
+2018,October,Prod219,"Distribution",19.3
+2018,October,Prod195,"Own Brand",5.5
+2018,October,Prod093,"Own Brand",-1.3
+2018,October,Prod048,"Own Brand",-5.1
+2018,October,Prod185,"Own Brand",-20.5
+2018,October,Prod192,"Distribution",-33
+2018,October,Prod063,"Own Brand",-34.4
+2018,October,Prod100,"Own Brand",-44.7
+2018,October,Prod187,"Own Brand",-72
+2018,October,Prod152,"Own Brand",-73.3
+2018,October,Prod218,"Distribution",-104.1
+2018,October,Prod275,"Own Brand",-135.1
+2018,October,Prod011,"Own Brand",-212.4
+2018,October,Prod199,"Own Brand",-260.8
+2018,October,Prod137,"Own Brand",-313.1
+2018,October,Prod105,"Own Brand",-362
+2018,October,Prod091,"Own Brand",-372.1
+2018,October,Prod278,"Distribution",-398.1
+2018,October,Prod208,"Own Brand",-401.9
+2018,October,Prod269,"Own Brand",-413.5
+2018,October,Prod095,"Own Brand",-426.7
+2018,October,Prod148,"Own Brand",-480.8
+2018,October,Prod140,"Own Brand",-489.3
+2018,October,Prod170,"Own Brand",-509
+2018,October,Prod242,"Own Brand",-556.9
+2018,October,Prod092,"Own Brand",-571.3
+2018,October,Prod138,"Own Brand",-591.2
+2018,October,Prod031,"Distribution",-591.6
+2018,October,Prod205,"Distribution",-1069.3
+2018,October,Prod103,"Own Brand",-1190.4
+2018,October,Prod098,"Own Brand",-1262.8
+2018,October,Prod215,"Own Brand",-1788.9
+2018,October,Prod271,"Own Brand",-2029.6
+2018,October,Prod249,"Distribution",-2162.1
+2018,October,Prod118,"Distribution",-2200
+2018,October,Prod272,"Own Brand",-2568.2
+2018,October,Prod258,"Own Brand",-3090.6
+2018,October,Prod257,"Own Brand",-3274.2
+2018,October,Prod261,"Own Brand",-3299.3
+2018,October,Prod089,"Own Brand",-3707.8
+2018,October,Prod060,"Own Brand",-5172.5
+2018,October,Prod128,"Distribution",-5387.8
+2018,October,Prod246,"Own Brand",-5809.4
+2018,October,Prod268,"Own Brand",-6043.3
+2018,October,Prod238,"Own Brand",-6921.1
+2018,October,Prod260,"Own Brand",-7149.9
+2018,October,Prod232,"Own Brand",-8717.1
+2018,October,Prod062,"Own Brand",-10468.5
+2018,October,Prod123,"Own Brand",-10654.2
+2018,October,Prod133,"Own Brand",-14613.8
+2018,October,Prod149,"Own Brand",-15251.8
+2018,October,Prod022,"Distribution",-16150.1
+2018,October,Prod167,"Own Brand",-16553.5
+2018,October,Prod239,"Own Brand",-17022.2
+2018,October,Prod220,"Distribution",-20166.7
+2018,October,Prod209,"Own Brand",-22963.8
+2018,October,Prod087,"Own Brand",-25351.8
+2018,October,Prod052,"Own Brand",-35013.7
+2018,October,Prod025,"Distribution",-38093.2
+2018,September,Prod167,"Own Brand",96348.8
+2018,September,Prod043,"Own Brand",66128.8
+2018,September,Prod160,"Distribution",53532
+2018,September,Prod149,"Own Brand",46188.1
+2018,September,Prod216,"Own Brand",43429.2
+2018,September,Prod053,"Own Brand",34909.1
+2018,September,Prod065,"Own Brand",34623.3
+2018,September,Prod209,"Own Brand",34407.1
+2018,September,Prod166,"Own Brand",34073.7
+2018,September,Prod090,"Own Brand",30945
+2018,September,Prod106,"Own Brand",28233.8
+2018,September,Prod123,"Own Brand",21805.1
+2018,September,Prod159,"Distribution",18466.9
+2018,September,Prod052,"Own Brand",17542.4
+2018,September,Prod024,"Distribution",16508.8
+2018,September,Prod049,"Own Brand",15626.7
+2018,September,Prod060,"Own Brand",11037.9
+2018,September,Prod102,"Own Brand",9869.6
+2018,September,Prod267,"Distribution",9476.3
+2018,September,Prod057,"Own Brand",9157
+2018,September,Prod051,"Own Brand",9129.4
+2018,September,Prod220,"Distribution",8548.4
+2018,September,Prod118,"Distribution",8186.3
+2018,September,Prod133,"Own Brand",7521.4
+2018,September,Prod245,"Own Brand",7252.6
+2018,September,Prod204,"Distribution",7118.5
+2018,September,Prod221,"Distribution",7024.5
+2018,September,Prod033,"Distribution",6676.4
+2018,September,Prod025,"Distribution",5660.9
+2018,September,Prod148,"Own Brand",5187.4
+2018,September,Prod046,"Own Brand",4931.3
+2018,September,Prod056,"Own Brand",4075.4
+2018,September,Prod113,"Distribution",3969.9
+2018,September,Prod122,"Own Brand",3853.7
+2018,September,Prod251,"Distribution",3801.5
+2018,September,Prod176,"Distribution",3533.2
+2018,September,Prod242,"Own Brand",3476.8
+2018,September,Prod253,"Own Brand",3285.1
+2018,September,Prod258,"Own Brand",2949.3
+2018,September,Prod134,"Own Brand",2860.4
+2018,September,Prod241,"Own Brand",2849.4
+2018,September,Prod135,"Own Brand",2778.4
+2018,September,Prod249,"Distribution",2636.3
+2018,September,Prod279,"Distribution",2062.5
+2018,September,Prod274,"Own Brand",2008.1
+2018,September,Prod268,"Own Brand",1730.5
+2018,September,Prod276,"Own Brand",1581.7
+2018,September,Prod178,"Own Brand",1444.6
+2018,September,Prod278,"Distribution",1352
+2018,September,Prod195,"Own Brand",1297.9
+2018,September,Prod062,"Own Brand",1246.2
+2018,September,Prod213,"Own Brand",924.5
+2018,September,Prod218,"Distribution",816.5
+2018,September,Prod092,"Own Brand",737.2
+2018,September,Prod275,"Own Brand",719.7
+2018,September,Prod264,"Distribution",542.8
+2018,September,Prod119,"Distribution",521.1
+2018,September,Prod207,"Distribution",493
+2018,September,Prod063,"Own Brand",477.7
+2018,September,Prod137,"Own Brand",462.4
+2018,September,Prod208,"Own Brand",439.2
+2018,September,Prod263,"Distribution",342.8
+2018,September,Prod117,"Distribution",320.4
+2018,September,Prod138,"Own Brand",308
+2018,September,Prod269,"Own Brand",303.8
+2018,September,Prod131,"Distribution",292.8
+2018,September,Prod139,"Own Brand",272.6
+2018,September,Prod110,"Distribution",142.5
+2018,September,Prod152,"Own Brand",136.2
+2018,September,Prod034,"Own Brand",123.1
+2018,September,Prod219,"Distribution",32.1
+2018,September,Prod114,"Distribution",23.3
+2018,September,Prod094,"Own Brand",14.8
+2018,September,Prod048,"Own Brand",-10.3
+2018,September,Prod184,"Own Brand",-42.8
+2018,September,Prod093,"Own Brand",-62.1
+2018,September,Prod265,"Distribution",-94.6
+2018,September,Prod116,"Distribution",-162.5
+2018,September,Prod136,"Own Brand",-177.8
+2018,September,Prod005,"Own Brand",-226.8
+2018,September,Prod270,"Own Brand",-261.8
+2018,September,Prod105,"Own Brand",-266.4
+2018,September,Prod205,"Distribution",-311.2
+2018,September,Prod238,"Own Brand",-321.4
+2018,September,Prod099,"Own Brand",-322.8
+2018,September,Prod250,"Distribution",-326.1
+2018,September,Prod096,"Own Brand",-331
+2018,September,Prod039,"Own Brand",-360.2
+2018,September,Prod128,"Distribution",-432.5
+2018,September,Prod199,"Own Brand",-589.8
+2018,September,Prod273,"Own Brand",-630.6
+2018,September,Prod091,"Own Brand",-856.6
+2018,September,Prod246,"Own Brand",-882.2
+2018,September,Prod187,"Own Brand",-940.5
+2018,September,Prod098,"Own Brand",-1106
+2018,September,Prod232,"Own Brand",-1265.4
+2018,September,Prod042,"Own Brand",-1488.4
+2018,September,Prod140,"Own Brand",-1617.1
+2018,September,Prod018,"Own Brand",-2008.1
+2018,September,Prod257,"Own Brand",-2022.2
+2018,September,Prod255,"Own Brand",-2641.3
+2018,September,Prod088,"Own Brand",-2835.6
+2018,September,Prod170,"Own Brand",-2839.2
+2018,September,Prod129,"Distribution",-3364.7
+2018,September,Prod272,"Own Brand",-3390.6
+2018,September,Prod045,"Own Brand",-3601.4
+2018,September,Prod254,"Own Brand",-3625.5
+2018,September,Prod103,"Own Brand",-5330.9
+2018,September,Prod260,"Own Brand",-8023.6
+2018,September,Prod126,"Own Brand",-8104.1
+2018,September,Prod212,"Own Brand",-8203.2
+2018,September,Prod162,"Distribution",-8819.6
+2018,September,Prod236,"Distribution",-9204.7
+2018,September,Prod161,"Distribution",-9313.1
+2018,September,Prod271,"Own Brand",-10444.3
+2018,September,Prod185,"Own Brand",-11459.2
+2018,September,Prod206,"Distribution",-13636.8
+2018,September,Prod261,"Own Brand",-15719.5
+2018,September,Prod016,"Own Brand",-15765
+2018,September,Prod252,"Distribution",-16906.6
+2018,September,Prod239,"Own Brand",-17704.2
+2018,September,Prod210,"Own Brand",-23684.6
+2018,September,Prod214,"Own Brand",-28502.5
+2018,September,Prod215,"Own Brand",-60115.6
+2018,September,Prod040,"Own Brand",-145341.1
+2019,April,Prod102,"Own Brand",75533.2
+2019,April,Prod145,"Distribution",56486.3
+2019,April,Prod065,"Own Brand",53155.7
+2019,April,Prod018,"Own Brand",41425.9
+2019,April,Prod166,"Own Brand",37791.1
+2019,April,Prod123,"Own Brand",37067.1
+2019,April,Prod206,"Distribution",33456.5
+2019,April,Prod113,"Distribution",32721.4
+2019,April,Prod212,"Own Brand",30920.5
+2019,April,Prod150,"Own Brand",25467.3
+2019,April,Prod053,"Own Brand",24741.6
+2019,April,Prod120,"Distribution",23618.1
+2019,April,Prod067,"Distribution",22266.6
+2019,April,Prod210,"Own Brand",21832.3
+2019,April,Prod048,"Own Brand",21478.5
+2019,April,Prod267,"Distribution",20520.5
+2019,April,Prod209,"Own Brand",19483.7
+2019,April,Prod077,"Distribution",19333.6
+2019,April,Prod024,"Distribution",18037.6
+2019,April,Prod232,"Own Brand",15904.8
+2019,April,Prod162,"Distribution",15319.6
+2019,April,Prod236,"Distribution",13759.4
+2019,April,Prod056,"Own Brand",12062.4
+2019,April,Prod057,"Own Brand",10476.6
+2019,April,Prod141,"Own Brand",9450.2
+2019,April,Prod251,"Distribution",7079.4
+2019,April,Prod091,"Own Brand",6958.4
+2019,April,Prod059,"Own Brand",5852.6
+2019,April,Prod043,"Own Brand",5407
+2019,April,Prod260,"Own Brand",5317.8
+2019,April,Prod106,"Own Brand",5032.7
+2019,April,Prod254,"Own Brand",4824.3
+2019,April,Prod215,"Own Brand",4645.5
+2019,April,Prod176,"Distribution",4329.7
+2019,April,Prod088,"Own Brand",4253.4
+2019,April,Prod268,"Own Brand",3225.4
+2019,April,Prod025,"Distribution",2795.4
+2019,April,Prod199,"Own Brand",2477.5
+2019,April,Prod140,"Own Brand",2106.9
+2019,April,Prod269,"Own Brand",2077.3
+2019,April,Prod062,"Own Brand",1648.4
+2019,April,Prod274,"Own Brand",1576.5
+2019,April,Prod278,"Distribution",1502
+2019,April,Prod143,"Distribution",1465.1
+2019,April,Prod098,"Own Brand",1436.4
+2019,April,Prod090,"Own Brand",1408
+2019,April,Prod096,"Own Brand",1217.1
+2019,April,Prod135,"Own Brand",985.1
+2019,April,Prod241,"Own Brand",979.6
+2019,April,Prod139,"Own Brand",941.5
+2019,April,Prod250,"Distribution",811.3
+2019,April,Prod279,"Distribution",783.9
+2019,April,Prod137,"Own Brand",758.9
+2019,April,Prod046,"Own Brand",715.1
+2019,April,Prod167,"Own Brand",671.3
+2019,April,Prod092,"Own Brand",589
+2019,April,Prod231,"Own Brand",441.8
+2019,April,Prod119,"Distribution",372
+2019,April,Prod249,"Distribution",351.5
+2019,April,Prod165,"Own Brand",344.7
+2019,April,Prod272,"Own Brand",232.2
+2019,April,Prod264,"Distribution",223.3
+2019,April,Prod270,"Own Brand",189.4
+2019,April,Prod276,"Own Brand",167.5
+2019,April,Prod257,"Own Brand",96.3
+2019,April,Prod263,"Distribution",79.3
+2019,April,Prod205,"Distribution",68.8
+2019,April,Prod101,"Own Brand",36.3
+2019,April,Prod258,"Own Brand",26.6
+2019,April,Prod133,"Own Brand",25.9
+2019,April,Prod128,"Distribution",-6.7
+2019,April,Prod152,"Own Brand",-15.6
+2019,April,Prod039,"Own Brand",-16.2
+2019,April,Prod089,"Own Brand",-32.6
+2019,April,Prod118,"Distribution",-44.2
+2019,April,Prod149,"Own Brand",-58.8
+2019,April,Prod208,"Own Brand",-73.2
+2019,April,Prod207,"Distribution",-83.9
+2019,April,Prod011,"Own Brand",-199
+2019,April,Prod273,"Own Brand",-263.9
+2019,April,Prod005,"Own Brand",-295.9
+2019,April,Prod134,"Own Brand",-319.7
+2019,April,Prod235,"Distribution",-346.5
+2019,April,Prod275,"Own Brand",-354.9
+2019,April,Prod138,"Own Brand",-448.7
+2019,April,Prod238,"Own Brand",-599.9
+2019,April,Prod131,"Distribution",-647.5
+2019,April,Prod225,"Own Brand",-674.8
+2019,April,Prod116,"Distribution",-721.6
+2019,April,Prod161,"Distribution",-734.3
+2019,April,Prod244,"Own Brand",-769.2
+2019,April,Prod218,"Distribution",-1141.9
+2019,April,Prod265,"Distribution",-1227.2
+2019,April,Prod110,"Distribution",-1495.4
+2019,April,Prod242,"Own Brand",-1846.5
+2019,April,Prod170,"Own Brand",-2417.8
+2019,April,Prod132,"Distribution",-3465
+2019,April,Prod122,"Own Brand",-3810.6
+2019,April,Prod103,"Own Brand",-4026.6
+2019,April,Prod160,"Distribution",-4133.7
+2019,April,Prod114,"Distribution",-4455.7
+2019,April,Prod129,"Distribution",-4612.1
+2019,April,Prod045,"Own Brand",-4760.6
+2019,April,Prod042,"Own Brand",-5401.2
+2019,April,Prod255,"Own Brand",-6799
+2019,April,Prod271,"Own Brand",-7476
+2019,April,Prod117,"Distribution",-7601.3
+2019,April,Prod246,"Own Brand",-7653.2
+2019,April,Prod221,"Distribution",-8176.1
+2019,April,Prod126,"Own Brand",-9705.6
+2019,April,Prod252,"Distribution",-10839.4
+2019,April,Prod052,"Own Brand",-11752.5
+2019,April,Prod237,"Distribution",-11995.6
+2019,April,Prod213,"Own Brand",-12670.6
+2019,April,Prod051,"Own Brand",-12774.3
+2019,April,Prod159,"Distribution",-13294
+2019,April,Prod060,"Own Brand",-13445
+2019,April,Prod220,"Distribution",-13848.3
+2019,April,Prod261,"Own Brand",-15080.5
+2019,April,Prod245,"Own Brand",-16607
+2019,April,Prod216,"Own Brand",-22130.4
+2019,April,Prod214,"Own Brand",-26032.5
+2019,April,Prod040,"Own Brand",-27671.1
+2019,April,Prod049,"Own Brand",-37143.6
+2019,April,Prod239,"Own Brand",-40076
+2019,April,Prod229,"Own Brand",-49311.4
+2019,April,Prod044,"Own Brand",-99325.8
+2019,August,Prod102,"Own Brand",82947
+2019,August,Prod047,"Own Brand",48082.9
+2019,August,Prod087,"Own Brand",46900.8
+2019,August,Prod131,"Distribution",43852.5
+2019,August,Prod077,"Distribution",41429.1
+2019,August,Prod209,"Own Brand",39755.4
+2019,August,Prod212,"Own Brand",39536.2
+2019,August,Prod040,"Own Brand",38748.3
+2019,August,Prod024,"Distribution",38657.1
+2019,August,Prod090,"Own Brand",38108.4
+2019,August,Prod051,"Own Brand",36921.4
+2019,August,Prod215,"Own Brand",34533.7
+2019,August,Prod153,"Own Brand",27962.4
+2019,August,Prod067,"Distribution",26719.9
+2019,August,Prod210,"Own Brand",26006.5
+2019,August,Prod244,"Own Brand",25407
+2019,August,Prod018,"Own Brand",24779.9
+2019,August,Prod220,"Distribution",17957.2
+2019,August,Prod126,"Own Brand",17130.8
+2019,August,Prod127,"Own Brand",13313.1
+2019,August,Prod155,"Own Brand",13090
+2019,August,Prod056,"Own Brand",11539.6
+2019,August,Prod129,"Distribution",11454.3
+2019,August,Prod049,"Own Brand",10790.5
+2019,August,Prod061,"Own Brand",10307.3
+2019,August,Prod159,"Distribution",9801.1
+2019,August,Prod123,"Own Brand",9692.7
+2019,August,Prod241,"Own Brand",8273.5
+2019,August,Prod221,"Distribution",8170.7
+2019,August,Prod232,"Own Brand",7612.5
+2019,August,Prod258,"Own Brand",7445.1
+2019,August,Prod160,"Distribution",7339.1
+2019,August,Prod261,"Own Brand",6889.6
+2019,August,Prod260,"Own Brand",6290.4
+2019,August,Prod104,"Own Brand",6260.5
+2019,August,Prod216,"Own Brand",3803.6
+2019,August,Prod117,"Distribution",3753.4
+2019,August,Prod276,"Own Brand",3656
+2019,August,Prod167,"Own Brand",3263.7
+2019,August,Prod103,"Own Brand",3099.9
+2019,August,Prod122,"Own Brand",2225.6
+2019,August,Prod096,"Own Brand",2198.4
+2019,August,Prod059,"Own Brand",2026.3
+2019,August,Prod272,"Own Brand",1992.7
+2019,August,Prod119,"Distribution",1935.4
+2019,August,Prod091,"Own Brand",1895.8
+2019,August,Prod016,"Own Brand",1895.1
+2019,August,Prod137,"Own Brand",1872.8
+2019,August,Prod043,"Own Brand",1840.5
+2019,August,Prod150,"Own Brand",1686.5
+2019,August,Prod238,"Own Brand",1662.6
+2019,August,Prod057,"Own Brand",1620.1
+2019,August,Prod279,"Distribution",1447.6
+2019,August,Prod271,"Own Brand",1354.2
+2019,August,Prod224,"Own Brand",987.4
+2019,August,Prod039,"Own Brand",931.1
+2019,August,Prod092,"Own Brand",883.4
+2019,August,Prod199,"Own Brand",849.2
+2019,August,Prod242,"Own Brand",751.5
+2019,August,Prod263,"Distribution",732.7
+2019,August,Prod205,"Distribution",606.4
+2019,August,Prod145,"Distribution",513.5
+2019,August,Prod274,"Own Brand",446.6
+2019,August,Prod098,"Own Brand",385.8
+2019,August,Prod120,"Distribution",359.3
+2019,August,Prod269,"Own Brand",342.5
+2019,August,Prod275,"Own Brand",282.4
+2019,August,Prod273,"Own Brand",250.2
+2019,August,Prod011,"Own Brand",246.7
+2019,August,Prod265,"Distribution",232.5
+2019,August,Prod149,"Own Brand",189.7
+2019,August,Prod219,"Distribution",56
+2019,August,Prod152,"Own Brand",38.6
+2019,August,Prod062,"Own Brand",35.4
+2019,August,Prod118,"Distribution",31.2
+2019,August,Prod278,"Distribution",30.3
+2019,August,Prod254,"Own Brand",-18.9
+2019,August,Prod138,"Own Brand",-26.4
+2019,August,Prod264,"Distribution",-39.4
+2019,August,Prod246,"Own Brand",-79.7
+2019,August,Prod231,"Own Brand",-80.9
+2019,August,Prod139,"Own Brand",-108.9
+2019,August,Prod208,"Own Brand",-213.8
+2019,August,Prod133,"Own Brand",-273.6
+2019,August,Prod140,"Own Brand",-349.3
+2019,August,Prod218,"Distribution",-356.1
+2019,August,Prod223,"Own Brand",-438.4
+2019,August,Prod161,"Distribution",-485.3
+2019,August,Prod044,"Own Brand",-491.5
+2019,August,Prod005,"Own Brand",-548.6
+2019,August,Prod270,"Own Brand",-554.4
+2019,August,Prod268,"Own Brand",-579.5
+2019,August,Prod255,"Own Brand",-705.5
+2019,August,Prod166,"Own Brand",-924.3
+2019,August,Prod253,"Own Brand",-1026.4
+2019,August,Prod207,"Distribution",-1035.7
+2019,August,Prod184,"Own Brand",-1370.1
+2019,August,Prod114,"Distribution",-1841.2
+2019,August,Prod162,"Distribution",-1897.8
+2019,August,Prod249,"Distribution",-1968.6
+2019,August,Prod250,"Distribution",-2090.8
+2019,August,Prod251,"Distribution",-3005.4
+2019,August,Prod170,"Own Brand",-3362.6
+2019,August,Prod110,"Distribution",-3477.7
+2019,August,Prod257,"Own Brand",-3608.8
+2019,August,Prod190,"Distribution",-3823.8
+2019,August,Prod134,"Own Brand",-3972.9
+2019,August,Prod243,"Own Brand",-4194
+2019,August,Prod176,"Distribution",-4328.2
+2019,August,Prod065,"Own Brand",-5213.7
+2019,August,Prod135,"Own Brand",-5496.1
+2019,August,Prod252,"Distribution",-6296.5
+2019,August,Prod116,"Distribution",-6450.6
+2019,August,Prod128,"Distribution",-7325.2
+2019,August,Prod236,"Distribution",-7837.8
+2019,August,Prod213,"Own Brand",-9019.7
+2019,August,Prod121,"Distribution",-12117.6
+2019,August,Prod089,"Own Brand",-13420.6
+2019,August,Prod058,"Own Brand",-13952.4
+2019,August,Prod165,"Own Brand",-14620.5
+2019,August,Prod206,"Distribution",-16177.7
+2019,August,Prod132,"Distribution",-16275
+2019,August,Prod106,"Own Brand",-18171.7
+2019,August,Prod168,"Own Brand",-19822
+2019,August,Prod214,"Own Brand",-20995.8
+2019,August,Prod113,"Distribution",-21753.2
+2019,August,Prod267,"Distribution",-24983.4
+2019,August,Prod053,"Own Brand",-33701.4
+2019,August,Prod237,"Distribution",-38260
+2019,August,Prod163,"Own Brand",-58000
+2019,August,Prod052,"Own Brand",-117061.1
+2019,December,Prod243,"Own Brand",61373.5
+2019,December,Prod102,"Own Brand",48083.4
+2019,December,Prod266,"Distribution",46305.4
+2019,December,Prod159,"Distribution",35206.8
+2019,December,Prod214,"Own Brand",30908.8
+2019,December,Prod061,"Own Brand",29880.1
+2019,December,Prod113,"Distribution",23690
+2019,December,Prod058,"Own Brand",23581.9
+2019,December,Prod160,"Distribution",22622.8
+2019,December,Prod054,"Own Brand",22310.1
+2019,December,Prod127,"Own Brand",20308.5
+2019,December,Prod252,"Distribution",19643.2
+2019,December,Prod220,"Distribution",13910.1
+2019,December,Prod227,"Own Brand",12043.4
+2019,December,Prod210,"Own Brand",10435.6
+2019,December,Prod129,"Distribution",10126.6
+2019,December,Prod165,"Own Brand",8924.6
+2019,December,Prod046,"Own Brand",8062
+2019,December,Prod237,"Distribution",7046
+2019,December,Prod018,"Own Brand",6127.5
+2019,December,Prod260,"Own Brand",5473.5
+2019,December,Prod244,"Own Brand",5265.8
+2019,December,Prod089,"Own Brand",4960.1
+2019,December,Prod166,"Own Brand",4853
+2019,December,Prod114,"Distribution",4622.1
+2019,December,Prod251,"Distribution",4538
+2019,December,Prod122,"Own Brand",4029.8
+2019,December,Prod255,"Own Brand",3063.8
+2019,December,Prod278,"Distribution",2953.7
+2019,December,Prod042,"Own Brand",2557.9
+2019,December,Prod011,"Own Brand",2350.4
+2019,December,Prod134,"Own Brand",2163.7
+2019,December,Prod276,"Own Brand",1629.5
+2019,December,Prod167,"Own Brand",1607.6
+2019,December,Prod133,"Own Brand",1348.7
+2019,December,Prod168,"Own Brand",1235.9
+2019,December,Prod128,"Distribution",1053.6
+2019,December,Prod137,"Own Brand",788.4
+2019,December,Prod249,"Distribution",675.2
+2019,December,Prod149,"Own Brand",667.3
+2019,December,Prod208,"Own Brand",653.7
+2019,December,Prod135,"Own Brand",623.9
+2019,December,Prod218,"Distribution",523.2
+2019,December,Prod228,"Own Brand",481.1
+2019,December,Prod238,"Own Brand",445.4
+2019,December,Prod045,"Own Brand",375.9
+2019,December,Prod242,"Own Brand",307.9
+2019,December,Prod253,"Own Brand",278.9
+2019,December,Prod241,"Own Brand",245.9
+2019,December,Prod224,"Own Brand",230.7
+2019,December,Prod116,"Distribution",186.9
+2019,December,Prod060,"Own Brand",157.6
+2019,December,Prod025,"Distribution",142.8
+2019,December,Prod056,"Own Brand",142.1
+2019,December,Prod279,"Distribution",73
+2019,December,Prod030,"Distribution",63.9
+2019,December,Prod052,"Own Brand",59.6
+2019,December,Prod152,"Own Brand",32.8
+2019,December,Prod219,"Distribution",7.8
+2019,December,Prod170,"Own Brand",6.1
+2019,December,Prod043,"Own Brand",0
+2019,December,Prod273,"Own Brand",-9.6
+2019,December,Prod269,"Own Brand",-40.5
+2019,December,Prod103,"Own Brand",-43.2
+2019,December,Prod051,"Own Brand",-68.3
+2019,December,Prod123,"Own Brand",-74.1
+2019,December,Prod053,"Own Brand",-75.7
+2019,December,Prod264,"Distribution",-91.4
+2019,December,Prod118,"Distribution",-121.1
+2019,December,Prod119,"Distribution",-130.3
+2019,December,Prod207,"Distribution",-175.2
+2019,December,Prod268,"Own Brand",-193.2
+2019,December,Prod223,"Own Brand",-196.2
+2019,December,Prod254,"Own Brand",-217.9
+2019,December,Prod057,"Own Brand",-251.5
+2019,December,Prod231,"Own Brand",-381.9
+2019,December,Prod272,"Own Brand",-439.4
+2019,December,Prod205,"Distribution",-481.1
+2019,December,Prod263,"Distribution",-482.3
+2019,December,Prod274,"Own Brand",-492.4
+2019,December,Prod049,"Own Brand",-505.8
+2019,December,Prod088,"Own Brand",-526.3
+2019,December,Prod275,"Own Brand",-551.7
+2019,December,Prod106,"Own Brand",-789.7
+2019,December,Prod098,"Own Brand",-898.5
+2019,December,Prod270,"Own Brand",-1030.4
+2019,December,Prod271,"Own Brand",-1219.7
+2019,December,Prod265,"Distribution",-1244.3
+2019,December,Prod005,"Own Brand",-1252
+2019,December,Prod048,"Own Brand",-1369.9
+2019,December,Prod250,"Distribution",-1375.3
+2019,December,Prod232,"Own Brand",-1511
+2019,December,Prod132,"Distribution",-2100
+2019,December,Prod213,"Own Brand",-2446.6
+2019,December,Prod267,"Distribution",-5010.1
+2019,December,Prod059,"Own Brand",-5012.3
+2019,December,Prod161,"Distribution",-6017.4
+2019,December,Prod131,"Distribution",-6145.8
+2019,December,Prod221,"Distribution",-6779.7
+2019,December,Prod110,"Distribution",-7590.5
+2019,December,Prod124,"Own Brand",-8306.6
+2019,December,Prod150,"Own Brand",-8620.9
+2019,December,Prod209,"Own Brand",-9008.2
+2019,December,Prod041,"Own Brand",-9169.6
+2019,December,Prod216,"Own Brand",-10902.8
+2019,December,Prod091,"Own Brand",-11000.9
+2019,December,Prod261,"Own Brand",-11803.8
+2019,December,Prod065,"Own Brand",-13834
+2019,December,Prod146,"Distribution",-14921.4
+2019,December,Prod206,"Distribution",-15643.2
+2019,December,Prod024,"Distribution",-16324.7
+2019,December,Prod090,"Own Brand",-19802.4
+2019,December,Prod117,"Distribution",-21561.1
+2019,December,Prod236,"Distribution",-23099.8
+2019,December,Prod047,"Own Brand",-28703.2
+2019,December,Prod121,"Distribution",-29216.1
+2019,December,Prod044,"Own Brand",-31329.6
+2019,December,Prod212,"Own Brand",-32078.8
+2019,December,Prod215,"Own Brand",-32779.8
+2019,December,Prod040,"Own Brand",-80250.4
+2019,February,Prod077,"Distribution",149146.4
+2019,February,Prod225,"Own Brand",49632.3
+2019,February,Prod040,"Own Brand",40895.2
+2019,February,Prod065,"Own Brand",39308.6
+2019,February,Prod216,"Own Brand",36922.4
+2019,February,Prod245,"Own Brand",30101
+2019,February,Prod113,"Distribution",28857.2
+2019,February,Prod133,"Own Brand",26229.6
+2019,February,Prod210,"Own Brand",22803.2
+2019,February,Prod052,"Own Brand",20796.3
+2019,February,Prod123,"Own Brand",18048.5
+2019,February,Prod246,"Own Brand",17593.6
+2019,February,Prod213,"Own Brand",16829.8
+2019,February,Prod229,"Own Brand",15196.7
+2019,February,Prod057,"Own Brand",15154.4
+2019,February,Prod232,"Own Brand",13351.3
+2019,February,Prod120,"Distribution",13311.7
+2019,February,Prod102,"Own Brand",12885.5
+2019,February,Prod060,"Own Brand",9145.3
+2019,February,Prod110,"Distribution",7882.2
+2019,February,Prod062,"Own Brand",6978.6
+2019,February,Prod140,"Own Brand",5739
+2019,February,Prod236,"Distribution",5447.6
+2019,February,Prod042,"Own Brand",5203.9
+2019,February,Prod268,"Own Brand",3581.9
+2019,February,Prod098,"Own Brand",3496.9
+2019,February,Prod199,"Own Brand",3438.6
+2019,February,Prod271,"Own Brand",3347.6
+2019,February,Prod238,"Own Brand",3300.8
+2019,February,Prod176,"Distribution",2955
+2019,February,Prod251,"Distribution",2652.8
+2019,February,Prod114,"Distribution",2550.1
+2019,February,Prod221,"Distribution",2468.1
+2019,February,Prod128,"Distribution",2192.2
+2019,February,Prod089,"Own Brand",1957.9
+2019,February,Prod226,"Own Brand",1891.8
+2019,February,Prod134,"Own Brand",1823.8
+2019,February,Prod145,"Distribution",1737.8
+2019,February,Prod091,"Own Brand",1529.3
+2019,February,Prod011,"Own Brand",1208.8
+2019,February,Prod241,"Own Brand",1177
+2019,February,Prod166,"Own Brand",1072.4
+2019,February,Prod278,"Distribution",928.6
+2019,February,Prod103,"Own Brand",921.4
+2019,February,Prod255,"Own Brand",881.2
+2019,February,Prod207,"Distribution",633
+2019,February,Prod135,"Own Brand",633
+2019,February,Prod122,"Own Brand",609
+2019,February,Prod269,"Own Brand",576.8
+2019,February,Prod152,"Own Brand",568.5
+2019,February,Prod270,"Own Brand",539.3
+2019,February,Prod100,"Own Brand",516.3
+2019,February,Prod218,"Distribution",437.4
+2019,February,Prod025,"Distribution",430.4
+2019,February,Prod279,"Distribution",376.2
+2019,February,Prod205,"Distribution",311.1
+2019,February,Prod118,"Distribution",293.8
+2019,February,Prod273,"Own Brand",277.3
+2019,February,Prod010,"Own Brand",251.4
+2019,February,Prod231,"Own Brand",230.8
+2019,February,Prod275,"Own Brand",211.7
+2019,February,Prod208,"Own Brand",152.7
+2019,February,Prod137,"Own Brand",148.6
+2019,February,Prod242,"Own Brand",93.7
+2019,February,Prod005,"Own Brand",83.4
+2019,February,Prod276,"Own Brand",67.4
+2019,February,Prod162,"Distribution",49
+2019,February,Prod139,"Own Brand",40.5
+2019,February,Prod219,"Distribution",39.8
+2019,February,Prod056,"Own Brand",39.4
+2019,February,Prod263,"Distribution",21.8
+2019,February,Prod192,"Distribution",21.3
+2019,February,Prod181,"Own Brand",-5.2
+2019,February,Prod254,"Own Brand",-18.1
+2019,February,Prod170,"Own Brand",-18.6
+2019,February,Prod235,"Distribution",-22
+2019,February,Prod274,"Own Brand",-40.7
+2019,February,Prod048,"Own Brand",-61.7
+2019,February,Prod249,"Distribution",-85.2
+2019,February,Prod260,"Own Brand",-153.6
+2019,February,Prod220,"Distribution",-191.5
+2019,February,Prod119,"Distribution",-223.3
+2019,February,Prod258,"Own Brand",-236.2
+2019,February,Prod161,"Distribution",-280.3
+2019,February,Prod264,"Distribution",-388.6
+2019,February,Prod272,"Own Brand",-452.7
+2019,February,Prod093,"Own Brand",-682.5
+2019,February,Prod088,"Own Brand",-979.8
+2019,February,Prod167,"Own Brand",-1041.1
+2019,February,Prod149,"Own Brand",-1099.8
+2019,February,Prod257,"Own Brand",-1155.5
+2019,February,Prod239,"Own Brand",-1337.7
+2019,February,Prod265,"Distribution",-1418.7
+2019,February,Prod049,"Own Brand",-1672.6
+2019,February,Prod045,"Own Brand",-1690.9
+2019,February,Prod116,"Distribution",-2055.1
+2019,February,Prod214,"Own Brand",-2309.5
+2019,February,Prod051,"Own Brand",-2384.2
+2019,February,Prod018,"Own Brand",-2462.1
+2019,February,Prod117,"Distribution",-2854.6
+2019,February,Prod250,"Distribution",-3047.5
+2019,February,Prod024,"Distribution",-3174.5
+2019,February,Prod209,"Own Brand",-5156.6
+2019,February,Prod046,"Own Brand",-5271.6
+2019,February,Prod129,"Distribution",-6089.7
+2019,February,Prod252,"Distribution",-7469.9
+2019,February,Prod131,"Distribution",-7642.7
+2019,February,Prod212,"Own Brand",-7661.1
+2019,February,Prod150,"Own Brand",-8432.5
+2019,February,Prod267,"Distribution",-8648.8
+2019,February,Prod160,"Distribution",-9207
+2019,February,Prod043,"Own Brand",-9337
+2019,February,Prod053,"Own Brand",-10610.3
+2019,February,Prod261,"Own Brand",-13785.2
+2019,February,Prod090,"Own Brand",-14791.3
+2019,February,Prod030,"Distribution",-14959.8
+2019,February,Prod126,"Own Brand",-17816.5
+2019,February,Prod044,"Own Brand",-20092.6
+2019,February,Prod016,"Own Brand",-24508.8
+2019,February,Prod159,"Distribution",-33430.3
+2019,February,Prod215,"Own Brand",-36615.1
+2019,February,Prod206,"Distribution",-56811.9
+2019,February,Prod106,"Own Brand",-57424.9
+2019,January,Prod077,"Distribution",93907.6
+2019,January,Prod166,"Own Brand",30404.9
+2019,January,Prod212,"Own Brand",29194.1
+2019,January,Prod229,"Own Brand",29122.7
+2019,January,Prod052,"Own Brand",27390.4
+2019,January,Prod024,"Distribution",26123.4
+2019,January,Prod160,"Distribution",19428.3
+2019,January,Prod049,"Own Brand",19379.4
+2019,January,Prod131,"Distribution",18648.1
+2019,January,Prod260,"Own Brand",17553.7
+2019,January,Prod271,"Own Brand",17194.1
+2019,January,Prod123,"Own Brand",16860.1
+2019,January,Prod209,"Own Brand",16673.3
+2019,January,Prod053,"Own Brand",16109.3
+2019,January,Prod018,"Own Brand",14346.3
+2019,January,Prod150,"Own Brand",13661.5
+2019,January,Prod057,"Own Brand",13603.6
+2019,January,Prod232,"Own Brand",11250.3
+2019,January,Prod025,"Distribution",10907.6
+2019,January,Prod246,"Own Brand",10352.2
+2019,January,Prod065,"Own Brand",10082
+2019,January,Prod213,"Own Brand",9457.3
+2019,January,Prod245,"Own Brand",9220.7
+2019,January,Prod056,"Own Brand",8436
+2019,January,Prod102,"Own Brand",8414.9
+2019,January,Prod206,"Distribution",8391.5
+2019,January,Prod258,"Own Brand",8110.3
+2019,January,Prod098,"Own Brand",7897.2
+2019,January,Prod210,"Own Brand",6823.4
+2019,January,Prod060,"Own Brand",6578
+2019,January,Prod062,"Own Brand",6527.8
+2019,January,Prod267,"Distribution",6396.9
+2019,January,Prod241,"Own Brand",6335.2
+2019,January,Prod199,"Own Brand",5929.7
+2019,January,Prod114,"Distribution",5794.4
+2019,January,Prod261,"Own Brand",5381.8
+2019,January,Prod092,"Own Brand",5279.1
+2019,January,Prod255,"Own Brand",5176.8
+2019,January,Prod250,"Distribution",4731.7
+2019,January,Prod117,"Distribution",4260
+2019,January,Prod103,"Own Brand",3748.6
+2019,January,Prod185,"Own Brand",3492.6
+2019,January,Prod252,"Distribution",3431.2
+2019,January,Prod133,"Own Brand",2915.6
+2019,January,Prod157,"Own Brand",2586.1
+2019,January,Prod051,"Own Brand",2488.2
+2019,January,Prod238,"Own Brand",1890.7
+2019,January,Prod137,"Own Brand",1845
+2019,January,Prod176,"Distribution",1766.6
+2019,January,Prod265,"Distribution",1369.8
+2019,January,Prod128,"Distribution",1283
+2019,January,Prod162,"Distribution",1263.8
+2019,January,Prod251,"Distribution",1166.8
+2019,January,Prod207,"Distribution",1064.8
+2019,January,Prod278,"Distribution",1058.6
+2019,January,Prod045,"Own Brand",1031.7
+2019,January,Prod134,"Own Brand",1001.3
+2019,January,Prod118,"Distribution",871.2
+2019,January,Prod044,"Own Brand",864.6
+2019,January,Prod218,"Distribution",837.9
+2019,January,Prod091,"Own Brand",815.7
+2019,January,Prod264,"Distribution",728
+2019,January,Prod279,"Distribution",595
+2019,January,Prod126,"Own Brand",593.7
+2019,January,Prod263,"Distribution",486.2
+2019,January,Prod048,"Own Brand",431.8
+2019,January,Prod236,"Distribution",350.8
+2019,January,Prod273,"Own Brand",341.5
+2019,January,Prod270,"Own Brand",340
+2019,January,Prod140,"Own Brand",308.6
+2019,January,Prod269,"Own Brand",300.9
+2019,January,Prod119,"Distribution",276.1
+2019,January,Prod276,"Own Brand",269.2
+2019,January,Prod138,"Own Brand",268.5
+2019,January,Prod158,"Distribution",258.3
+2019,January,Prod042,"Own Brand",221.3
+2019,January,Prod242,"Own Brand",210.3
+2019,January,Prod088,"Own Brand",182.7
+2019,January,Prod274,"Own Brand",155.6
+2019,January,Prod089,"Own Brand",132.2
+2019,January,Prod046,"Own Brand",115.7
+2019,January,Prod148,"Own Brand",45.1
+2019,January,Prod205,"Distribution",42.9
+2019,January,Prod149,"Own Brand",10.1
+2019,January,Prod030,"Distribution",-16.6
+2019,January,Prod184,"Own Brand",-27.2
+2019,January,Prod139,"Own Brand",-41.1
+2019,January,Prod259,"Own Brand",-63.6
+2019,January,Prod005,"Own Brand",-107.1
+2019,January,Prod208,"Own Brand",-125
+2019,January,Prod110,"Distribution",-125.3
+2019,January,Prod011,"Own Brand",-133.6
+2019,January,Prod010,"Own Brand",-139.2
+2019,January,Prod272,"Own Brand",-147.4
+2019,January,Prod204,"Distribution",-169.4
+2019,January,Prod093,"Own Brand",-237.6
+2019,January,Prod116,"Distribution",-468
+2019,January,Prod275,"Own Brand",-561.7
+2019,January,Prod106,"Own Brand",-636.1
+2019,January,Prod152,"Own Brand",-700.1
+2019,January,Prod221,"Distribution",-774.3
+2019,January,Prod164,"Own Brand",-1231.5
+2019,January,Prod104,"Own Brand",-1389
+2019,January,Prod135,"Own Brand",-1414.1
+2019,January,Prod122,"Own Brand",-1476.5
+2019,January,Prod249,"Distribution",-1537.4
+2019,January,Prod254,"Own Brand",-1682.6
+2019,January,Prod268,"Own Brand",-2272.3
+2019,January,Prod129,"Distribution",-2659.7
+2019,January,Prod090,"Own Brand",-3930.3
+2019,January,Prod113,"Distribution",-5319.9
+2019,January,Prod161,"Distribution",-5780.7
+2019,January,Prod120,"Distribution",-6808.1
+2019,January,Prod100,"Own Brand",-8669.5
+2019,January,Prod159,"Distribution",-10045.9
+2019,January,Prod040,"Own Brand",-15447.9
+2019,January,Prod239,"Own Brand",-15559.1
+2019,January,Prod216,"Own Brand",-16663
+2019,January,Prod043,"Own Brand",-17393.9
+2019,January,Prod215,"Own Brand",-18481.4
+2019,January,Prod167,"Own Brand",-19149.2
+2019,January,Prod220,"Distribution",-30579
+2019,January,Prod214,"Own Brand",-34732.1
+2019,July,Prod077,"Distribution",106796.6
+2019,July,Prod040,"Own Brand",90837.7
+2019,July,Prod053,"Own Brand",88787.1
+2019,July,Prod131,"Distribution",80579.9
+2019,July,Prod018,"Own Brand",75454.5
+2019,July,Prod243,"Own Brand",72675
+2019,July,Prod067,"Distribution",56408.7
+2019,July,Prod065,"Own Brand",52779.9
+2019,July,Prod060,"Own Brand",33681.4
+2019,July,Prod113,"Distribution",33568.6
+2019,July,Prod221,"Distribution",30512.2
+2019,July,Prod030,"Distribution",30267
+2019,July,Prod047,"Own Brand",22546.2
+2019,July,Prod244,"Own Brand",22521.7
+2019,July,Prod209,"Own Brand",19250.7
+2019,July,Prod126,"Own Brand",18712
+2019,July,Prod210,"Own Brand",17641
+2019,July,Prod159,"Distribution",17265.4
+2019,July,Prod214,"Own Brand",16211.8
+2019,July,Prod061,"Own Brand",14500.3
+2019,July,Prod150,"Own Brand",13661.2
+2019,July,Prod145,"Distribution",11017.4
+2019,July,Prod042,"Own Brand",10531.1
+2019,July,Prod251,"Distribution",9138.6
+2019,July,Prod206,"Distribution",9047.5
+2019,July,Prod092,"Own Brand",8231
+2019,July,Prod237,"Distribution",7983.7
+2019,July,Prod167,"Own Brand",7908
+2019,July,Prod215,"Own Brand",6870.6
+2019,July,Prod224,"Own Brand",6556
+2019,July,Prod236,"Distribution",5809.9
+2019,July,Prod241,"Own Brand",5763.2
+2019,July,Prod091,"Own Brand",5093
+2019,July,Prod260,"Own Brand",4976.6
+2019,July,Prod116,"Distribution",4669.8
+2019,July,Prod168,"Own Brand",4466.7
+2019,July,Prod090,"Own Brand",4384.1
+2019,July,Prod059,"Own Brand",3947.8
+2019,July,Prod238,"Own Brand",3495.7
+2019,July,Prod135,"Own Brand",3429
+2019,July,Prod160,"Distribution",3258.1
+2019,July,Prod218,"Distribution",3242.4
+2019,July,Prod121,"Distribution",3149.1
+2019,July,Prod122,"Own Brand",2922.4
+2019,July,Prod049,"Own Brand",2894.6
+2019,July,Prod258,"Own Brand",2833.5
+2019,July,Prod165,"Own Brand",2731.1
+2019,July,Prod271,"Own Brand",2589.2
+2019,July,Prod213,"Own Brand",2553.1
+2019,July,Prod128,"Distribution",2409.8
+2019,July,Prod114,"Distribution",2116.2
+2019,July,Prod207,"Distribution",1998
+2019,July,Prod103,"Own Brand",1728.5
+2019,July,Prod275,"Own Brand",1558.1
+2019,July,Prod255,"Own Brand",1554.1
+2019,July,Prod265,"Distribution",1505.7
+2019,July,Prod120,"Distribution",1161.5
+2019,July,Prod098,"Own Brand",1160.4
+2019,July,Prod149,"Own Brand",1143.3
+2019,July,Prod039,"Own Brand",1020.8
+2019,July,Prod246,"Own Brand",787.7
+2019,July,Prod249,"Distribution",719
+2019,July,Prod263,"Distribution",666.6
+2019,July,Prod205,"Distribution",632.2
+2019,July,Prod264,"Distribution",529.4
+2019,July,Prod270,"Own Brand",384
+2019,July,Prod273,"Own Brand",359.2
+2019,July,Prod138,"Own Brand",264.5
+2019,July,Prod118,"Distribution",169.2
+2019,July,Prod269,"Own Brand",128.1
+2019,July,Prod176,"Distribution",88.3
+2019,July,Prod219,"Distribution",85
+2019,July,Prod025,"Distribution",47.8
+2019,July,Prod139,"Own Brand",26.2
+2019,July,Prod267,"Distribution",23.2
+2019,July,Prod254,"Own Brand",19.8
+2019,July,Prod229,"Own Brand",2.6
+2019,July,Prod046,"Own Brand",0
+2019,July,Prod132,"Distribution",0
+2019,July,Prod089,"Own Brand",0
+2019,July,Prod043,"Own Brand",-2.6
+2019,July,Prod274,"Own Brand",-11.8
+2019,July,Prod156,"Own Brand",-25.4
+2019,July,Prod011,"Own Brand",-30.6
+2019,July,Prod235,"Distribution",-34.5
+2019,July,Prod152,"Own Brand",-45.5
+2019,July,Prod182,"Own Brand",-60.3
+2019,July,Prod048,"Own Brand",-181.7
+2019,July,Prod106,"Own Brand",-187.5
+2019,July,Prod278,"Distribution",-229.5
+2019,July,Prod161,"Distribution",-251.8
+2019,July,Prod119,"Distribution",-335
+2019,July,Prod096,"Own Brand",-396.8
+2019,July,Prod231,"Own Brand",-838.4
+2019,July,Prod208,"Own Brand",-861.3
+2019,July,Prod133,"Own Brand",-913.4
+2019,July,Prod140,"Own Brand",-913.7
+2019,July,Prod242,"Own Brand",-936.8
+2019,July,Prod276,"Own Brand",-1080.3
+2019,July,Prod257,"Own Brand",-1251.9
+2019,July,Prod058,"Own Brand",-1307
+2019,July,Prod137,"Own Brand",-1337.4
+2019,July,Prod110,"Distribution",-2190.2
+2019,July,Prod005,"Own Brand",-2862.3
+2019,July,Prod045,"Own Brand",-3006.7
+2019,July,Prod279,"Distribution",-3646.9
+2019,July,Prod117,"Distribution",-5128
+2019,July,Prod134,"Own Brand",-5253.6
+2019,July,Prod261,"Own Brand",-5339
+2019,July,Prod250,"Distribution",-7117.8
+2019,July,Prod051,"Own Brand",-8946.1
+2019,July,Prod052,"Own Brand",-9294.5
+2019,July,Prod129,"Distribution",-11068.3
+2019,July,Prod166,"Own Brand",-12891.7
+2019,July,Prod056,"Own Brand",-12911.9
+2019,July,Prod252,"Distribution",-13986.5
+2019,July,Prod216,"Own Brand",-14366.1
+2019,July,Prod044,"Own Brand",-16107.8
+2019,July,Prod024,"Distribution",-17597.8
+2019,July,Prod220,"Distribution",-22080.2
+2019,July,Prod212,"Own Brand",-23324.1
+2019,July,Prod057,"Own Brand",-23826.2
+2019,July,Prod102,"Own Brand",-28239.9
+2019,July,Prod123,"Own Brand",-29273.3
+2019,July,Prod232,"Own Brand",-37621.2
+2019,July,Prod016,"Own Brand",-44931
+2019,July,Prod041,"Own Brand",-50446.6
+2019,June,Prod102,"Own Brand",76790
+2019,June,Prod052,"Own Brand",65351.1
+2019,June,Prod243,"Own Brand",59958.9
+2019,June,Prod024,"Distribution",50015.9
+2019,June,Prod040,"Own Brand",49857.7
+2019,June,Prod113,"Distribution",34232.3
+2019,June,Prod220,"Distribution",31876.7
+2019,June,Prod210,"Own Brand",25610.7
+2019,June,Prod261,"Own Brand",25127
+2019,June,Prod117,"Distribution",24958.2
+2019,June,Prod018,"Own Brand",24916.3
+2019,June,Prod129,"Distribution",24903
+2019,June,Prod044,"Own Brand",23445.7
+2019,June,Prod090,"Own Brand",22936.8
+2019,June,Prod216,"Own Brand",21382.8
+2019,June,Prod060,"Own Brand",20662.5
+2019,June,Prod025,"Distribution",14461.5
+2019,June,Prod145,"Distribution",14032.1
+2019,June,Prod237,"Distribution",13100.8
+2019,June,Prod162,"Distribution",11280.5
+2019,June,Prod251,"Distribution",10818.9
+2019,June,Prod116,"Distribution",10287.6
+2019,June,Prod053,"Own Brand",10153.6
+2019,June,Prod166,"Own Brand",9758.4
+2019,June,Prod051,"Own Brand",9359
+2019,June,Prod098,"Own Brand",9256.1
+2019,June,Prod059,"Own Brand",8974.6
+2019,June,Prod056,"Own Brand",8970.6
+2019,June,Prod209,"Own Brand",8721.6
+2019,June,Prod133,"Own Brand",8269.9
+2019,June,Prod065,"Own Brand",7574.2
+2019,June,Prod254,"Own Brand",7225.5
+2019,June,Prod131,"Distribution",6740
+2019,June,Prod132,"Distribution",5727
+2019,June,Prod267,"Distribution",5094.7
+2019,June,Prod048,"Own Brand",5003.6
+2019,June,Prod221,"Distribution",4321.6
+2019,June,Prod250,"Distribution",4237.3
+2019,June,Prod141,"Own Brand",4036.5
+2019,June,Prod134,"Own Brand",3474.9
+2019,June,Prod137,"Own Brand",3452.8
+2019,June,Prod057,"Own Brand",2971.1
+2019,June,Prod255,"Own Brand",2940.9
+2019,June,Prod121,"Distribution",2080.7
+2019,June,Prod269,"Own Brand",1975.5
+2019,June,Prod120,"Distribution",1862.9
+2019,June,Prod199,"Own Brand",1693.9
+2019,June,Prod213,"Own Brand",1504.4
+2019,June,Prod161,"Distribution",1132.4
+2019,June,Prod159,"Distribution",878.1
+2019,June,Prod150,"Own Brand",843.4
+2019,June,Prod009,"Own Brand",796.6
+2019,June,Prod118,"Distribution",782.5
+2019,June,Prod275,"Own Brand",707.2
+2019,June,Prod278,"Distribution",679.9
+2019,June,Prod207,"Distribution",677.3
+2019,June,Prod030,"Distribution",651.6
+2019,June,Prod268,"Own Brand",640.9
+2019,June,Prod246,"Own Brand",606.8
+2019,June,Prod279,"Distribution",522.6
+2019,June,Prod232,"Own Brand",489.1
+2019,June,Prod265,"Distribution",383.7
+2019,June,Prod176,"Distribution",353.3
+2019,June,Prod270,"Own Brand",328
+2019,June,Prod238,"Own Brand",243.4
+2019,June,Prod062,"Own Brand",241.6
+2019,June,Prod091,"Own Brand",135.4
+2019,June,Prod273,"Own Brand",114.6
+2019,June,Prod139,"Own Brand",96.9
+2019,June,Prod119,"Distribution",93.9
+2019,June,Prod235,"Distribution",60.1
+2019,June,Prod184,"Own Brand",56.3
+2019,June,Prod152,"Own Brand",37.2
+2019,June,Prod167,"Own Brand",28.6
+2019,June,Prod205,"Distribution",10.7
+2019,June,Prod219,"Distribution",-7.5
+2019,June,Prod218,"Distribution",-8.5
+2019,June,Prod138,"Own Brand",-11.9
+2019,June,Prod135,"Own Brand",-22.4
+2019,June,Prod263,"Distribution",-59.4
+2019,June,Prod046,"Own Brand",-64.6
+2019,June,Prod274,"Own Brand",-84.7
+2019,June,Prod160,"Distribution",-112.8
+2019,June,Prod178,"Own Brand",-119
+2019,June,Prod039,"Own Brand",-195
+2019,June,Prod208,"Own Brand",-218
+2019,June,Prod231,"Own Brand",-240.8
+2019,June,Prod258,"Own Brand",-272.2
+2019,June,Prod089,"Own Brand",-287
+2019,June,Prod271,"Own Brand",-335
+2019,June,Prod096,"Own Brand",-344.2
+2019,June,Prod264,"Distribution",-378
+2019,June,Prod272,"Own Brand",-404.4
+2019,June,Prod236,"Distribution",-493.2
+2019,June,Prod050,"Own Brand",-526.5
+2019,June,Prod229,"Own Brand",-572.2
+2019,June,Prod128,"Distribution",-573
+2019,June,Prod242,"Own Brand",-591
+2019,June,Prod122,"Own Brand",-593.5
+2019,June,Prod257,"Own Brand",-722.2
+2019,June,Prod110,"Distribution",-722.3
+2019,June,Prod011,"Own Brand",-852
+2019,June,Prod103,"Own Brand",-852.2
+2019,June,Prod143,"Distribution",-1106.7
+2019,June,Prod149,"Own Brand",-1177.7
+2019,June,Prod241,"Own Brand",-1401.7
+2019,June,Prod088,"Own Brand",-1417.8
+2019,June,Prod043,"Own Brand",-1606.1
+2019,June,Prod140,"Own Brand",-1620.9
+2019,June,Prod041,"Own Brand",-1695
+2019,June,Prod106,"Own Brand",-1827.8
+2019,June,Prod168,"Own Brand",-2043.6
+2019,June,Prod249,"Distribution",-2121.6
+2019,June,Prod212,"Own Brand",-2677.3
+2019,June,Prod165,"Own Brand",-2762
+2019,June,Prod114,"Distribution",-2927.2
+2019,June,Prod126,"Own Brand",-2978.7
+2019,June,Prod206,"Distribution",-3093.7
+2019,June,Prod123,"Own Brand",-3876.2
+2019,June,Prod005,"Own Brand",-3965.9
+2019,June,Prod170,"Own Brand",-4058.8
+2019,June,Prod276,"Own Brand",-4146.7
+2019,June,Prod042,"Own Brand",-4634.4
+2019,June,Prod252,"Distribution",-5861.6
+2019,June,Prod260,"Own Brand",-5972.2
+2019,June,Prod045,"Own Brand",-11484.4
+2019,June,Prod214,"Own Brand",-14066.4
+2019,June,Prod215,"Own Brand",-16079.4
+2019,June,Prod077,"Distribution",-21175
+2019,June,Prod244,"Own Brand",-25899.5
+2019,June,Prod047,"Own Brand",-82707.9
+2019,June,Prod049,"Own Brand",-111101.4
+2019,March,Prod040,"Own Brand",265801.8
+2019,March,Prod239,"Own Brand",119879.4
+2019,March,Prod102,"Own Brand",73791.4
+2019,March,Prod018,"Own Brand",61721
+2019,March,Prod090,"Own Brand",38245.2
+2019,March,Prod214,"Own Brand",37570.4
+2019,March,Prod201,"Own Brand",36509.3
+2019,March,Prod215,"Own Brand",35015
+2019,March,Prod245,"Own Brand",29470.7
+2019,March,Prod049,"Own Brand",29128.5
+2019,March,Prod057,"Own Brand",24237.9
+2019,March,Prod119,"Distribution",18137
+2019,March,Prod167,"Own Brand",16697.7
+2019,March,Prod123,"Own Brand",16667.4
+2019,March,Prod128,"Distribution",16046.4
+2019,March,Prod129,"Distribution",15253
+2019,March,Prod065,"Own Brand",15020.5
+2019,March,Prod213,"Own Brand",13987
+2019,March,Prod098,"Own Brand",13281.1
+2019,March,Prod067,"Distribution",12617.7
+2019,March,Prod122,"Own Brand",12068.8
+2019,March,Prod091,"Own Brand",12023.2
+2019,March,Prod131,"Distribution",10591.1
+2019,March,Prod117,"Distribution",9539.8
+2019,March,Prod149,"Own Brand",9316.5
+2019,March,Prod238,"Own Brand",9061.5
+2019,March,Prod159,"Distribution",9006.8
+2019,March,Prod120,"Distribution",8497.9
+2019,March,Prod210,"Own Brand",7004.3
+2019,March,Prod092,"Own Brand",5662.6
+2019,March,Prod135,"Own Brand",5429
+2019,March,Prod258,"Own Brand",5156.5
+2019,March,Prod236,"Distribution",4958.8
+2019,March,Prod267,"Distribution",4811.5
+2019,March,Prod150,"Own Brand",3710.5
+2019,March,Prod260,"Own Brand",3592.3
+2019,March,Prod062,"Own Brand",3298.5
+2019,March,Prod137,"Own Brand",2743.5
+2019,March,Prod056,"Own Brand",2200.4
+2019,March,Prod264,"Distribution",1983.5
+2019,March,Prod268,"Own Brand",1868
+2019,March,Prod088,"Own Brand",1675.6
+2019,March,Prod241,"Own Brand",1595.2
+2019,March,Prod186,"Own Brand",1522.6
+2019,March,Prod207,"Distribution",1431.2
+2019,March,Prod269,"Own Brand",1416.4
+2019,March,Prod232,"Own Brand",1269
+2019,March,Prod096,"Own Brand",1163.9
+2019,March,Prod025,"Distribution",1032.6
+2019,March,Prod218,"Distribution",877.8
+2019,March,Prod261,"Own Brand",802.8
+2019,March,Prod276,"Own Brand",716
+2019,March,Prod140,"Own Brand",712.8
+2019,March,Prod250,"Distribution",668
+2019,March,Prod279,"Distribution",609.9
+2019,March,Prod235,"Distribution",492.7
+2019,March,Prod134,"Own Brand",452.9
+2019,March,Prod275,"Own Brand",444.4
+2019,March,Prod208,"Own Brand",387.1
+2019,March,Prod133,"Own Brand",365.4
+2019,March,Prod263,"Distribution",364.5
+2019,March,Prod052,"Own Brand",319.7
+2019,March,Prod161,"Distribution",291
+2019,March,Prod219,"Distribution",236
+2019,March,Prod166,"Own Brand",179.5
+2019,March,Prod231,"Own Brand",176.7
+2019,March,Prod272,"Own Brand",172.8
+2019,March,Prod048,"Own Brand",154.2
+2019,March,Prod270,"Own Brand",127.9
+2019,March,Prod205,"Distribution",117.4
+2019,March,Prod100,"Own Brand",117.4
+2019,March,Prod249,"Distribution",105.1
+2019,March,Prod010,"Own Brand",79.9
+2019,March,Prod138,"Own Brand",66
+2019,March,Prod077,"Distribution",0
+2019,March,Prod044,"Own Brand",0
+2019,March,Prod170,"Own Brand",-0.5
+2019,March,Prod273,"Own Brand",-7.9
+2019,March,Prod139,"Own Brand",-10.5
+2019,March,Prod184,"Own Brand",-23.3
+2019,March,Prod005,"Own Brand",-31.5
+2019,March,Prod199,"Own Brand",-64.4
+2019,March,Prod011,"Own Brand",-66.8
+2019,March,Prod118,"Distribution",-216.1
+2019,March,Prod242,"Own Brand",-235.1
+2019,March,Prod145,"Distribution",-469.4
+2019,March,Prod274,"Own Brand",-546.7
+2019,March,Prod089,"Own Brand",-859.1
+2019,March,Prod176,"Distribution",-883.3
+2019,March,Prod046,"Own Brand",-975
+2019,March,Prod278,"Distribution",-1016.7
+2019,March,Prod116,"Distribution",-1385.1
+2019,March,Prod114,"Distribution",-1569.6
+2019,March,Prod265,"Distribution",-1744.2
+2019,March,Prod016,"Own Brand",-1983
+2019,March,Prod165,"Own Brand",-2142.4
+2019,March,Prod246,"Own Brand",-2648.4
+2019,March,Prod251,"Distribution",-3638.2
+2019,March,Prod060,"Own Brand",-3735.3
+2019,March,Prod225,"Own Brand",-3971.5
+2019,March,Prod043,"Own Brand",-4317.7
+2019,March,Prod216,"Own Brand",-4417.3
+2019,March,Prod221,"Distribution",-4509.9
+2019,March,Prod226,"Own Brand",-5923.8
+2019,March,Prod271,"Own Brand",-6872.1
+2019,March,Prod103,"Own Brand",-7347.8
+2019,March,Prod024,"Distribution",-7462
+2019,March,Prod113,"Distribution",-7988.1
+2019,March,Prod110,"Distribution",-8142
+2019,March,Prod252,"Distribution",-10853.2
+2019,March,Prod053,"Own Brand",-11022.6
+2019,March,Prod051,"Own Brand",-11224.8
+2019,March,Prod126,"Own Brand",-11418.9
+2019,March,Prod152,"Own Brand",-13920
+2019,March,Prod209,"Own Brand",-15970.7
+2019,March,Prod254,"Own Brand",-16234.8
+2019,March,Prod220,"Distribution",-21118.7
+2019,March,Prod042,"Own Brand",-21442.8
+2019,March,Prod255,"Own Brand",-21927.6
+2019,March,Prod206,"Distribution",-26188.5
+2019,March,Prod212,"Own Brand",-29546.5
+2019,March,Prod030,"Distribution",-30742.1
+2019,March,Prod106,"Own Brand",-31181.1
+2019,March,Prod045,"Own Brand",-32807.9
+2019,March,Prod229,"Own Brand",-75204.1
+2019,May,Prod077,"Distribution",154670.3
+2019,May,Prod049,"Own Brand",71028
+2019,May,Prod060,"Own Brand",50760.8
+2019,May,Prod016,"Own Brand",35414.2
+2019,May,Prod067,"Distribution",32657.7
+2019,May,Prod040,"Own Brand",25357.6
+2019,May,Prod065,"Own Brand",25114.1
+2019,May,Prod216,"Own Brand",21795.4
+2019,May,Prod092,"Own Brand",21254.1
+2019,May,Prod237,"Distribution",20916.5
+2019,May,Prod215,"Own Brand",18324.1
+2019,May,Prod044,"Own Brand",17321.7
+2019,May,Prod260,"Own Brand",17311.3
+2019,May,Prod166,"Own Brand",17218.8
+2019,May,Prod144,"Distribution",16880.8
+2019,May,Prod213,"Own Brand",16578.8
+2019,May,Prod267,"Distribution",15502.4
+2019,May,Prod252,"Distribution",15354.8
+2019,May,Prod212,"Own Brand",14458.7
+2019,May,Prod221,"Distribution",13515.1
+2019,May,Prod123,"Own Brand",13084.7
+2019,May,Prod271,"Own Brand",13035.9
+2019,May,Prod131,"Distribution",12732.4
+2019,May,Prod126,"Own Brand",11492.8
+2019,May,Prod167,"Own Brand",10894.1
+2019,May,Prod209,"Own Brand",10592.6
+2019,May,Prod116,"Distribution",9731.6
+2019,May,Prod110,"Distribution",9325.5
+2019,May,Prod056,"Own Brand",8826.3
+2019,May,Prod057,"Own Brand",8083.9
+2019,May,Prod102,"Own Brand",7094.9
+2019,May,Prod052,"Own Brand",6000.1
+2019,May,Prod098,"Own Brand",4661.1
+2019,May,Prod241,"Own Brand",4567.1
+2019,May,Prod137,"Own Brand",4481.7
+2019,May,Prod059,"Own Brand",3923.3
+2019,May,Prod120,"Distribution",3749.4
+2019,May,Prod089,"Own Brand",3748.6
+2019,May,Prod121,"Distribution",3538.9
+2019,May,Prod018,"Own Brand",3362.7
+2019,May,Prod225,"Own Brand",2646.4
+2019,May,Prod165,"Own Brand",2139.8
+2019,May,Prod278,"Distribution",1884
+2019,May,Prod218,"Distribution",1798.4
+2019,May,Prod135,"Own Brand",1474.7
+2019,May,Prod265,"Distribution",1132.7
+2019,May,Prod263,"Distribution",931.1
+2019,May,Prod025,"Distribution",785.2
+2019,May,Prod275,"Own Brand",784.6
+2019,May,Prod229,"Own Brand",742.8
+2019,May,Prod208,"Own Brand",724.5
+2019,May,Prod161,"Distribution",691.6
+2019,May,Prod132,"Distribution",630
+2019,May,Prod250,"Distribution",592.2
+2019,May,Prod207,"Distribution",551.1
+2019,May,Prod279,"Distribution",428.9
+2019,May,Prod005,"Own Brand",387.2
+2019,May,Prod238,"Own Brand",382.1
+2019,May,Prod041,"Own Brand",367.8
+2019,May,Prod199,"Own Brand",347.8
+2019,May,Prod274,"Own Brand",319.2
+2019,May,Prod235,"Distribution",302.5
+2019,May,Prod096,"Own Brand",297.9
+2019,May,Prod273,"Own Brand",233.6
+2019,May,Prod046,"Own Brand",215.3
+2019,May,Prod249,"Distribution",138.1
+2019,May,Prod264,"Distribution",121.5
+2019,May,Prod048,"Own Brand",91.3
+2019,May,Prod156,"Own Brand",75.3
+2019,May,Prod138,"Own Brand",53
+2019,May,Prod276,"Own Brand",51.1
+2019,May,Prod143,"Distribution",44.8
+2019,May,Prod091,"Own Brand",29.6
+2019,May,Prod231,"Own Brand",9
+2019,May,Prod039,"Own Brand",1.8
+2019,May,Prod222,"Distribution",-11.8
+2019,May,Prod170,"Own Brand",-18.8
+2019,May,Prod219,"Distribution",-28.7
+2019,May,Prod139,"Own Brand",-99.2
+2019,May,Prod270,"Own Brand",-102.7
+2019,May,Prod133,"Own Brand",-106.8
+2019,May,Prod045,"Own Brand",-187.9
+2019,May,Prod176,"Distribution",-265
+2019,May,Prod009,"Own Brand",-309.6
+2019,May,Prod269,"Own Brand",-311.8
+2019,May,Prod205,"Distribution",-343.4
+2019,May,Prod149,"Own Brand",-395.1
+2019,May,Prod272,"Own Brand",-401.5
+2019,May,Prod242,"Own Brand",-429
+2019,May,Prod118,"Distribution",-452.2
+2019,May,Prod162,"Distribution",-639.2
+2019,May,Prod140,"Own Brand",-776.1
+2019,May,Prod128,"Distribution",-964.7
+2019,May,Prod246,"Own Brand",-998.5
+2019,May,Prod254,"Own Brand",-1137.1
+2019,May,Prod053,"Own Brand",-1278.6
+2019,May,Prod268,"Own Brand",-1313.6
+2019,May,Prod255,"Own Brand",-1467.8
+2019,May,Prod050,"Own Brand",-1649.4
+2019,May,Prod030,"Distribution",-1695.8
+2019,May,Prod103,"Own Brand",-2168.4
+2019,May,Prod145,"Distribution",-2749.1
+2019,May,Prod106,"Own Brand",-2914.8
+2019,May,Prod159,"Distribution",-3064.7
+2019,May,Prod232,"Own Brand",-3137.6
+2019,May,Prod243,"Own Brand",-3621.6
+2019,May,Prod141,"Own Brand",-3703.8
+2019,May,Prod150,"Own Brand",-3710.1
+2019,May,Prod117,"Distribution",-3780.1
+2019,May,Prod257,"Own Brand",-4188.8
+2019,May,Prod088,"Own Brand",-4511.2
+2019,May,Prod134,"Own Brand",-4593.6
+2019,May,Prod090,"Own Brand",-4746.4
+2019,May,Prod239,"Own Brand",-5004.8
+2019,May,Prod244,"Own Brand",-5222.3
+2019,May,Prod051,"Own Brand",-5343.2
+2019,May,Prod114,"Distribution",-6175.8
+2019,May,Prod245,"Own Brand",-6204
+2019,May,Prod024,"Distribution",-7928.5
+2019,May,Prod129,"Distribution",-7981.1
+2019,May,Prod251,"Distribution",-8671.4
+2019,May,Prod043,"Own Brand",-8790.3
+2019,May,Prod122,"Own Brand",-9143.4
+2019,May,Prod113,"Distribution",-10401.3
+2019,May,Prod258,"Own Brand",-12037.8
+2019,May,Prod220,"Distribution",-13769.5
+2019,May,Prod236,"Distribution",-16767.8
+2019,May,Prod142,"Own Brand",-20096.6
+2019,May,Prod261,"Own Brand",-25383.2
+2019,May,Prod210,"Own Brand",-35685.1
+2019,May,Prod214,"Own Brand",-39343.5
+2019,May,Prod206,"Distribution",-42104.1
+2019,November,Prod146,"Distribution",190464.8
+2019,November,Prod047,"Own Brand",131514.3
+2019,November,Prod102,"Own Brand",48324.5
+2019,November,Prod061,"Own Brand",48232.3
+2019,November,Prod209,"Own Brand",37190.7
+2019,November,Prod210,"Own Brand",36974.4
+2019,November,Prod040,"Own Brand",30762.2
+2019,November,Prod106,"Own Brand",28286.8
+2019,November,Prod117,"Distribution",26147.4
+2019,November,Prod232,"Own Brand",22901.5
+2019,November,Prod058,"Own Brand",21392.3
+2019,November,Prod054,"Own Brand",19039
+2019,November,Prod221,"Distribution",17357.1
+2019,November,Prod244,"Own Brand",15860.1
+2019,November,Prod121,"Distribution",12652.5
+2019,November,Prod113,"Distribution",12168.9
+2019,November,Prod215,"Own Brand",11236.9
+2019,November,Prod237,"Distribution",9224.3
+2019,November,Prod229,"Own Brand",7527.2
+2019,November,Prod166,"Own Brand",7126
+2019,November,Prod252,"Distribution",6655.1
+2019,November,Prod251,"Distribution",6480.9
+2019,November,Prod254,"Own Brand",6341.6
+2019,November,Prod085,"Own Brand",5249.9
+2019,November,Prod098,"Own Brand",4915
+2019,November,Prod133,"Own Brand",4427.2
+2019,November,Prod261,"Own Brand",4207.2
+2019,November,Prod271,"Own Brand",3936
+2019,November,Prod127,"Own Brand",3759.9
+2019,November,Prod207,"Distribution",3369.2
+2019,November,Prod260,"Own Brand",3123.6
+2019,November,Prod160,"Distribution",2499.1
+2019,November,Prod218,"Distribution",2372.3
+2019,November,Prod255,"Own Brand",2135.7
+2019,November,Prod091,"Own Brand",2051.5
+2019,November,Prod048,"Own Brand",1969.1
+2019,November,Prod263,"Distribution",1834.8
+2019,November,Prod110,"Distribution",1745.2
+2019,November,Prod275,"Own Brand",1439.4
+2019,November,Prod265,"Distribution",1415.9
+2019,November,Prod103,"Own Brand",1394.8
+2019,November,Prod116,"Distribution",1377.7
+2019,November,Prod243,"Own Brand",1286
+2019,November,Prod016,"Own Brand",1263.4
+2019,November,Prod231,"Own Brand",1173.8
+2019,November,Prod041,"Own Brand",1062.1
+2019,November,Prod140,"Own Brand",981.9
+2019,November,Prod043,"Own Brand",770.1
+2019,November,Prod018,"Own Brand",744.5
+2019,November,Prod272,"Own Brand",646.2
+2019,November,Prod238,"Own Brand",645.6
+2019,November,Prod132,"Distribution",630
+2019,November,Prod206,"Distribution",606.6
+2019,November,Prod205,"Distribution",591.6
+2019,November,Prod011,"Own Brand",585.5
+2019,November,Prod223,"Own Brand",559.4
+2019,November,Prod123,"Own Brand",534.6
+2019,November,Prod119,"Distribution",465.2
+2019,November,Prod270,"Own Brand",455.9
+2019,November,Prod273,"Own Brand",356.3
+2019,November,Prod057,"Own Brand",348.8
+2019,November,Prod276,"Own Brand",324.2
+2019,November,Prod242,"Own Brand",267.8
+2019,November,Prod042,"Own Brand",214.6
+2019,November,Prod145,"Distribution",171.6
+2019,November,Prod278,"Distribution",158.5
+2019,November,Prod052,"Own Brand",77.7
+2019,November,Prod224,"Own Brand",49.9
+2019,November,Prod137,"Own Brand",43.2
+2019,November,Prod156,"Own Brand",21.7
+2019,November,Prod046,"Own Brand",20.3
+2019,November,Prod138,"Own Brand",-1
+2019,November,Prod005,"Own Brand",-1.6
+2019,November,Prod051,"Own Brand",-2.3
+2019,November,Prod253,"Own Brand",-29.5
+2019,November,Prod025,"Distribution",-35.7
+2019,November,Prod219,"Distribution",-47.3
+2019,November,Prod274,"Own Brand",-75.3
+2019,November,Prod059,"Own Brand",-93.7
+2019,November,Prod152,"Own Brand",-122.4
+2019,November,Prod168,"Own Brand",-139.9
+2019,November,Prod269,"Own Brand",-182.1
+2019,November,Prod039,"Own Brand",-259.7
+2019,November,Prod208,"Own Brand",-304.2
+2019,November,Prod118,"Distribution",-324
+2019,November,Prod279,"Distribution",-454.7
+2019,November,Prod249,"Distribution",-544.2
+2019,November,Prod241,"Own Brand",-616
+2019,November,Prod089,"Own Brand",-646
+2019,November,Prod139,"Own Brand",-684.2
+2019,November,Prod022,"Distribution",-732.4
+2019,November,Prod262,"Own Brand",-752.2
+2019,November,Prod126,"Own Brand",-758
+2019,November,Prod122,"Own Brand",-801.9
+2019,November,Prod128,"Distribution",-807.9
+2019,November,Prod214,"Own Brand",-867
+2019,November,Prod135,"Own Brand",-868.6
+2019,November,Prod264,"Distribution",-912.4
+2019,November,Prod268,"Own Brand",-1071.9
+2019,November,Prod088,"Own Brand",-1095.5
+2019,November,Prod149,"Own Brand",-1311.4
+2019,November,Prod114,"Distribution",-1613.7
+2019,November,Prod250,"Distribution",-1677.7
+2019,November,Prod045,"Own Brand",-1879.5
+2019,November,Prod228,"Own Brand",-1941.2
+2019,November,Prod167,"Own Brand",-2295.8
+2019,November,Prod161,"Distribution",-2667.8
+2019,November,Prod165,"Own Brand",-2923
+2019,November,Prod031,"Distribution",-3486.4
+2019,November,Prod056,"Own Brand",-3653.8
+2019,November,Prod124,"Own Brand",-3764.5
+2019,November,Prod053,"Own Brand",-4772.9
+2019,November,Prod134,"Own Brand",-5197.6
+2019,November,Prod162,"Distribution",-5803.6
+2019,November,Prod258,"Own Brand",-7192.7
+2019,November,Prod236,"Distribution",-7316.9
+2019,November,Prod065,"Own Brand",-7935.2
+2019,November,Prod150,"Own Brand",-8264
+2019,November,Prod212,"Own Brand",-10856.2
+2019,November,Prod227,"Own Brand",-11891.2
+2019,November,Prod213,"Own Brand",-14349.6
+2019,November,Prod267,"Distribution",-14583.1
+2019,November,Prod220,"Distribution",-16827.2
+2019,November,Prod125,"Own Brand",-17290
+2019,November,Prod129,"Distribution",-17297.6
+2019,November,Prod131,"Distribution",-18948.7
+2019,November,Prod216,"Own Brand",-19402.2
+2019,November,Prod159,"Distribution",-33421.7
+2019,November,Prod024,"Distribution",-37276.5
+2019,November,Prod090,"Own Brand",-169684.4
+2019,October,Prod018,"Own Brand",225918.5
+2019,October,Prod040,"Own Brand",98820.7
+2019,October,Prod046,"Own Brand",72594.5
+2019,October,Prod090,"Own Brand",64655.7
+2019,October,Prod058,"Own Brand",54823.8
+2019,October,Prod214,"Own Brand",50780.2
+2019,October,Prod131,"Distribution",42140.5
+2019,October,Prod065,"Own Brand",35303.9
+2019,October,Prod165,"Own Brand",27596.4
+2019,October,Prod243,"Own Brand",23990.2
+2019,October,Prod150,"Own Brand",21588.1
+2019,October,Prod236,"Distribution",18838
+2019,October,Prod161,"Distribution",16390.1
+2019,October,Prod051,"Own Brand",15513.7
+2019,October,Prod213,"Own Brand",13808.1
+2019,October,Prod171,"Own Brand",12457.8
+2019,October,Prod160,"Distribution",10522.4
+2019,October,Prod227,"Own Brand",9107.4
+2019,October,Prod159,"Distribution",7795.6
+2019,October,Prod122,"Own Brand",7551.6
+2019,October,Prod098,"Own Brand",6134.5
+2019,October,Prod123,"Own Brand",5763.9
+2019,October,Prod176,"Distribution",5388.1
+2019,October,Prod272,"Own Brand",4699.1
+2019,October,Prod221,"Distribution",4375.6
+2019,October,Prod252,"Distribution",4213.2
+2019,October,Prod117,"Distribution",4154.1
+2019,October,Prod265,"Distribution",3661.6
+2019,October,Prod016,"Own Brand",3549.8
+2019,October,Prod042,"Own Brand",3531.5
+2019,October,Prod134,"Own Brand",3055.9
+2019,October,Prod255,"Own Brand",2908.7
+2019,October,Prod241,"Own Brand",2612.4
+2019,October,Prod132,"Distribution",2414.9
+2019,October,Prod103,"Own Brand",2187
+2019,October,Prod258,"Own Brand",2179.6
+2019,October,Prod223,"Own Brand",2111.2
+2019,October,Prod279,"Distribution",2097.3
+2019,October,Prod128,"Distribution",2051.5
+2019,October,Prod102,"Own Brand",2017.2
+2019,October,Prod251,"Distribution",1967
+2019,October,Prod149,"Own Brand",1953.9
+2019,October,Prod229,"Own Brand",1766.2
+2019,October,Prod268,"Own Brand",1761.8
+2019,October,Prod088,"Own Brand",1546.6
+2019,October,Prod061,"Own Brand",1437.2
+2019,October,Prod140,"Own Brand",1321.6
+2019,October,Prod232,"Own Brand",1243.7
+2019,October,Prod135,"Own Brand",1146.9
+2019,October,Prod276,"Own Brand",1062.6
+2019,October,Prod005,"Own Brand",986.7
+2019,October,Prod218,"Distribution",960.9
+2019,October,Prod167,"Own Brand",954.1
+2019,October,Prod137,"Own Brand",906.5
+2019,October,Prod275,"Own Brand",889.3
+2019,October,Prod057,"Own Brand",887.6
+2019,October,Prod242,"Own Brand",765.4
+2019,October,Prod045,"Own Brand",752
+2019,October,Prod092,"Own Brand",736.2
+2019,October,Prod039,"Own Brand",662.1
+2019,October,Prod208,"Own Brand",643
+2019,October,Prod049,"Own Brand",642.9
+2019,October,Prod043,"Own Brand",604
+2019,October,Prod118,"Distribution",429.6
+2019,October,Prod152,"Own Brand",417.5
+2019,October,Prod231,"Own Brand",364.6
+2019,October,Prod145,"Distribution",305.9
+2019,October,Prod273,"Own Brand",284.1
+2019,October,Prod260,"Own Brand",254.9
+2019,October,Prod199,"Own Brand",236.1
+2019,October,Prod089,"Own Brand",163.7
+2019,October,Prod271,"Own Brand",140.6
+2019,October,Prod216,"Own Brand",108.8
+2019,October,Prod264,"Distribution",96
+2019,October,Prod116,"Distribution",93.6
+2019,October,Prod249,"Distribution",83.9
+2019,October,Prod168,"Own Brand",82.3
+2019,October,Prod274,"Own Brand",35.9
+2019,October,Prod207,"Distribution",30.4
+2019,October,Prod210,"Own Brand",23.6
+2019,October,Prod205,"Distribution",5.7
+2019,October,Prod238,"Own Brand",-0
+2019,October,Prod052,"Own Brand",-12.8
+2019,October,Prod219,"Distribution",-28.7
+2019,October,Prod262,"Own Brand",-35
+2019,October,Prod138,"Own Brand",-102.8
+2019,October,Prod011,"Own Brand",-102.9
+2019,October,Prod059,"Own Brand",-161.1
+2019,October,Prod263,"Distribution",-259.6
+2019,October,Prod224,"Own Brand",-520.4
+2019,October,Prod278,"Distribution",-710.2
+2019,October,Prod119,"Distribution",-711.4
+2019,October,Prod270,"Own Brand",-784.1
+2019,October,Prod269,"Own Brand",-863.2
+2019,October,Prod133,"Own Brand",-1415.7
+2019,October,Prod091,"Own Brand",-1894.1
+2019,October,Prod060,"Own Brand",-2331.7
+2019,October,Prod114,"Distribution",-2631.8
+2019,October,Prod250,"Distribution",-2673
+2019,October,Prod127,"Own Brand",-3027.6
+2019,October,Prod104,"Own Brand",-3561.6
+2019,October,Prod025,"Distribution",-3835.7
+2019,October,Prod121,"Distribution",-4139.5
+2019,October,Prod254,"Own Brand",-5061.7
+2019,October,Prod053,"Own Brand",-5745.7
+2019,October,Prod106,"Own Brand",-5926.9
+2019,October,Prod110,"Distribution",-6646.4
+2019,October,Prod261,"Own Brand",-7261.7
+2019,October,Prod056,"Own Brand",-8812.2
+2019,October,Prod166,"Own Brand",-8930.1
+2019,October,Prod267,"Distribution",-11114
+2019,October,Prod244,"Own Brand",-11162.4
+2019,October,Prod220,"Distribution",-11801
+2019,October,Prod215,"Own Brand",-14015.7
+2019,October,Prod129,"Distribution",-17298.1
+2019,October,Prod113,"Distribution",-18766.5
+2019,October,Prod047,"Own Brand",-20103.5
+2019,October,Prod041,"Own Brand",-22420.8
+2019,October,Prod237,"Distribution",-23394.4
+2019,October,Prod209,"Own Brand",-23974.7
+2019,October,Prod054,"Own Brand",-26143.4
+2019,October,Prod212,"Own Brand",-28759
+2019,October,Prod206,"Distribution",-55270.9
+2019,October,Prod024,"Distribution",-111259.8
+2019,September,Prod090,"Own Brand",90867.9
+2019,September,Prod046,"Own Brand",76368.1
+2019,September,Prod216,"Own Brand",49901.2
+2019,September,Prod131,"Distribution",46316.2
+2019,September,Prod213,"Own Brand",35912.2
+2019,September,Prod127,"Own Brand",30848.7
+2019,September,Prod054,"Own Brand",27384.3
+2019,September,Prod016,"Own Brand",26919.1
+2019,September,Prod221,"Distribution",26313.1
+2019,September,Prod244,"Own Brand",25539.1
+2019,September,Prod129,"Distribution",25514.9
+2019,September,Prod267,"Distribution",24555.4
+2019,September,Prod051,"Own Brand",22672.8
+2019,September,Prod061,"Own Brand",19823.6
+2019,September,Prod018,"Own Brand",18904.8
+2019,September,Prod053,"Own Brand",18867.8
+2019,September,Prod005,"Own Brand",17097.1
+2019,September,Prod209,"Own Brand",16722.7
+2019,September,Prod261,"Own Brand",16295.3
+2019,September,Prod150,"Own Brand",13155.2
+2019,September,Prod165,"Own Brand",12864
+2019,September,Prod106,"Own Brand",10329
+2019,September,Prod117,"Distribution",9925.6
+2019,September,Prod167,"Own Brand",9823.3
+2019,September,Prod236,"Distribution",9640.8
+2019,September,Prod045,"Own Brand",9583.2
+2019,September,Prod104,"Own Brand",8905.6
+2019,September,Prod065,"Own Brand",8393.7
+2019,September,Prod214,"Own Brand",8330.5
+2019,September,Prod110,"Distribution",8323.1
+2019,September,Prod058,"Own Brand",7549.6
+2019,September,Prod067,"Distribution",7422.2
+2019,September,Prod077,"Distribution",7365.2
+2019,September,Prod232,"Own Brand",6185.4
+2019,September,Prod043,"Own Brand",5516.6
+2019,September,Prod122,"Own Brand",5262.2
+2019,September,Prod252,"Distribution",5048.1
+2019,September,Prod160,"Distribution",4735.1
+2019,September,Prod121,"Distribution",4303.1
+2019,September,Prod260,"Own Brand",4131.3
+2019,September,Prod176,"Distribution",3621.5
+2019,September,Prod255,"Own Brand",3535.8
+2019,September,Prod133,"Own Brand",2761.8
+2019,September,Prod199,"Own Brand",2467.3
+2019,September,Prod272,"Own Brand",2397.2
+2019,September,Prod091,"Own Brand",2026.8
+2019,September,Prod278,"Distribution",1919.1
+2019,September,Prod269,"Own Brand",1670
+2019,September,Prod096,"Own Brand",1250.1
+2019,September,Prod223,"Own Brand",1187
+2019,September,Prod149,"Own Brand",1155.5
+2019,September,Prod159,"Distribution",1084.7
+2019,September,Prod254,"Own Brand",1079.4
+2019,September,Prod137,"Own Brand",1066.2
+2019,September,Prod102,"Own Brand",1013.9
+2019,September,Prod049,"Own Brand",968.7
+2019,September,Prod207,"Distribution",807.5
+2019,September,Prod238,"Own Brand",673.6
+2019,September,Prod103,"Own Brand",585.1
+2019,September,Prod231,"Own Brand",424.8
+2019,September,Prod060,"Own Brand",366.7
+2019,September,Prod166,"Own Brand",291.9
+2019,September,Prod052,"Own Brand",229
+2019,September,Prod274,"Own Brand",226.9
+2019,September,Prod205,"Distribution",182.7
+2019,September,Prod011,"Own Brand",174.8
+2019,September,Prod224,"Own Brand",157.4
+2019,September,Prod152,"Own Brand",155.9
+2019,September,Prod263,"Distribution",127.1
+2019,September,Prod039,"Own Brand",126.7
+2019,September,Prod138,"Own Brand",117.1
+2019,September,Prod120,"Distribution",112.7
+2019,September,Prod048,"Own Brand",85.5
+2019,September,Prod156,"Own Brand",45.2
+2019,September,Prod126,"Own Brand",22.4
+2019,September,Prod092,"Own Brand",0
+2019,September,Prod219,"Distribution",-8.6
+2019,September,Prod128,"Distribution",-9.9
+2019,September,Prod275,"Own Brand",-18.9
+2019,September,Prod220,"Distribution",-30
+2019,September,Prod118,"Distribution",-131.9
+2019,September,Prod273,"Own Brand",-138.5
+2019,September,Prod059,"Own Brand",-173.1
+2019,September,Prod134,"Own Brand",-200.2
+2019,September,Prod161,"Distribution",-222.8
+2019,September,Prod249,"Distribution",-267.9
+2019,September,Prod135,"Own Brand",-298.3
+2019,September,Prod119,"Distribution",-316.4
+2019,September,Prod279,"Distribution",-405.3
+2019,September,Prod208,"Own Brand",-453.3
+2019,September,Prod265,"Distribution",-472.2
+2019,September,Prod264,"Distribution",-519
+2019,September,Prod114,"Distribution",-542.7
+2019,September,Prod098,"Own Brand",-608.7
+2019,September,Prod241,"Own Brand",-647.3
+2019,September,Prod218,"Distribution",-658.3
+2019,September,Prod088,"Own Brand",-1031.1
+2019,September,Prod268,"Own Brand",-1084.7
+2019,September,Prod057,"Own Brand",-1256.9
+2019,September,Prod276,"Own Brand",-1288.5
+2019,September,Prod270,"Own Brand",-1326.8
+2019,September,Prod229,"Own Brand",-1492.4
+2019,September,Prod140,"Own Brand",-1930.1
+2019,September,Prod253,"Own Brand",-2082.3
+2019,September,Prod116,"Distribution",-2104.7
+2019,September,Prod242,"Own Brand",-2113.4
+2019,September,Prod210,"Own Brand",-2264.2
+2019,September,Prod089,"Own Brand",-2455.6
+2019,September,Prod250,"Distribution",-2495.6
+2019,September,Prod251,"Distribution",-2582.5
+2019,September,Prod056,"Own Brand",-2803.7
+2019,September,Prod243,"Own Brand",-2894.1
+2019,September,Prod215,"Own Brand",-3047.5
+2019,September,Prod132,"Distribution",-3990
+2019,September,Prod025,"Distribution",-7978.6
+2019,September,Prod047,"Own Brand",-9013.1
+2019,September,Prod123,"Own Brand",-10243.2
+2019,September,Prod212,"Own Brand",-11115.4
+2019,September,Prod271,"Own Brand",-13061.7
+2019,September,Prod227,"Own Brand",-13929.2
+2019,September,Prod237,"Distribution",-15800
+2019,September,Prod040,"Own Brand",-22436.1
+2019,September,Prod113,"Distribution",-28538.6
+2019,September,Prod206,"Distribution",-50148.9
+2020,April,Prod058,"Own Brand",59746
+2020,April,Prod215,"Own Brand",53822.4
+2020,April,Prod024,"Distribution",45136.8
+2020,April,Prod206,"Distribution",43907.7
+2020,April,Prod047,"Own Brand",32900.2
+2020,April,Prod232,"Own Brand",30728.4
+2020,April,Prod252,"Distribution",29182.6
+2020,April,Prod212,"Own Brand",28892.8
+2020,April,Prod159,"Distribution",27460.6
+2020,April,Prod243,"Own Brand",25061.3
+2020,April,Prod165,"Own Brand",21803.8
+2020,April,Prod059,"Own Brand",20991.2
+2020,April,Prod124,"Own Brand",13902.3
+2020,April,Prod018,"Own Brand",13889.2
+2020,April,Prod054,"Own Brand",13396.7
+2020,April,Prod210,"Own Brand",13279.8
+2020,April,Prod117,"Distribution",12887
+2020,April,Prod214,"Own Brand",12315
+2020,April,Prod127,"Own Brand",11847.3
+2020,April,Prod061,"Own Brand",11162.9
+2020,April,Prod025,"Distribution",10732.6
+2020,April,Prod053,"Own Brand",8224.5
+2020,April,Prod146,"Distribution",7390.4
+2020,April,Prod121,"Distribution",6851.6
+2020,April,Prod110,"Distribution",6333.6
+2020,April,Prod251,"Distribution",5368.5
+2020,April,Prod135,"Own Brand",4052.4
+2020,April,Prod241,"Own Brand",3882.5
+2020,April,Prod223,"Own Brand",3649.1
+2020,April,Prod258,"Own Brand",3487.4
+2020,April,Prod098,"Own Brand",3430.7
+2020,April,Prod147,"Distribution",3357.2
+2020,April,Prod102,"Own Brand",3291.8
+2020,April,Prod132,"Distribution",2835
+2020,April,Prod089,"Own Brand",2607.8
+2020,April,Prod055,"Own Brand",2542.2
+2020,April,Prod250,"Distribution",2444.6
+2020,April,Prod269,"Own Brand",2187.9
+2020,April,Prod270,"Own Brand",1350.6
+2020,April,Prod088,"Own Brand",1326.4
+2020,April,Prod272,"Own Brand",1307.2
+2020,April,Prod134,"Own Brand",988.5
+2020,April,Prod236,"Distribution",986.4
+2020,April,Prod103,"Own Brand",895.9
+2020,April,Prod266,"Distribution",857.6
+2020,April,Prod056,"Own Brand",719.2
+2020,April,Prod263,"Distribution",705.5
+2020,April,Prod242,"Own Brand",678.2
+2020,April,Prod005,"Own Brand",650.1
+2020,April,Prod161,"Distribution",565.1
+2020,April,Prod274,"Own Brand",500.4
+2020,April,Prod253,"Own Brand",497.9
+2020,April,Prod213,"Own Brand",381.5
+2020,April,Prod278,"Distribution",373.6
+2020,April,Prod275,"Own Brand",299.6
+2020,April,Prod152,"Own Brand",213.8
+2020,April,Prod167,"Own Brand",194.7
+2020,April,Prod219,"Distribution",102
+2020,April,Prod205,"Distribution",24.9
+2020,April,Prod149,"Own Brand",24.7
+2020,April,Prod162,"Distribution",16.8
+2020,April,Prod261,"Own Brand",10.9
+2020,April,Prod057,"Own Brand",10.3
+2020,April,Prod118,"Distribution",2.4
+2020,April,Prod207,"Distribution",-50.4
+2020,April,Prod216,"Own Brand",-138.2
+2020,April,Prod231,"Own Brand",-167.8
+2020,April,Prod273,"Own Brand",-171.8
+2020,April,Prod264,"Distribution",-174.5
+2020,April,Prod228,"Own Brand",-231.6
+2020,April,Prod279,"Distribution",-251.3
+2020,April,Prod276,"Own Brand",-274.1
+2020,April,Prod238,"Own Brand",-300.7
+2020,April,Prod208,"Own Brand",-314.9
+2020,April,Prod254,"Own Brand",-332.7
+2020,April,Prod255,"Own Brand",-527
+2020,April,Prod041,"Own Brand",-530.6
+2020,April,Prod249,"Distribution",-733.4
+2020,April,Prod137,"Own Brand",-931.1
+2020,April,Prod128,"Distribution",-989.6
+2020,April,Prod218,"Distribution",-1102.3
+2020,April,Prod257,"Own Brand",-1539.2
+2020,April,Prod267,"Distribution",-1791.9
+2020,April,Prod122,"Own Brand",-1991.6
+2020,April,Prod133,"Own Brand",-2087.6
+2020,April,Prod268,"Own Brand",-2259.4
+2020,April,Prod084,"Own Brand",-2297.2
+2020,April,Prod065,"Own Brand",-2503.1
+2020,April,Prod116,"Distribution",-2590.2
+2020,April,Prod042,"Own Brand",-2685.4
+2020,April,Prod083,"Own Brand",-2774.5
+2020,April,Prod090,"Own Brand",-2973
+2020,April,Prod113,"Distribution",-3132.3
+2020,April,Prod114,"Distribution",-3185.3
+2020,April,Prod227,"Own Brand",-3479.4
+2020,April,Prod085,"Own Brand",-3500
+2020,April,Prod168,"Own Brand",-3546.7
+2020,April,Prod091,"Own Brand",-3867.4
+2020,April,Prod237,"Distribution",-3974.5
+2020,April,Prod260,"Own Brand",-4279.8
+2020,April,Prod145,"Distribution",-4659.2
+2020,April,Prod262,"Own Brand",-4697.7
+2020,April,Prod220,"Distribution",-5102
+2020,April,Prod271,"Own Brand",-5538.9
+2020,April,Prod265,"Distribution",-5547.7
+2020,April,Prod221,"Distribution",-5599.8
+2020,April,Prod233,"Distribution",-6737.6
+2020,April,Prod150,"Own Brand",-9444.9
+2020,April,Prod129,"Distribution",-10543.1
+2020,April,Prod071,"Distribution",-11065.5
+2020,April,Prod092,"Own Brand",-12314
+2020,April,Prod244,"Own Brand",-12833.4
+2020,April,Prod106,"Own Brand",-16837.2
+2020,April,Prod209,"Own Brand",-17451.9
+2020,April,Prod040,"Own Brand",-17882.6
+2020,April,Prod131,"Distribution",-18633.1
+2020,April,Prod070,"Distribution",-28452.5
+2020,April,Prod234,"Distribution",-36805.2
+2020,April,Prod073,"Distribution",-369348.5
+2020,February,Prod047,"Own Brand",169621.2
+2020,February,Prod083,"Own Brand",157564.7
+2020,February,Prod070,"Distribution",118772.9
+2020,February,Prod159,"Distribution",34137.5
+2020,February,Prod131,"Distribution",29494.3
+2020,February,Prod090,"Own Brand",27774.6
+2020,February,Prod206,"Distribution",26948.1
+2020,February,Prod228,"Own Brand",25431.3
+2020,February,Prod061,"Own Brand",24351.4
+2020,February,Prod044,"Own Brand",23779.2
+2020,February,Prod209,"Own Brand",19353.1
+2020,February,Prod113,"Distribution",18122
+2020,February,Prod210,"Own Brand",16812.6
+2020,February,Prod232,"Own Brand",16802.1
+2020,February,Prod221,"Distribution",16484.6
+2020,February,Prod243,"Own Brand",16057.9
+2020,February,Prod054,"Own Brand",15706.5
+2020,February,Prod117,"Distribution",14699.4
+2020,February,Prod129,"Distribution",12537.3
+2020,February,Prod124,"Own Brand",10830.4
+2020,February,Prod150,"Own Brand",10288
+2020,February,Prod056,"Own Brand",9633.1
+2020,February,Prod214,"Own Brand",8075.6
+2020,February,Prod040,"Own Brand",7120.5
+2020,February,Prod121,"Distribution",7060.7
+2020,February,Prod165,"Own Brand",6419.6
+2020,February,Prod122,"Own Brand",5381
+2020,February,Prod127,"Own Brand",5119
+2020,February,Prod254,"Own Brand",4699.8
+2020,February,Prod018,"Own Brand",4587.2
+2020,February,Prod128,"Distribution",4501.3
+2020,February,Prod116,"Distribution",3897.6
+2020,February,Prod271,"Own Brand",3680.9
+2020,February,Prod241,"Own Brand",3615.8
+2020,February,Prod260,"Own Brand",3416.7
+2020,February,Prod166,"Own Brand",3289.6
+2020,February,Prod168,"Own Brand",3287.5
+2020,February,Prod267,"Distribution",2898.3
+2020,February,Prod255,"Own Brand",2785.8
+2020,February,Prod059,"Own Brand",2545.3
+2020,February,Prod218,"Distribution",2518.4
+2020,February,Prod268,"Own Brand",1972.2
+2020,February,Prod266,"Distribution",1948.7
+2020,February,Prod140,"Own Brand",1919.4
+2020,February,Prod041,"Own Brand",1669.5
+2020,February,Prod103,"Own Brand",1657.2
+2020,February,Prod269,"Own Brand",1388.4
+2020,February,Prod272,"Own Brand",1294.8
+2020,February,Prod042,"Own Brand",1156.2
+2020,February,Prod088,"Own Brand",928.3
+2020,February,Prod046,"Own Brand",920.1
+2020,February,Prod279,"Distribution",829.5
+2020,February,Prod098,"Own Brand",606.5
+2020,February,Prod236,"Distribution",533
+2020,February,Prod276,"Own Brand",391.7
+2020,February,Prod264,"Distribution",351.6
+2020,February,Prod205,"Distribution",233.3
+2020,February,Prod238,"Own Brand",184.6
+2020,February,Prod249,"Distribution",181.9
+2020,February,Prod275,"Own Brand",168.4
+2020,February,Prod223,"Own Brand",130.2
+2020,February,Prod208,"Own Brand",98.2
+2020,February,Prod219,"Distribution",85.7
+2020,February,Prod145,"Distribution",83.3
+2020,February,Prod005,"Own Brand",73.2
+2020,February,Prod252,"Distribution",60.4
+2020,February,Prod220,"Distribution",24.7
+2020,February,Prod134,"Own Brand",12.3
+2020,February,Prod147,"Distribution",2.4
+2020,February,Prod152,"Own Brand",1.6
+2020,February,Prod048,"Own Brand",0
+2020,February,Prod105,"Own Brand",-24
+2020,February,Prod118,"Distribution",-35
+2020,February,Prod263,"Distribution",-57.2
+2020,February,Prod270,"Own Brand",-92.6
+2020,February,Prod167,"Own Brand",-96.6
+2020,February,Prod051,"Own Brand",-119
+2020,February,Prod231,"Own Brand",-161.3
+2020,February,Prod278,"Distribution",-174.3
+2020,February,Prod265,"Distribution",-218
+2020,February,Prod273,"Own Brand",-248.7
+2020,February,Prod149,"Own Brand",-330.2
+2020,February,Prod250,"Distribution",-371.1
+2020,February,Prod199,"Own Brand",-440.5
+2020,February,Prod216,"Own Brand",-555
+2020,February,Prod162,"Distribution",-565.3
+2020,February,Prod262,"Own Brand",-567.5
+2020,February,Prod030,"Distribution",-756.9
+2020,February,Prod261,"Own Brand",-803
+2020,February,Prod274,"Own Brand",-818.6
+2020,February,Prod207,"Distribution",-919.3
+2020,February,Prod137,"Own Brand",-1037.1
+2020,February,Prod053,"Own Brand",-1122.1
+2020,February,Prod092,"Own Brand",-1141.1
+2020,February,Prod161,"Distribution",-1368.8
+2020,February,Prod102,"Own Brand",-1495.5
+2020,February,Prod114,"Distribution",-1533.5
+2020,February,Prod253,"Own Brand",-1565.2
+2020,February,Prod135,"Own Brand",-2156.8
+2020,February,Prod133,"Own Brand",-2509.6
+2020,February,Prod065,"Own Brand",-2564
+2020,February,Prod085,"Own Brand",-3111.1
+2020,February,Prod132,"Distribution",-3675
+2020,February,Prod025,"Distribution",-4404.6
+2020,February,Prod258,"Own Brand",-5013.1
+2020,February,Prod215,"Own Brand",-5045
+2020,February,Prod251,"Distribution",-5322.8
+2020,February,Prod244,"Own Brand",-7441.5
+2020,February,Prod141,"Own Brand",-7837.5
+2020,February,Prod213,"Own Brand",-10968.3
+2020,February,Prod106,"Own Brand",-14230.4
+2020,February,Prod227,"Own Brand",-19768.8
+2020,February,Prod058,"Own Brand",-20368
+2020,February,Prod110,"Distribution",-20675.6
+2020,February,Prod146,"Distribution",-25422.7
+2020,February,Prod024,"Distribution",-27332.8
+2020,February,Prod212,"Own Brand",-28496.9
+2020,February,Prod237,"Distribution",-29119.2
+2020,February,Prod089,"Own Brand",-30311.1
+2020,February,Prod071,"Distribution",-36083.3
+2020,February,Prod091,"Own Brand",-37731
+2020,February,Prod084,"Own Brand",-199833.3
+2020,January,Prod210,"Own Brand",70585.5
+2020,January,Prod061,"Own Brand",38279.1
+2020,January,Prod065,"Own Brand",28794.8
+2020,January,Prod159,"Distribution",25588.6
+2020,January,Prod124,"Own Brand",23258.2
+2020,January,Prod146,"Distribution",21944.5
+2020,January,Prod236,"Distribution",20787.4
+2020,January,Prod131,"Distribution",19749.8
+2020,January,Prod040,"Own Brand",17541.3
+2020,January,Prod271,"Own Brand",17344.7
+2020,January,Prod209,"Own Brand",16116.3
+2020,January,Prod216,"Own Brand",16082.4
+2020,January,Prod044,"Own Brand",14716
+2020,January,Prod165,"Own Brand",12135.7
+2020,January,Prod090,"Own Brand",11695
+2020,January,Prod132,"Distribution",9345
+2020,January,Prod252,"Distribution",8443.4
+2020,January,Prod168,"Own Brand",7667
+2020,January,Prod018,"Own Brand",7163.9
+2020,January,Prod114,"Distribution",7029.5
+2020,January,Prod089,"Own Brand",6955.5
+2020,January,Prod056,"Own Brand",5187.9
+2020,January,Prod042,"Own Brand",4206.4
+2020,January,Prod046,"Own Brand",4005.2
+2020,January,Prod227,"Own Brand",3998.3
+2020,January,Prod260,"Own Brand",3593.4
+2020,January,Prod213,"Own Brand",3541.6
+2020,January,Prod098,"Own Brand",3502.2
+2020,January,Prod251,"Distribution",3158.7
+2020,January,Prod257,"Own Brand",2777.2
+2020,January,Prod276,"Own Brand",2594.1
+2020,January,Prod119,"Distribution",2456.5
+2020,January,Prod243,"Own Brand",2282.6
+2020,January,Prod103,"Own Brand",2120.5
+2020,January,Prod161,"Distribution",1848.6
+2020,January,Prod253,"Own Brand",1822.5
+2020,January,Prod052,"Own Brand",1795.4
+2020,January,Prod255,"Own Brand",1728
+2020,January,Prod059,"Own Brand",1537
+2020,January,Prod149,"Own Brand",1444
+2020,January,Prod049,"Own Brand",1287.5
+2020,January,Prod045,"Own Brand",1202.9
+2020,January,Prod088,"Own Brand",1183.1
+2020,January,Prod135,"Own Brand",906.1
+2020,January,Prod206,"Distribution",875.4
+2020,January,Prod106,"Own Brand",860.7
+2020,January,Prod121,"Distribution",840.4
+2020,January,Prod208,"Own Brand",792.4
+2020,January,Prod269,"Own Brand",789.5
+2020,January,Prod264,"Distribution",745
+2020,January,Prod067,"Distribution",711
+2020,January,Prod102,"Own Brand",597.4
+2020,January,Prod278,"Distribution",586.1
+2020,January,Prod205,"Distribution",568.8
+2020,January,Prod041,"Own Brand",568.4
+2020,January,Prod053,"Own Brand",556.3
+2020,January,Prod025,"Distribution",499.8
+2020,January,Prod274,"Own Brand",340
+2020,January,Prod207,"Distribution",295.4
+2020,January,Prod275,"Own Brand",284
+2020,January,Prod105,"Own Brand",273.5
+2020,January,Prod051,"Own Brand",191.6
+2020,January,Prod279,"Distribution",187
+2020,January,Prod123,"Own Brand",174.2
+2020,January,Prod262,"Own Brand",173.7
+2020,January,Prod140,"Own Brand",151.8
+2020,January,Prod152,"Own Brand",139.2
+2020,January,Prod231,"Own Brand",109.7
+2020,January,Prod060,"Own Brand",107.1
+2020,January,Prod273,"Own Brand",93.2
+2020,January,Prod219,"Distribution",87.8
+2020,January,Prod137,"Own Brand",73.4
+2020,January,Prod118,"Distribution",41.7
+2020,January,Prod270,"Own Brand",32.3
+2020,January,Prod145,"Distribution",-5.8
+2020,January,Prod057,"Own Brand",-14.8
+2020,January,Prod005,"Own Brand",-147.3
+2020,January,Prod268,"Own Brand",-210.2
+2020,January,Prod250,"Distribution",-256.7
+2020,January,Prod201,"Own Brand",-274.2
+2020,January,Prod267,"Distribution",-302.1
+2020,January,Prod238,"Own Brand",-319.2
+2020,January,Prod128,"Distribution",-410.9
+2020,January,Prod266,"Distribution",-477
+2020,January,Prod263,"Distribution",-493.8
+2020,January,Prod199,"Own Brand",-510.2
+2020,January,Prod272,"Own Brand",-554.2
+2020,January,Prod218,"Distribution",-578.8
+2020,January,Prod134,"Own Brand",-764.6
+2020,January,Prod024,"Distribution",-886.7
+2020,January,Prod242,"Own Brand",-1020.6
+2020,January,Prod241,"Own Brand",-1577.1
+2020,January,Prod223,"Own Brand",-1586.9
+2020,January,Prod249,"Distribution",-1608.8
+2020,January,Prod091,"Own Brand",-1625.9
+2020,January,Prod265,"Distribution",-1950.2
+2020,January,Prod167,"Own Brand",-2062.5
+2020,January,Prod166,"Own Brand",-2919.7
+2020,January,Prod244,"Own Brand",-3036.3
+2020,January,Prod122,"Own Brand",-3418.7
+2020,January,Prod110,"Distribution",-4141
+2020,January,Prod150,"Own Brand",-4216.6
+2020,January,Prod258,"Own Brand",-5667
+2020,January,Prod261,"Own Brand",-5975.7
+2020,January,Prod133,"Own Brand",-6087.2
+2020,January,Prod129,"Distribution",-7636.6
+2020,January,Prod221,"Distribution",-7834.6
+2020,January,Prod254,"Own Brand",-8195.8
+2020,January,Prod113,"Distribution",-10205.2
+2020,January,Prod058,"Own Brand",-10419.3
+2020,January,Prod116,"Distribution",-10433.7
+2020,January,Prod117,"Distribution",-10624.9
+2020,January,Prod214,"Own Brand",-13862.6
+2020,January,Prod127,"Own Brand",-13930.2
+2020,January,Prod212,"Own Brand",-16537
+2020,January,Prod228,"Own Brand",-17714.2
+2020,January,Prod232,"Own Brand",-17769.4
+2020,January,Prod237,"Distribution",-17905.7
+2020,January,Prod054,"Own Brand",-19948.6
+2020,January,Prod047,"Own Brand",-25142.2
+2020,January,Prod215,"Own Brand",-36171.9
+2020,January,Prod220,"Distribution",-36919.7
+2020,June,Prod040,"Own Brand",38477.3
+2020,June,Prod234,"Distribution",38468.8
+2020,June,Prod220,"Distribution",37251.2
+2020,June,Prod206,"Distribution",33591.1
+2020,June,Prod071,"Distribution",26144.9
+2020,June,Prod213,"Own Brand",14325.1
+2020,June,Prod054,"Own Brand",13160
+2020,June,Prod070,"Distribution",12074.2
+2020,June,Prod127,"Own Brand",11537.3
+2020,June,Prod216,"Own Brand",11514.8
+2020,June,Prod227,"Own Brand",10284.2
+2020,June,Prod106,"Own Brand",9353.8
+2020,June,Prod121,"Distribution",9198.8
+2020,June,Prod271,"Own Brand",8486.5
+2020,June,Prod260,"Own Brand",8030.1
+2020,June,Prod061,"Own Brand",7002.8
+2020,June,Prod122,"Own Brand",5108.8
+2020,June,Prod262,"Own Brand",5039.1
+2020,June,Prod129,"Distribution",4756
+2020,June,Prod237,"Distribution",4714.2
+2020,June,Prod072,"Distribution",3978.4
+2020,June,Prod236,"Distribution",3407.5
+2020,June,Prod090,"Own Brand",3198.2
+2020,June,Prod255,"Own Brand",3176.7
+2020,June,Prod268,"Own Brand",3153
+2020,June,Prod265,"Distribution",2805.8
+2020,June,Prod212,"Own Brand",2554.9
+2020,June,Prod089,"Own Brand",2534
+2020,June,Prod110,"Distribution",2519.5
+2020,June,Prod254,"Own Brand",2388.5
+2020,June,Prod278,"Distribution",2227.3
+2020,June,Prod059,"Own Brand",2223
+2020,June,Prod167,"Own Brand",2138.3
+2020,June,Prod124,"Own Brand",2047
+2020,June,Prod269,"Own Brand",1639.8
+2020,June,Prod134,"Own Brand",1378.1
+2020,June,Prod041,"Own Brand",1304.1
+2020,June,Prod238,"Own Brand",1175.2
+2020,June,Prod241,"Own Brand",1094.2
+2020,June,Prod091,"Own Brand",1058
+2020,June,Prod208,"Own Brand",1011.4
+2020,June,Prod242,"Own Brand",976.4
+2020,June,Prod114,"Distribution",971
+2020,June,Prod045,"Own Brand",805.5
+2020,June,Prod140,"Own Brand",767.6
+2020,June,Prod098,"Own Brand",766.2
+2020,June,Prod053,"Own Brand",754.3
+2020,June,Prod214,"Own Brand",711.1
+2020,June,Prod250,"Distribution",695.6
+2020,June,Prod272,"Own Brand",645.6
+2020,June,Prod263,"Distribution",617.2
+2020,June,Prod275,"Own Brand",552.5
+2020,June,Prod207,"Distribution",526.8
+2020,June,Prod270,"Own Brand",524
+2020,June,Prod056,"Own Brand",435.4
+2020,June,Prod199,"Own Brand",433.3
+2020,June,Prod103,"Own Brand",332.8
+2020,June,Prod276,"Own Brand",316.5
+2020,June,Prod257,"Own Brand",288.8
+2020,June,Prod235,"Distribution",225.3
+2020,June,Prod120,"Distribution",224.3
+2020,June,Prod264,"Distribution",207.9
+2020,June,Prod215,"Own Brand",54.6
+2020,June,Prod219,"Distribution",38.8
+2020,June,Prod118,"Distribution",10
+2020,June,Prod221,"Distribution",3.4
+2020,June,Prod273,"Own Brand",-6.2
+2020,June,Prod137,"Own Brand",-10.7
+2020,June,Prod135,"Own Brand",-12
+2020,June,Prod274,"Own Brand",-34.6
+2020,June,Prod223,"Own Brand",-71.4
+2020,June,Prod218,"Distribution",-195.1
+2020,June,Prod161,"Distribution",-221.6
+2020,June,Prod011,"Own Brand",-257
+2020,June,Prod205,"Distribution",-266.9
+2020,June,Prod231,"Own Brand",-267.4
+2020,June,Prod133,"Own Brand",-334.9
+2020,June,Prod166,"Own Brand",-385.4
+2020,June,Prod266,"Distribution",-636.1
+2020,June,Prod249,"Distribution",-676.3
+2020,June,Prod252,"Distribution",-796.9
+2020,June,Prod131,"Distribution",-821.6
+2020,June,Prod279,"Distribution",-903.3
+2020,June,Prod228,"Own Brand",-931.7
+2020,June,Prod149,"Own Brand",-981.2
+2020,June,Prod065,"Own Brand",-1127.8
+2020,June,Prod165,"Own Brand",-1135.3
+2020,June,Prod092,"Own Brand",-1325.7
+2020,June,Prod232,"Own Brand",-1470.4
+2020,June,Prod128,"Distribution",-2587.1
+2020,June,Prod113,"Distribution",-2631.7
+2020,June,Prod055,"Own Brand",-3447
+2020,June,Prod243,"Own Brand",-4019.4
+2020,June,Prod147,"Distribution",-4040.6
+2020,June,Prod267,"Distribution",-4952.4
+2020,June,Prod117,"Distribution",-5058.5
+2020,June,Prod251,"Distribution",-5471.2
+2020,June,Prod018,"Own Brand",-5819.2
+2020,June,Prod244,"Own Brand",-5869.3
+2020,June,Prod145,"Distribution",-6192.7
+2020,June,Prod209,"Own Brand",-6443.9
+2020,June,Prod116,"Distribution",-6653.9
+2020,June,Prod042,"Own Brand",-7170.6
+2020,June,Prod146,"Distribution",-8385.2
+2020,June,Prod058,"Own Brand",-8521.7
+2020,June,Prod159,"Distribution",-10378
+2020,June,Prod025,"Distribution",-16131.3
+2020,June,Prod233,"Distribution",-16737
+2020,June,Prod102,"Own Brand",-18354.3
+2020,June,Prod024,"Distribution",-20005.7
+2020,June,Prod210,"Own Brand",-21105.5
+2020,June,Prod047,"Own Brand",-34800.6
+2020,March,Prod233,"Distribution",90537.6
+2020,March,Prod090,"Own Brand",54585
+2020,March,Prod083,"Own Brand",47752.3
+2020,March,Prod054,"Own Brand",46802
+2020,March,Prod102,"Own Brand",41330
+2020,March,Prod065,"Own Brand",40385.6
+2020,March,Prod165,"Own Brand",36904.4
+2020,March,Prod159,"Distribution",34730.1
+2020,March,Prod018,"Own Brand",33527.1
+2020,March,Prod219,"Distribution",32385.6
+2020,March,Prod244,"Own Brand",30029.8
+2020,March,Prod092,"Own Brand",30029.6
+2020,March,Prod237,"Distribution",29692.4
+2020,March,Prod129,"Distribution",25280.1
+2020,March,Prod071,"Distribution",24707.5
+2020,March,Prod113,"Distribution",23300.8
+2020,March,Prod121,"Distribution",23049.7
+2020,March,Prod206,"Distribution",21841.7
+2020,March,Prod061,"Own Brand",18594.2
+2020,March,Prod070,"Distribution",17706.5
+2020,March,Prod025,"Distribution",16860.8
+2020,March,Prod084,"Own Brand",15243.6
+2020,March,Prod127,"Own Brand",13478.1
+2020,March,Prod146,"Distribution",13437.6
+2020,March,Prod098,"Own Brand",12794.3
+2020,March,Prod132,"Distribution",12705
+2020,March,Prod106,"Own Brand",10296.7
+2020,March,Prod145,"Distribution",10035.5
+2020,March,Prod122,"Own Brand",9476.4
+2020,March,Prod260,"Own Brand",8920.5
+2020,March,Prod124,"Own Brand",8497
+2020,March,Prod131,"Distribution",8480.3
+2020,March,Prod209,"Own Brand",8387.8
+2020,March,Prod055,"Own Brand",8297.8
+2020,March,Prod254,"Own Brand",7973.7
+2020,March,Prod133,"Own Brand",7673.5
+2020,March,Prod214,"Own Brand",7606.8
+2020,March,Prod216,"Own Brand",6868
+2020,March,Prod258,"Own Brand",6320.8
+2020,March,Prod271,"Own Brand",4353.1
+2020,March,Prod252,"Distribution",4197.6
+2020,March,Prod041,"Own Brand",4148.6
+2020,March,Prod250,"Distribution",4143.8
+2020,March,Prod267,"Distribution",3461.2
+2020,March,Prod058,"Own Brand",3006.5
+2020,March,Prod228,"Own Brand",2844.8
+2020,March,Prod088,"Own Brand",2359.4
+2020,March,Prod279,"Distribution",2228.2
+2020,March,Prod134,"Own Brand",2158
+2020,March,Prod232,"Own Brand",1473.3
+2020,March,Prod255,"Own Brand",1458.3
+2020,March,Prod223,"Own Brand",1270.5
+2020,March,Prod263,"Distribution",1160.2
+2020,March,Prod249,"Distribution",1145
+2020,March,Prod168,"Own Brand",1105.4
+2020,March,Prod114,"Distribution",1025.9
+2020,March,Prod137,"Own Brand",983.2
+2020,March,Prod057,"Own Brand",944.1
+2020,March,Prod149,"Own Brand",931.5
+2020,March,Prod056,"Own Brand",928.2
+2020,March,Prod268,"Own Brand",739
+2020,March,Prod278,"Distribution",679.8
+2020,March,Prod091,"Own Brand",619.6
+2020,March,Prod241,"Own Brand",527.1
+2020,March,Prod053,"Own Brand",472.6
+2020,March,Prod266,"Distribution",454.7
+2020,March,Prod205,"Distribution",449.1
+2020,March,Prod147,"Distribution",434.3
+2020,March,Prod042,"Own Brand",384.8
+2020,March,Prod242,"Own Brand",370.5
+2020,March,Prod238,"Own Brand",362.6
+2020,March,Prod060,"Own Brand",362.1
+2020,March,Prod005,"Own Brand",353.4
+2020,March,Prod270,"Own Brand",286
+2020,March,Prod166,"Own Brand",260.7
+2020,March,Prod152,"Own Brand",233.3
+2020,March,Prod231,"Own Brand",225.4
+2020,March,Prod264,"Distribution",225.1
+2020,March,Prod273,"Own Brand",204
+2020,March,Prod276,"Own Brand",115.4
+2020,March,Prod118,"Distribution",105
+2020,March,Prod269,"Own Brand",44.3
+2020,March,Prod167,"Own Brand",28.4
+2020,March,Prod162,"Distribution",4.6
+2020,March,Prod261,"Own Brand",0.7
+2020,March,Prod274,"Own Brand",-12.3
+2020,March,Prod199,"Own Brand",-23
+2020,March,Prod182,"Own Brand",-25.8
+2020,March,Prod275,"Own Brand",-69.9
+2020,March,Prod208,"Own Brand",-105.6
+2020,March,Prod140,"Own Brand",-131.8
+2020,March,Prod207,"Distribution",-250.4
+2020,March,Prod257,"Own Brand",-433.1
+2020,March,Prod262,"Own Brand",-682.7
+2020,March,Prod103,"Own Brand",-819
+2020,March,Prod213,"Own Brand",-988.4
+2020,March,Prod161,"Distribution",-1098.2
+2020,March,Prod253,"Own Brand",-1134.5
+2020,March,Prod236,"Distribution",-1154.6
+2020,March,Prod218,"Distribution",-1399.8
+2020,March,Prod059,"Own Brand",-1834.3
+2020,March,Prod251,"Distribution",-2088.8
+2020,March,Prod265,"Distribution",-2155.8
+2020,March,Prod150,"Own Brand",-2361.2
+2020,March,Prod110,"Distribution",-2819.2
+2020,March,Prod135,"Own Brand",-3391
+2020,March,Prod128,"Distribution",-3479.2
+2020,March,Prod116,"Distribution",-4969.7
+2020,March,Prod040,"Own Brand",-5271.3
+2020,March,Prod210,"Own Brand",-5601.7
+2020,March,Prod117,"Distribution",-6477.2
+2020,March,Prod212,"Own Brand",-8882.4
+2020,March,Prod227,"Own Brand",-9103.1
+2020,March,Prod243,"Own Brand",-14100.7
+2020,March,Prod024,"Distribution",-15510
+2020,March,Prod221,"Distribution",-16101.9
+2020,March,Prod220,"Distribution",-20124.8
+2020,March,Prod215,"Own Brand",-20439.6
+2020,March,Prod047,"Own Brand",-21604.4
+2020,March,Prod234,"Distribution",-29168.2
+2020,March,Prod089,"Own Brand",-30398
+2020,March,Prod224,"Own Brand",-37455.6
+2020,March,Prod046,"Own Brand",-40828.2
+2020,March,Prod044,"Own Brand",-56188.4
+2020,May,Prod215,"Own Brand",75356.8
+2020,May,Prod146,"Distribution",62320.5
+2020,May,Prod047,"Own Brand",55539.4
+2020,May,Prod214,"Own Brand",43204.1
+2020,May,Prod054,"Own Brand",37549
+2020,May,Prod061,"Own Brand",33220.2
+2020,May,Prod058,"Own Brand",32490.1
+2020,May,Prod070,"Distribution",31573.9
+2020,May,Prod206,"Distribution",31432.4
+2020,May,Prod209,"Own Brand",30500.4
+2020,May,Prod210,"Own Brand",28030.8
+2020,May,Prod233,"Distribution",23607.3
+2020,May,Prod131,"Distribution",23070.5
+2020,May,Prod159,"Distribution",19382.8
+2020,May,Prod237,"Distribution",16036.1
+2020,May,Prod236,"Distribution",11630.4
+2020,May,Prod092,"Own Brand",9839.7
+2020,May,Prod121,"Distribution",8611.2
+2020,May,Prod227,"Own Brand",7845.6
+2020,May,Prod165,"Own Brand",7833.7
+2020,May,Prod260,"Own Brand",5835.2
+2020,May,Prod244,"Own Brand",5773.2
+2020,May,Prod234,"Distribution",5618.7
+2020,May,Prod254,"Own Brand",5039.8
+2020,May,Prod271,"Own Brand",4201.3
+2020,May,Prod129,"Distribution",3635.4
+2020,May,Prod110,"Distribution",3628.2
+2020,May,Prod065,"Own Brand",3286
+2020,May,Prod167,"Own Brand",3246.2
+2020,May,Prod258,"Own Brand",2833.5
+2020,May,Prod055,"Own Brand",2760.7
+2020,May,Prod090,"Own Brand",2464
+2020,May,Prod241,"Own Brand",2189.5
+2020,May,Prod053,"Own Brand",2032.2
+2020,May,Prod219,"Distribution",1811.7
+2020,May,Prod091,"Own Brand",1544.6
+2020,May,Prod249,"Distribution",1522.6
+2020,May,Prod265,"Distribution",1502.4
+2020,May,Prod263,"Distribution",1315.1
+2020,May,Prod124,"Own Brand",868.5
+2020,May,Prod243,"Own Brand",840.6
+2020,May,Prod266,"Distribution",809.4
+2020,May,Prod207,"Distribution",772.7
+2020,May,Prod025,"Distribution",712.7
+2020,May,Prod149,"Own Brand",709.2
+2020,May,Prod133,"Own Brand",639.8
+2020,May,Prod220,"Distribution",638.7
+2020,May,Prod221,"Distribution",577.2
+2020,May,Prod228,"Own Brand",565.4
+2020,May,Prod279,"Distribution",479.1
+2020,May,Prod127,"Own Brand",446.6
+2020,May,Prod046,"Own Brand",443.7
+2020,May,Prod278,"Distribution",435.6
+2020,May,Prod270,"Own Brand",350.4
+2020,May,Prod257,"Own Brand",288.6
+2020,May,Prod269,"Own Brand",264.1
+2020,May,Prod251,"Distribution",248.9
+2020,May,Prod045,"Own Brand",201.4
+2020,May,Prod005,"Own Brand",174.2
+2020,May,Prod103,"Own Brand",140.5
+2020,May,Prod264,"Distribution",75.9
+2020,May,Prod151,"Own Brand",56.8
+2020,May,Prod238,"Own Brand",55.3
+2020,May,Prod231,"Own Brand",53.3
+2020,May,Prod089,"Own Brand",8.8
+2020,May,Prod274,"Own Brand",-26.1
+2020,May,Prod140,"Own Brand",-32.6
+2020,May,Prod024,"Distribution",-71.2
+2020,May,Prod232,"Own Brand",-74.3
+2020,May,Prod204,"Distribution",-102.2
+2020,May,Prod253,"Own Brand",-128.3
+2020,May,Prod275,"Own Brand",-162.3
+2020,May,Prod118,"Distribution",-165.8
+2020,May,Prod218,"Distribution",-179.7
+2020,May,Prod042,"Own Brand",-256.8
+2020,May,Prod250,"Distribution",-290.1
+2020,May,Prod205,"Distribution",-387.1
+2020,May,Prod223,"Own Brand",-388.2
+2020,May,Prod161,"Distribution",-393.4
+2020,May,Prod208,"Own Brand",-429.2
+2020,May,Prod122,"Own Brand",-458.4
+2020,May,Prod113,"Distribution",-596.5
+2020,May,Prod114,"Distribution",-600.5
+2020,May,Prod273,"Own Brand",-623.3
+2020,May,Prod116,"Distribution",-625.8
+2020,May,Prod117,"Distribution",-858.3
+2020,May,Prod135,"Own Brand",-887.5
+2020,May,Prod170,"Own Brand",-1219.9
+2020,May,Prod276,"Own Brand",-1233.6
+2020,May,Prod255,"Own Brand",-1460.3
+2020,May,Prod059,"Own Brand",-1796.3
+2020,May,Prod134,"Own Brand",-2000.5
+2020,May,Prod268,"Own Brand",-2015.5
+2020,May,Prod252,"Distribution",-2189.6
+2020,May,Prod084,"Own Brand",-3013.8
+2020,May,Prod041,"Own Brand",-3295.7
+2020,May,Prod137,"Own Brand",-4100.3
+2020,May,Prod098,"Own Brand",-4233.2
+2020,May,Prod145,"Distribution",-4417.8
+2020,May,Prod128,"Distribution",-5281.2
+2020,May,Prod267,"Distribution",-5828.2
+2020,May,Prod216,"Own Brand",-6213.6
+2020,May,Prod147,"Distribution",-7004.7
+2020,May,Prod150,"Own Brand",-8432.8
+2020,May,Prod212,"Own Brand",-11028.8
+2020,May,Prod213,"Own Brand",-12590
+2020,May,Prod132,"Distribution",-14385
+2020,May,Prod262,"Own Brand",-14832.1
+2020,May,Prod106,"Own Brand",-20815.1
+2020,May,Prod040,"Own Brand",-38229.9
+2020,May,Prod102,"Own Brand",-39322.4
+2020,May,Prod071,"Distribution",-53358.2
+2020,May,Prod072,"Distribution",-56399.4
+2020,May,Prod018,"Own Brand",-76958.3
