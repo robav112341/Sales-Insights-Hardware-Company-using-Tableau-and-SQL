@@ -63,3 +63,178 @@ In order to provide a comprehensive view of the sales data, I decided to develop
 <p  align="center"><a href="https://public.tableau.com/views/ProfitAnalysis_16988364274580/ProfitDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/Tableau%20Files/Profit%20Dashboard.jpg" /></a></p>
 
 ## MySql Appendix
+
+### Revenue Queries:
+
+#### Revenue by year/month :
+
+```sql
+SELECT 
+	order_date,
+    YEAR(order_date) AS year,
+    MONTHNAME(order_date) AS month,
+    SUM(CASE
+        WHEN currency = 'USD' THEN sales_amount * 83
+        ELSE sales_amount
+    END) AS revenue,
+    SUM(sales_qty) AS products
+FROM
+    transactions
+GROUP BY 2 , 3
+ORDER BY 2 , 3;
+```
+
+#### Revenue By Year, Months And Markets:
+
+```sql
+SELECT 
+	order_date,
+    YEAR(t.order_date) AS year,
+    MONTHNAME(t.order_date) AS month,
+    markets_name,
+    SUM(CASE
+        WHEN t.currency = 'USD' THEN t.sales_amount * 83
+        ELSE t.sales_amount
+    END) AS revenue,
+    SUM(t.sales_qty) AS products
+FROM
+    transactions t
+        JOIN
+    markets m ON t.market_code = m.markets_code
+GROUP BY 2 , 3 , 4
+ORDER BY 2 , 3 , 4;
+```
+
+#### Revenue By Year, Month And Customer Names :
+
+```sql
+SELECT 
+	order_date,
+    YEAR(t.order_date) AS year,
+    MONTHNAME(t.order_date) AS month,
+    c.custmer_name,
+    SUM(t.sales_amount) AS revenue,
+    SUM(t.sales_qty) AS products
+FROM
+    transactions t
+        JOIN
+    customers c ON t.customer_code = c.customer_code
+GROUP BY 2 , 3 , 4
+ORDER BY 2 , 3 , 4;
+```
+
+#### Revenue By Year, Month, Product_id:
+
+```sql
+SELECT 
+	order_date,
+    YEAR(t.order_date) AS year,
+    MONTHNAME(t.order_date) AS month,
+    t.product_code,
+    p.product_type,
+    SUM(t.sales_amount) AS revenue,
+    SUM(t.sales_qty) AS products
+FROM
+    transactions t
+        JOIN
+    products p ON t.product_code = p.product_code
+GROUP BY 2 , 3 , 4
+ORDER BY 2 , 3 , 4;
+```
+
+### Profit Queries:
+
+#### Profit by year/month :
+
+```sql
+ELECT 
+    order_date,
+    YEAR(order_date) AS year,
+    MONTHNAME(order_date) AS month,
+    ROUND(SUM(CASE
+                WHEN currency = 'USD' THEN profit_margin * 83
+                ELSE profit_margin
+            END),
+            1) AS net_profit,
+    ROUND((SUM(CASE
+                WHEN currency = 'USD' THEN profit_margin * 83
+                ELSE profit_margin
+            END)) / (SUM(CASE
+                WHEN currency = 'USD' THEN sales_amount * 83
+                ELSE sales_amount
+            END)) * 100,
+            3) AS profit_margin_percentage
+FROM
+    transactions
+GROUP BY 2 , 3
+ORDER BY 2 , 3;
+```
+
+#### Profit By Year, Months And Markets:
+
+```sql
+SELECT 
+    YEAR(order_date) AS year,
+    MONTHNAME(order_date) AS month,
+    m.markets_name,
+    ROUND(SUM(CASE
+                WHEN t.currency = 'USD' THEN t.profit_margin * 83
+                ELSE t.profit_margin
+            END),
+            1) AS revenue,
+	ROUND((SUM(CASE
+                WHEN t.currency = 'USD' THEN t.profit_margin * 83
+                ELSE t.profit_margin
+            END)) / (SUM(CASE
+                WHEN t.currency = 'USD' THEN t.sales_amount * 83
+                ELSE t.sales_amount
+            END)) * 100,
+            3) AS profit_margin_percentage
+FROM
+    transactions t
+        JOIN
+    markets m ON t.market_code = m.markets_code
+GROUP BY 1 , 2 , 3 
+ORDER BY 1 , 2 ASC , 4 DESC;
+```
+
+#### Profit By Year, Month And Customer Names :
+
+```sql
+SELECT 
+    YEAR(order_date) AS year,
+    MONTHNAME(order_date) AS month,
+    c.custmer_name,
+    ROUND(SUM(CASE
+                WHEN t.currency = 'USD' THEN t.profit_margin * 83
+                ELSE t.profit_margin
+            END),
+            1) AS revenue
+FROM
+    transactions t
+        JOIN
+    customers c ON t.customer_code = c.customer_code
+GROUP BY 1 , 2 , 3
+ORDER BY 1 , 2 ASC , 4 DESC;
+```
+
+#### Revenue By Year, Month, Product_id:
+
+```sql
+SELECT 
+    YEAR(order_date) AS year,
+    MONTHNAME(order_date) AS month,
+    t.product_code,
+    p.product_type,
+    ROUND(SUM(CASE
+                WHEN t.currency = 'USD' THEN t.profit_margin * 83
+                ELSE t.profit_margin
+            END),
+            1) AS revenue
+FROM
+    transactions t
+        JOIN
+    products p ON t.product_code = p.product_code
+GROUP BY 1 , 2 , 3
+ORDER BY 1 , 2 ASC , 5 DESC;
+```
