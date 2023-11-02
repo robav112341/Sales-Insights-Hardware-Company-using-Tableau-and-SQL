@@ -8,6 +8,13 @@
 
 - Development of a Tableau dashboard to perform analysis and produce quantitative visualizations to give valuable insights based on different parameters affecting the company's performance. 
 
+## 📚 Table of Contents
+- [Technologies used](#technologies-used)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Setup Process](#setup-process)
+- [Data Analysis Using Tableau](#data-analysis-using-tableau)
+- [MySql Appendix](#mysql-appendix)
+
 ## Technologies used ⚙️
 
 * <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/> </a> 
@@ -49,3 +56,5 @@ In order to provide a comprehensive view of the sales data, I decided to develop
 #### Profit Dashboard 
 
 <p  align="center"><a href="https://public.tableau.com/views/ProfitAnalysis_16988364274580/ProfitDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/Tableau%20Files/Profit%20Dashboard.jpg" /></a></p>
+
+## MySql Appendix
