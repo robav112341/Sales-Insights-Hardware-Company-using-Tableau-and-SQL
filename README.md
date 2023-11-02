@@ -8,6 +8,8 @@
 
 - Development of a Tableau dashboard to perform analysis and produce quantitative visualizations to give valuable insights based on different parameters affecting the company's performance. 
 
+- Source  : https://www.youtube.com/watch?v=6BLY1IfV-1M&ab_channel=codebasics
+
 ## 📚 Table of Contents
 - [Technologies used ](#technologies-used)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
