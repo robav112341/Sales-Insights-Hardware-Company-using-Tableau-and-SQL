@@ -9,8 +9,9 @@
 - Development of a Tableau dashboard to perform analysis and produce quantitative visualizations to give valuable insights based on different parameters affecting the company's performance. 
 
 ## 📚 Table of Contents
-- [Technologies used](#technologies-used)
+- [Technologies used](#technologies-used-⚙️)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Instructions](#instructions-📜)
 - [Setup Process](#setup-process)
 - [Data Analysis Using Tableau](#data-analysis-using-tableau)
 - [MySql Appendix](#mysql-appendix)
