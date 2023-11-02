@@ -11,7 +11,7 @@
 ## 📚 Table of Contents
 - [Technologies used](#technologies-used-⚙️)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Instructions](#instructions-📜)
+- [Instructions](#instructions)
 - [Setup Process](#setup-process)
 - [Data Analysis Using Tableau](#data-analysis-using-tableau)
 - [MySql Appendix](#mysql-appendix)
