@@ -44,6 +44,6 @@ In order to provide a comprehensive view of the sales data, I decided to develop
 
 #### Revenue Dashboard 
 
-<p  align="center"><a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/views/RevenueAnalysis_16988522446180/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/Tableau%20Files/Revenue%20Analysis.jpg" /></a></p>
 
 #### Profit Dashboard 
