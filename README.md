@@ -16,7 +16,7 @@
 - [Data Analysis Using Tableau](#data-analysis-using-tableau)
 - [MySql Appendix](#mysql-appendix)
 
-## 📚 Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![image](https://raw.githubusercontent.com/robav112341/Sales-Insights-Hardware-Company-using-Tableau-and-SQL/main/India%20based%20hardware%20company/ERD.png)
 
