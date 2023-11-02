@@ -9,20 +9,20 @@
 - Development of a Tableau dashboard to perform analysis and produce quantitative visualizations to give valuable insights based on different parameters affecting the company's performance. 
 
 ## 📚 Table of Contents
-- [Technologies used ⚙️](#technologies-used-⚙️)
+- [Technologies used ](#technologies-used)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Instructions 📜](#instructions📜)
+- [Instructions](#instructions)
 - [Setup Process](#setup-process)
 - [Data Analysis Using Tableau](#data-analysis-using-tableau)
 - [MySql Appendix](#mysql-appendix)
 
-## Technologies used ⚙️
+## Technologies used 
 
 * <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/> </a> 
 
 * <a href="https://public.tableau.com/app/profile/mrankitgupta">Tableau</a><a href="https://public.tableau.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="45" height="30"/> </a> 
 
-## Instructions 📜
+## Instructions 
 
 Sales director is keen on evaluating the company's performance using various key factors.
 
